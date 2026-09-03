@@ -1,21 +1,12 @@
 export const domains = [
   {
-    id: 'test',
-    zh: { title: '測試題目', subtitle: '用於驗證案例流程與作答紀錄', tags: ['測試', '案例流程'] },
-    en: { title: 'Test Case', subtitle: 'Verify the case flow and answer records', tags: ['Test', 'Case Flow'] },
-    icon: '🧪',
-    color: 'amber',
-    cases: [
-      { id: 'ear_test_case', zh: '測試案例：耳痛與聽力變化', en: 'Test Case: Ear Pain and Hearing Change' },
-    ],
-  },
-  {
     id: 'ear',
     zh: { title: '耳科', subtitle: '前庭、聽力與中耳疾病', tags: ['眩暈', '聽力損失', '中耳炎', '前庭功能'] },
     en: { title: 'Otology', subtitle: 'Vestibular, hearing, and middle ear disorders', tags: ['Vertigo', 'Hearing Loss', 'Otitis', 'Vestibular'] },
     icon: '👂',
     color: 'amber',
     cases: [
+      { id: 'orbit_graves_orbitopathy', zh: 'The Proptotic Orbit: Anchoring and the Asymmetric Eye', en: 'The Proptotic Orbit: Anchoring and the Asymmetric Eye' },
       { id: 'ear_menieres_disease', zh: '天旋地轉與低鳴的浪潮', en: 'The Waves of Vertigo' },
       { id: 'ear_sudden_hearing_loss', zh: '世界突然安靜', en: 'The Silent World' },
       { id: 'ear_pulsatile_tinnitus', zh: '搏動的雜訊與耳悶之謎', en: 'The Pulsating Noise & Blocked Ears' },

@@ -30,13 +30,13 @@ import throatRecurrentTonsillitisZh from './throat_recurrent_tonsillitis/throat_
 import throatRecurrentTonsillitisEn from './throat_recurrent_tonsillitis/throat_recurrent_tonsillitis.en.json';
 import throatLudwigsAnginaAirwayZh from './throat_ludwigs_angina_airway/throat_ludwigs_angina_airway.zh.json';
 import throatLudwigsAnginaAirwayEn from './throat_ludwigs_angina_airway/throat_ludwigs_angina_airway.en.json';
-import earTestCaseZh from './ear_test_case/ear_test_case.zh.json';
-import earTestCaseEn from './ear_test_case/ear_test_case.en.json';
+import orbitGravesOrbitopathyZh from './orbit_graves_orbitopathy/orbit_graves_orbitopathy.zh.json';
+import orbitGravesOrbitopathyEn from './orbit_graves_orbitopathy/orbit_graves_orbitopathy.en.json';
 
 export const defaultCaseId = 'ear_vestibular_neuritis';
 
 export const caseIds = [
-  'ear_test_case',
+  'orbit_graves_orbitopathy',
   'ear_vestibular_neuritis',
   'ear_menieres_disease',
   'ear_sudden_hearing_loss',
@@ -57,7 +57,7 @@ export const caseIds = [
 
 const contentByLang = {
   zh: {
-    ear_test_case: earTestCaseZh,
+    orbit_graves_orbitopathy: orbitGravesOrbitopathyZh,
     ear_vestibular_neuritis: earVestibularNeuritisZh,
     ear_menieres_disease: earMenieresDiseaseZh,
     ear_sudden_hearing_loss: earSuddenHearingLossZh,
@@ -76,7 +76,7 @@ const contentByLang = {
     throat_ludwigs_angina_airway: throatLudwigsAnginaAirwayZh,
   },
   en: {
-    ear_test_case: earTestCaseEn,
+    orbit_graves_orbitopathy: orbitGravesOrbitopathyEn,
     ear_vestibular_neuritis: earVestibularNeuritisEn,
     ear_menieres_disease: earMenieresDiseaseEn,
     ear_sudden_hearing_loss: earSuddenHearingLossEn,
