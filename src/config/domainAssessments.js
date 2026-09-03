@@ -64,6 +64,24 @@ const questionBank = {
 };
 
 export const domainAssessments = {
+  test: {
+    preTest: {
+      id: 'test_pretest_v1',
+      zh: { title: '測試題目前測', subtitle: '完成前測後即可進入測試案例。' },
+      en: { title: 'Test Case Pre-test', subtitle: 'Complete this pre-test to unlock the test case.' },
+      questions: [
+        mcq({ id: 'test-domain-pre-1', prompt: '病人有耳痛與聽力下降時，第一步最適合確認哪項資訊？', options: ['症狀發生的時間與變化', '直接安排手術', '先忽略耳部症狀'], answer: 'A', explanation: '先釐清症狀的時間軸，有助於建立鑑別診斷。' }),
+      ],
+    },
+    postTest: {
+      id: 'test_posttest_v1',
+      zh: { title: '測試題目後測', subtitle: '完成測試案例後即可進行後測。' },
+      en: { title: 'Test Case Post-test', subtitle: 'Take this post-test after finishing the test case.' },
+      questions: [
+        mcq({ id: 'test-domain-post-1', prompt: '完成案例評估後，最合理的下一步是什麼？', options: ['根據病史、理學檢查與檢查結果安排後續處置', '完全不記錄評估結果', '忽略病人的主要症狀'], answer: 'A', explanation: '整合所有資料後再安排處置，是基本的臨床推理流程。' }),
+      ],
+    },
+  },
   ear: {
     preTest: {
       id: 'ear_pretest_v2',

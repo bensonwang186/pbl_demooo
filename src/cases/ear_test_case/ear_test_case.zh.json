@@ -1,0 +1,137 @@
+{
+  "id": "ear_test_case",
+  "title": "測試案例：耳痛與聽力變化",
+  "subtitle": "用於測試案例流程與作答紀錄",
+  "coverDescription": "這是一個測試用案例，用來確認登入後的案例入口、前測、臨床推理與後測流程。\n\n學習目標：練習從耳痛與聽力變化整理初步鑑別診斷。",
+  "estimatedTime": "5–10 分鐘",
+  "difficulty": "入門",
+  "tags": ["測試", "耳科", "臨床推理"],
+  "preTest": {
+    "title": "前測",
+    "instructions": "請先回答這道測試題。",
+    "questions": [
+      {
+        "id": "test-pre-q1",
+        "type": "multiple-choice",
+        "text": "病人有耳痛與聽力下降時，第一步最適合確認哪項資訊？",
+        "options": [
+          { "id": "A", "text": "症狀發生的時間與變化", "correct": true },
+          { "id": "B", "text": "直接安排手術" },
+          { "id": "C", "text": "先忽略耳部症狀" }
+        ],
+        "explanation": "先釐清症狀的時間軸，有助於建立鑑別診斷。"
+      }
+    ]
+  },
+  "chiefComplaint": {
+    "slides": [
+      {
+        "slideIndex": 1,
+        "type": "narrative",
+        "content": "一位 28 歲病人因右耳疼痛與輕微聽力下降前來就診，症狀已持續兩天。"
+      },
+      {
+        "slideIndex": 2,
+        "type": "history-taking",
+        "title": "病史詢問",
+        "instruction": "請整理需要進一步確認的病史。",
+        "questionsAndRationales": [
+          {
+            "question": "是否有發燒、耳漏或近期游泳？",
+            "rationale": "協助區分感染與外耳道相關問題。"
+          }
+        ]
+      }
+    ]
+  },
+  "physicalExam": {
+    "title": "理學檢查",
+    "videoPlaceholder": {
+      "label": "耳鏡檢查影片",
+      "note": "測試案例影片佔位。",
+      "filename": "test-otoscopy.mp4",
+      "aspectRatio": "16 / 9"
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "name": "耳廓與耳道",
+        "description": "檢查耳廓、耳道是否有紅腫、分泌物或壓痛。"
+      }
+    ],
+    "clinicalDecision": {
+      "question": "完成初步檢查後，下一步應做什麼？",
+      "reasoning": "先整合病史與理學檢查結果，再決定是否需要進一步檢查。",
+      "answer": "整理病史與檢查結果"
+    }
+  },
+  "workup": {
+    "title": "檢查判讀",
+    "investigations": [
+      {
+        "id": "pta",
+        "name": "純音聽力檢查",
+        "image": "test-pta.png",
+        "aspectRatio": "4 / 3",
+        "question": "是否需要確認聽力變化？",
+        "answer": "需要，聽力檢查可協助客觀評估聽力狀態。"
+      }
+    ]
+  },
+  "management": {
+    "title": "處置計畫",
+    "clinicalDecisionTree": [
+      {
+        "stage": "初步處置",
+        "options": [
+          {
+            "id": "A",
+            "text": "依病史與檢查結果安排後續評估。",
+            "feedback": "正確。測試案例流程可以繼續。",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "不問病史便直接結束評估。",
+            "feedback": "請先完成基本評估。",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  "interactive": {
+    "instructions": "請用一句話描述你的初步臨床推理。",
+    "questions": [
+      {
+        "id": "test-interactive-q1",
+        "type": "text-input",
+        "text": "本案例最先需要確認哪些資訊？",
+        "keywords": ["時間", "耳痛", "聽力"],
+        "hint": "請從症狀時間軸與主要症狀開始。",
+        "feedbackTemplate": {
+          "excellent": "回答完整，已掌握測試案例的重點。",
+          "good": "方向正確，請再補充症狀時間軸。",
+          "hint": "請提到耳痛、聽力與症狀發生時間。"
+        }
+      }
+    ]
+  },
+  "postTest": {
+    "title": "後測",
+    "instructions": "完成案例後，請回答這道測試題。",
+    "questions": [
+      {
+        "id": "test-post-q1",
+        "type": "multiple-choice",
+        "text": "完成案例評估後，最合理的下一步是什麼？",
+        "options": [
+          { "id": "A", "text": "根據病史、理學檢查與檢查結果安排後續處置", "correct": true },
+          { "id": "B", "text": "完全不記錄評估結果" },
+          { "id": "C", "text": "忽略病人的主要症狀" }
+        ],
+        "explanation": "整合所有資料後再安排處置，是基本的臨床推理流程。"
+      }
+    ]
+  }
+}
