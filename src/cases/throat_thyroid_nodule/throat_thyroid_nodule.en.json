@@ -1,148 +1,278 @@
 {
   "id": "throat_thyroid_nodule",
-  "title": "The Hidden Nodule: Precision Evaluation",
-  "subtitle": "Risk assessment and surgical decision-making for thyroid nodules",
-  "description": "Initial TSH evaluation, malignant ultrasound features, FNA technique, molecular testing, 2025 ATA surgical extent, and prophylactic neck dissection decisions.",
-  "estimatedTime": "20-30 min",
+  "title": "The Hidden Nodule: Knowing When to Stop",
+  "subtitle": "Risk stratification and de-escalation in an incidental thyroid nodule",
+  "description": "Which test decides whether biopsy is needed at all, ranking sonographic patterns, size thresholds that follow from pattern, FNA technique, indeterminate cytology, what a molecular test can and cannot tell you, the 2025 ATA surgical extent, and why common occult disease still does not justify prophylactic dissection.",
+  "estimatedTime": "25-35 min",
   "difficulty": "Intermediate",
   "tags": [
-    "Laryngology",
+    "Head and Neck",
     "Thyroid nodule",
     "FNA",
-    "ATA"
+    "ATA 2025",
+    "More-is-better bias",
+    "Base-rate neglect"
   ],
   "steps": [
     {
-      "title": "Step 1/6: Incidental Nodule and Initial Workup",
-      "scenario": "A 45-year-old woman is found to have a 1.8 cm right thyroid nodule incidentally on neck ultrasound during an employee health check. She has no dysphagia, hoarseness, or neck pain. She brings the report to your clinic for consultation.",
-      "media": "Load image: Outpatient physician palpating the thyroid",
-      "question": "For a clinically suspected or incidentally imaged thyroid nodule, in addition to dedicated thyroid ultrasound, which hormone test must be checked first to guide the subsequent workup?",
+      "title": "Step 1/10: The Report She Brings You",
+      "scenario": "A 45-year-old woman is found to have a 1.8 cm right thyroid nodule incidentally on neck ultrasound during an employee health check. She has no dysphagia, hoarseness, neck pain, or compressive symptoms. She has no history of neck irradiation and no family history of thyroid cancer. She brings the report to your clinic.",
+      "media": "Load image: Outpatient thyroid examination, physician palpating the anterior neck. Caption: none.",
+      "question": "Alongside a dedicated thyroid ultrasound, which single result determines whether this nodule needs a biopsy at all?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Serum thyroid-stimulating hormone (TSH)",
+          "text": "(A) Serum thyroid-stimulating hormone",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Calcitonin"
+          "text": "(B) Serum calcitonin"
         },
         {
           "id": "C",
-          "text": "(C) Thyroglobulin (Tg)"
+          "text": "(C) Serum thyroglobulin"
+        },
+        {
+          "id": "D",
+          "text": "(D) Anti-thyroid peroxidase antibody"
         }
       ],
-      "feedback": "Correct answer: A\n\nAttending tip: After ultrasound, serum TSH is the standard starting point for all thyroid nodules. If TSH is suppressed, the nodule may be autonomously functioning, and radioactive iodine scintigraphy should be arranged. If the nodule is hot, the malignancy risk is very low and FNA is usually not needed."
+      "feedback": "Correct answer: A\n\nTSH is the branch point. A suppressed TSH raises the possibility of an autonomously functioning nodule, which is very rarely malignant, and sends you to scintigraphy rather than to a needle. A normal or high TSH keeps you on the sonographic pathway.\n\nOn the distractors, all three of which are ordered in real clinics:\n\nCalcitonin is the strongest of them. Several European groups do screen routinely to catch medullary carcinoma early, and the ATA has not recommended routine screening, citing cost-effectiveness and the problem of false positives. It is a legitimate debate, not a wrong answer by ignorance.\n\nThyroglobulin has no role in evaluating a nodule. Its place is post-thyroidectomy surveillance. Ordering it here is the single most common reflex error on this pathway.\n\nAnti-TPO tells you about autoimmune thyroiditis, which changes neither the malignancy risk of this nodule nor the decision to biopsy it.\n\nHer result: TSH 1.4 microIU/mL, normal."
     },
     {
-      "title": "Step 2/6: Sonographic Risk Assessment",
-      "scenario": "The patient's blood test shows a normal TSH level. You personally perform a thyroid ultrasound and carefully assess the morphology of the 1.8 cm nodule.",
-      "media": "Load image: Thyroid ultrasound showing a solid hypoechoic nodule with irregular margins and microcalcifications",
-      "question": "When assessing cancer risk by ultrasound, which set of sonographic features strongly suggests malignancy and strongly supports FNA?",
+      "title": "Step 2/10: The Result You Did Not Get",
+      "scenario": "Her TSH is normal, so you continue. Before you do, consider the path you did not take.",
+      "media": "",
+      "question": "Had her TSH returned suppressed at 0.05 microIU/mL, what would change?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Purely cystic, smooth margins, and posterior enhancement."
+          "text": "(A) Radioiodine scintigraphy first; a hyperfunctioning nodule rarely requires FNA",
+          "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Spongiform appearance, isoechoic texture, and peripheral vascularity."
+          "text": "(B) Proceed to FNA regardless, since a suppressed TSH raises the malignancy risk"
         },
         {
           "id": "C",
-          "text": "(C) Solid composition, hypoechogenicity, irregular margins, and microcalcifications.",
-          "correct": true
+          "text": "(C) Start an antithyroid drug and repeat the ultrasound in six months before any biopsy"
+        },
+        {
+          "id": "D",
+          "text": "(D) Obtain a contrast-enhanced neck CT to assess substernal extension before biopsy"
         }
       ],
-      "feedback": "Correct answer: C\n\nImaging pitfall: Ultrasound is powerful for risk stratification. Solid composition, irregular margins, parenchymal hypoechogenicity, and microcalcifications have high predictive value for thyroid cancer. In contrast, a purely cystic nodule is almost certainly benign."
+      "feedback": "Correct answer: A\n\nOption B inverts a relationship worth remembering: malignancy risk rises with higher TSH, not lower. A suppressed TSH points toward autonomy, and an autonomous nodule is very seldom cancer. Residents get this backwards because suppressed sounds abnormal and abnormal sounds dangerous.\n\nOption C treats the biochemistry and abandons the nodule. Option D carries a specific harm that otolaryngologists should own: an iodinated contrast load saturates the thyroid and can delay scintigraphy or radioiodine therapy for weeks to months. Ordering contrast before you know the functional status is a mistake you cannot undo by cancelling the scan.\n\nBack to this patient: TSH normal, so scintigraphy is not indicated and the pathway is sonographic."
     },
     {
-      "title": "Step 3/6: FNA Technique and Cystic Fluid",
-      "scenario": "The patient agrees to ultrasound-guided fine-needle aspiration. While preparing the equipment, a student brings an 18-gauge core needle and says, \"If we aspirate cystic fluid, we should send all of it for cytology to improve the diagnostic yield.\"",
-      "media": "Load image: Ultrasound-guided FNA using a 25-gauge needle and syringe",
-      "question": "According to standard thyroid FNA practice and clinical evidence, which statement about needle choice and cystic fluid management is most correct?",
+      "title": "Step 3/10: Ranking the Patterns",
+      "scenario": "You perform the ultrasound yourself rather than reading the report. Sonographic risk stratification is a pattern-based judgment, not a checklist of individual features.",
+      "media": "Load image: Longitudinal and transverse grayscale images of a right thyroid nodule, unannotated. Caption: 'Right lobe, 12 MHz linear probe.'",
+      "question": "Which of these four sonographic descriptions carries the highest malignancy risk?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Use an 18-gauge core needle routinely, and always send aspirated cystic fluid for cytology."
-        },
-        {
-          "id": "B",
-          "text": "(B) Use a 25- to 27-gauge needle; aspirating cystic fluid may relieve symptoms, but the fluid has no role in cytologic analysis.",
+          "text": "(A) Solid, hypoechoic, irregular margins, punctate echogenic foci, taller than wide",
           "correct": true
         },
         {
+          "id": "B",
+          "text": "(B) Solid, isoechoic, smooth margins, with a thin peripheral hypoechoic halo"
+        },
+        {
           "id": "C",
-          "text": "(C) Avoid any needle movement to prevent bleeding; if the first sample is nondiagnostic, proceed immediately to diagnostic surgery."
+          "text": "(C) Mixed cystic and solid, with an eccentric solid component and smooth margins"
+        },
+        {
+          "id": "D",
+          "text": "(D) Spongiform, with microcystic spaces occupying more than half the volume"
         }
       ],
-      "feedback": "Correct answer: B\n\nClinical pearl: Standard thyroid FNA uses a 5-10 cc syringe with a 25- to 27-gauge needle, with about 5 seconds of needle undulation within the lesion. Core-needle biopsy has no role in routine evaluation of low-risk nodules. Although aspirating cystic fluid can shrink the nodule and relieve symptoms, cytologic analysis of cystic fluid has no clinical value. If cystic content leads to a nondiagnostic sample, repeat FNA after healing is the correct next step."
+      "feedback": "Correct answer: A\n\nEvery option here is a real pattern with a real risk figure, which is the point. Marked hypoechogenicity, irregular or lobulated margins, microcalcifications, and a taller-than-wide shape together define the high-suspicion pattern, with a malignancy risk above 70 to 90 percent.\n\nB is intermediate suspicion, roughly 10 to 20 percent. C is low suspicion, roughly 5 to 10 percent. D is very low suspicion, under 3 percent. None of them is zero, and none of them is absurd.\n\nDesign note for the reader: the earlier version of this question offered a purely cystic nodule as a distractor. Nobody chooses it, so the item measured nothing. An item that can be answered without knowing thyroid ultrasound is not an item.\n\nHer nodule matches pattern A, measures 1.8 cm, and there are no sonographically abnormal cervical nodes.\n\nGuideline note: sonographic risk stratification comes from the 2015 ATA nodule guidelines and ACR TI-RADS. It does not come from the 2025 ATA guidelines, which cover differentiated thyroid cancer only and deliberately exclude nodules."
     },
     {
-      "title": "Step 4/6: Molecular Testing for Indeterminate Cytology",
-      "scenario": "One week later, the FNA cytology report shows atypia of undetermined significance (AUS), Bethesda category III. The uncertain result makes the patient anxious. To refine risk assessment, you suggest molecular testing of the aspirated sample.",
-      "media": "Load image: Genetic testing report listing common mutations",
-      "question": "When evaluating indeterminate thyroid cytology, which group of mutations significantly increases the diagnostic yield for thyroid cancer and can change surgical decision-making?",
+      "title": "Step 4/10: The Threshold Follows the Pattern",
+      "scenario": "You have a high-suspicion nodule measuring 1.8 cm.",
+      "media": "",
+      "question": "At what size does FNA become indicated for a nodule with this sonographic pattern?",
       "options": [
         {
           "id": "A",
-          "text": "(A) BRCA1 and BRCA2 mutations"
-        },
-        {
-          "id": "B",
-          "text": "(B) BRAF, RET-PTC, RAS, or PAX8/PPARg mutations",
+          "text": "(A) 1 cm or larger",
           "correct": true
         },
         {
+          "id": "B",
+          "text": "(B) 1.5 cm or larger"
+        },
+        {
           "id": "C",
-          "text": "(C) BCR-ABL fusion"
+          "text": "(C) 2 cm or larger"
+        },
+        {
+          "id": "D",
+          "text": "(D) Any size, since the pattern alone justifies sampling"
         }
       ],
-      "feedback": "Correct answer: B\n\nPrecision medicine: When FNA cytology is indeterminate, up to 29% of specimens may show BRAF, RET-PTC, RAS, or PAX8/PPARg mutations. Galectin-3 immunostaining also has high predictive value. Detecting these mutations preoperatively helps confirm malignant risk and determine the extent of surgery."
+      "feedback": "Correct answer: A\n\nThe threshold is not a single number, it moves with the pattern. High and intermediate suspicion, 1 cm. Low suspicion, 1.5 cm. Very low suspicion, 2 cm, with observation a reasonable alternative. Purely cystic nodules do not require FNA at all.\n\nOption D is the first appearance of the habit this case is really about. It sounds cautious. It is the reasoning that leads to biopsying subcentimeter nodules, finding microcarcinomas that were never going to matter, and committing a healthy 45-year-old to an operation and a lifetime of surveillance. Thresholds exist because more sampling is not the same as better care.\n\nHer 1.8 cm high-suspicion nodule clears the threshold. Proceed to FNA."
     },
     {
-      "title": "Step 5/6: Surgical Extent in the 2025 ATA Guidelines",
-      "scenario": "Molecular testing is positive for BRAF mutation, confirming papillary thyroid carcinoma. The tumor is 1.8 cm (cT1b), ultrasound shows no extrathyroidal extension, the contralateral thyroid is normal, and there are no suspicious lymph nodes. The patient chooses surgery and asks whether the entire thyroid must be removed.",
-      "media": "Load image: Comparison of thyroid lobectomy and total thyroidectomy",
-      "question": "According to the newly released 2025 American Thyroid Association guidelines, what is the preferred surgical extent for tumors smaller than 2 cm without extrathyroidal extension or suspicious lymph nodes?",
+      "title": "Step 5/10: The Student and the Big Needle",
+      "scenario": "The patient consents to ultrasound-guided fine-needle aspiration. While you set up, a medical student hands you an 18-gauge core needle and says: \"If we get cyst fluid, we should send all of it for cytology to improve the yield.\"",
+      "media": "Load video: Ultrasound-guided FNA, transverse approach, needle tip visualized within the nodule. 10 seconds, muted.",
+      "question": "Which statement about needle choice and cystic fluid is most correct?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Lobectomy is sufficient.",
+          "text": "(A) Use a 25 to 27 gauge needle; aspirating cyst fluid may relieve symptoms, but cytology of the fluid itself adds little",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Total thyroidectomy is mandatory to allow later radioactive iodine treatment."
+          "text": "(B) Use a 25 to 27 gauge needle, and send the cyst fluid for cytology since it may carry diagnostic cells"
         },
         {
           "id": "C",
-          "text": "(C) Radiofrequency ablation alone is enough, and surgery is prohibited."
+          "text": "(C) Use an 18 gauge core needle as first-line, since it lowers the nondiagnostic rate"
+        },
+        {
+          "id": "D",
+          "text": "(D) Use a 25 to 27 gauge needle, and proceed to diagnostic lobectomy if the first pass is nondiagnostic"
         }
       ],
-      "feedback": "Correct answer: A\n\n2025 ATA update: The 2025 ATA guidelines broaden the indications for lobectomy. For tumors smaller than 2 cm without extrathyroidal extension or suspicious lymph nodes, lobectomy is strongly preferred; even 2-4 cm tumors may be considered for lobectomy. Recurrence rates are similar to total thyroidectomy, while complications such as hypoparathyroidism and lifelong thyroid hormone dependence are reduced."
+      "feedback": "Correct answer: A\n\nStandard technique is a 5 to 10 mL syringe with a 25 to 27 gauge needle and roughly five seconds of needle undulation within the lesion. Fine needles bleed less, and blood dilution is a major cause of nondiagnostic samples, which is why bigger is not better here.\n\nOption C is not absurd, and that is deliberate. Core needle biopsy does have a role in selected situations, including repeatedly nondiagnostic nodules and suspected lymphoma or anaplastic disease where architecture matters. It is not a first-line tool for a routine nodule.\n\nOption D is the same reflex as the last step wearing different clothes. A nondiagnostic FNA is managed with a repeat FNA after an interval, not with an operation. Going to surgery for a diagnosis you have not yet tried twice to obtain is how a benign nodule becomes a hemithyroidectomy.\n\nOn the cyst fluid specifically: aspirating it can shrink the nodule and relieve symptoms, but the fluid is usually acellular or full of macrophages. Sample the solid component under ultrasound guidance instead, which is where the answer lives."
     },
     {
-      "title": "Step 6/6: Prophylactic Central Neck Dissection",
-      "scenario": "After the decision for lobectomy, the patient's husband asks, \"Since you are already operating, can you remove all the nearby central neck lymph nodes just to be safe?\"",
-      "media": "Load image: Central compartment level VI lymph-node anatomy",
-      "question": "For clinically node-negative T1-T2 early tumors, what do the 2025 ATA guidelines recommend regarding prophylactic central neck dissection?",
+      "title": "Step 6/10: Bethesda III",
+      "scenario": "One week later the cytology returns as atypia of undetermined significance, Bethesda category III. The patient calls, anxious, and asks what this means and what happens next.",
+      "media": "Load image: Cytology slide, Diff-Quik stain, follicular cells with mild nuclear atypia. Caption: 'Fine needle aspirate, right thyroid nodule.'",
+      "question": "What is the appropriate next step?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Strongly recommend it because it significantly improves overall survival."
-        },
-        {
-          "id": "B",
-          "text": "(B) Strongly discourage it because it does not improve long-term outcomes and increases the risk of nerve injury and hypoparathyroidism.",
+          "text": "(A) Repeat FNA, molecular testing, or continued surveillance, chosen according to sonographic and clinical risk",
           "correct": true
         },
         {
+          "id": "B",
+          "text": "(B) Diagnostic lobectomy, since indeterminate cytology cannot be resolved by further sampling"
+        },
+        {
           "id": "C",
-          "text": "(C) Remove only left-sided lymph nodes as a representative sample."
+          "text": "(C) Total thyroidectomy, since the malignancy risk of Bethesda III exceeds 50 percent"
+        },
+        {
+          "id": "D",
+          "text": "(D) Reassurance and a repeat ultrasound in twelve months"
         }
       ],
-      "feedback": "Correct answer: B\n\n2025 ATA concept update: Central neck dissection increases the risk of recurrent laryngeal nerve injury and hypoparathyroidism. The 2025 ATA guidelines more strongly discourage prophylactic central neck dissection in clinically node-negative T1-T2 tumors because it does not improve long-term outcomes and only adds surgical morbidity."
+      "feedback": "Correct answer: A\n\nBethesda III carries a risk of malignancy of roughly 13 to 30 percent. That number is the whole answer. It is high enough that D, discharging her for a year with a high-suspicion nodule, is unsafe. It is low enough that B and C commit most of these patients to an unnecessary operation.\n\nOption B was standard practice for years and remains the default in many units, which is exactly why it is here. Option C is a base-rate error: it treats an indeterminate result as though it were a positive one. Seven or eight of every ten patients in her position do not have cancer.\n\nGiven a high-suspicion sonographic pattern, molecular testing is the reasonable next move for her.\n\nGuideline note: the Bethesda System risk figures come from the third edition, 2023, not from any ATA guideline."
+    },
+    {
+      "title": "Step 7/10: What a Molecular Test Actually Buys You",
+      "scenario": "You send the aspirate for molecular testing. Before the result comes back, be clear with yourself about what each possible answer would mean.",
+      "media": "Load image: Molecular test report, result panel redacted. Caption: 'Report header only.'",
+      "question": "Which statement best describes what a benign molecular result would do for this patient?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) It has a high negative predictive value, allowing surveillance rather than diagnostic surgery in most patients",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "(B) It confirms the nodule is benign, and no further ultrasound follow-up is needed"
+        },
+        {
+          "id": "C",
+          "text": "(C) It reliably predicts the extent of surgery required if malignancy is later found"
+        },
+        {
+          "id": "D",
+          "text": "(D) Its predictive performance is the same regardless of the sonographic risk pattern"
+        }
+      ],
+      "feedback": "Correct answer: A\n\nThe commercially available panels are built as rule-out tests. Their negative predictive value in indeterminate cytology is high, which is what allows a patient to be observed instead of operated on. Their positive predictive value is considerably lower, so a positive result is a reason to plan surgery, not a diagnosis.\n\nOption D is the most instructive wrong answer and the one senior learners get wrong. Predictive values depend on pre-test probability. A benign molecular result in a very-low-suspicion nodule is strongly reassuring; the same result in a nodule with the high-suspicion pattern this patient has is less so, because the disease prevalence in that group is higher. The test does not know what the ultrasound looked like. You do, and you have to combine them.\n\nOption B overreads a negative test into a discharge. Option C confuses a diagnostic tool with a staging one.\n\nThis is the same reasoning error the last step tested, and it will appear once more before the case ends."
+    },
+    {
+      "title": "Step 8/10: Reading the Panel",
+      "scenario": "The molecular report returns positive. You now need to interpret which alteration was found and what weight to give it.",
+      "media": "",
+      "question": "Which single alteration, if detected, is most specific for papillary thyroid carcinoma?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) BRAF V600E",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "(B) An RAS point mutation"
+        },
+        {
+          "id": "C",
+          "text": "(C) A TERT promoter mutation"
+        },
+        {
+          "id": "D",
+          "text": "(D) PAX8/PPARG rearrangement"
+        }
+      ],
+      "feedback": "Correct answer: A\n\nBRAF V600E is close to diagnostic. Its specificity for papillary carcinoma approaches 99 percent, so a positive result effectively settles the diagnosis before surgery.\n\nEvery distractor here is a genuine thyroid alteration, which is what makes the item work:\n\nRAS mutations are the classic trap. They are common in papillary carcinoma of follicular variant, but they also appear in benign follicular adenomas and in NIFTP. High sensitivity, poor specificity, and a positive RAS result does not confirm cancer.\n\nTERT promoter mutations are prognostic rather than diagnostic. They mark aggressive behavior, particularly alongside BRAF, and they change your risk conversation rather than your diagnosis.\n\nPAX8/PPARG points toward follicular neoplasms, not papillary carcinoma.\n\nThe earlier version of this question offered BRCA1/2 and BCR-ABL as distractors. No otolaryngology resident has ever selected those, so the item tested nothing but the ability to recognise a breast gene and a leukemia gene.\n\nHer result: BRAF V600E positive. This is papillary thyroid carcinoma."
+    },
+    {
+      "title": "Step 9/10: How Much Thyroid Comes Out",
+      "scenario": "Papillary thyroid carcinoma, 1.8 cm, clinical T1b N0 M0. No gross extrathyroidal extension on ultrasound, the contralateral lobe is sonographically normal, and there are no suspicious lymph nodes. She asks whether the whole thyroid has to come out.",
+      "media": "Load image: Side-by-side diagram of thyroid lobectomy and total thyroidectomy. Caption: none.",
+      "question": "According to the 2025 ATA guidelines, what is the recommended surgical extent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) Lobectomy",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "(B) Total thyroidectomy, to permit radioiodine and thyroglobulin surveillance"
+        },
+        {
+          "id": "C",
+          "text": "(C) Total thyroidectomy, because BRAF V600E positivity independently warrants it"
+        },
+        {
+          "id": "D",
+          "text": "(D) Active surveillance without surgery, given the tumor is under 2 cm"
+        }
+      ],
+      "feedback": "Correct answer: A\n\nThe 2025 ATA guidelines state that for tumors smaller than 2 cm without gross extrathyroidal extension or metastases, lobectomy should be the first treatment of choice when surgery is indicated, provided there are no bilateral tumors or other reasons to remove the contralateral lobe. This is a strong recommendation with moderate certainty of evidence. Lobectomy may also be the recommended initial strategy for low-risk unilateral tumors of 2 to 4 cm.\n\nThis is a real shift. In 2009 total thyroidectomy was recommended for nearly all cancers above 1 cm. In 2015 lobectomy became an option. In 2025 it became the recommendation.\n\nOn the distractors: B reverses the logic by choosing an operation in order to enable an adjuvant treatment she does not need. C is a belief many surgeons hold, but BRAF positivity alone does not change the recommended extent in an otherwise low-risk tumor. D applies the right concept to the wrong size, since active surveillance is discussed for low-risk tumors of 1 cm or less, not for a 1.8 cm cT1b.\n\nWorth knowing for your audience: the 2025 guidelines cover differentiated thyroid cancer only. Thyroid nodules were deliberately excluded from scope, so everything in Steps 1 through 7 of this case is governed by other documents. Citing 2025 ATA for nodule workup is a mistake an examiner will catch.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. 2025 American Thyroid Association management guidelines for adult patients with differentiated thyroid cancer. Thyroid. 2025;35(8):841-985."
+    },
+    {
+      "title": "Step 10/10: While You Are In There",
+      "scenario": "You have agreed on a right lobectomy. In the pre-operative visit her husband asks: \"Since you are already operating, can you take out the lymph nodes in that area too, just to be safe?\"",
+      "media": "Load image: Central compartment level VI anatomy, with recurrent laryngeal nerve and parathyroid glands labeled. Caption: 'Level VI.'",
+      "question": "For this clinically node-negative T1b tumor, what do you recommend?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) Recommend against it, since it does not improve long-term outcomes in cN0 T1 to T2 disease and adds nerve and parathyroid risk",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "(B) Perform an ipsilateral central dissection, since the morbidity is acceptable and it refines recurrence risk staging"
+        },
+        {
+          "id": "C",
+          "text": "(C) Perform a bilateral central dissection, since occult nodal disease is present in a large proportion of these patients"
+        },
+        {
+          "id": "D",
+          "text": "(D) Defer, and perform a completion dissection later if surveillance thyroglobulin rises"
+        }
+      ],
+      "feedback": "Correct answer: A\n\nThe 2025 ATA guidelines more strongly discourage prophylactic central compartment dissection for clinically node-negative T1 to T2 disease, on the grounds that it does not improve long-term outcomes while it does increase the risk of recurrent laryngeal nerve injury and hypoparathyroidism. For larger cN0 tumors it may be considered, with limited evidence. Therapeutic dissection remains indicated when nodal involvement is identified.\n\nNow the part worth sitting with. Option C states something true. Occult central nodal metastases are found in up to half of clinically node-negative papillary carcinoma patients eligible for lobectomy. That prevalence is real, and it is the reason this operation feels justified in the moment.\n\nIt still does not follow. A finding can be common and removing it can still fail to help, because most of that occult disease never becomes clinically relevant, while every dissection carries a nerve and a parathyroid risk that is immediate and sometimes permanent. Prevalence is not benefit. This is the same reasoning error as Steps 4, 5, 6, and 7, and it is the one this case exists to teach.\n\nOption B is the argument for staging information. It is honest, and the guidelines answer it: the information does not change outcomes enough to justify the morbidity in this group.\n\nOption D misunderstands post-lobectomy surveillance. After lobectomy, serial thyroglobulin monitoring is not recommended, because the remaining lobe produces it. Ultrasound every one to three years is the follow-up, not a thyroglobulin trend.\n\nDebriefing question for the group: her husband asked a reasonable question and the answer is no. How do you say that in a way he accepts?"
     }
   ]
 }
