@@ -94,8 +94,8 @@
     },
     {
       "title": "Step 4/6: Stroboscopy and Differentiation of Benign Lesions",
-      "scenario": "You perform laryngoscopy with stroboscopy. There is a solitary, translucent, exophytic lesion on the right vocal fold at the junction of the anterior and middle thirds. The left fold is smooth. Both folds are fully mobile. Glottic closure is incomplete with an hourglass configuration around the lesion. The mucosal wave is present and symmetric, including across the lesion itself.",
-      "media": "Load image: Videostroboscopy, right vocal fold",
+      "scenario": "You perform laryngoscopy with stroboscopy. There is a solitary, translucent, exophytic lesion on the left vocal fold at the junction of the anterior and middle thirds. The right fold is smooth. Both folds are fully mobile. Glottic closure is incomplete with an hourglass configuration around the lesion. The mucosal wave is present and symmetric, including across the lesion itself.",
+      "media": "Load image: Videostroboscopy, left vocal fold",
       "question": "Which diagnosis best fits these findings, and what does it predict about treatment?",
       "options": [
         {
