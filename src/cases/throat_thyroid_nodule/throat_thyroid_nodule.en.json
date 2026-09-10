@@ -14,34 +14,34 @@
   ],
   "steps": [
     {
-      "title": "Step 1/6: Seven Points",
-      "scenario": "A 41-year-old woman is referred for a second opinion. A routine health screen found a firm, palpable mass in the right lower central neck. She has no voice change, no dysphagia, no radiation history, and no family history of thyroid cancer.\n\nShe brings outside laboratory results, and you complete the panel yourself:\n\n    TSH 1.76 microIU/mL    Free T4 0.90 ng/dL    Anti-TPO < 0.3 IU/mL\n    Anti-thyroglobulin Ab 1.8 IU/mL    Thyroglobulin 1.77 ng/mL\n\nYou scan her yourself:\n\n    RIGHT THYROID LESION\n    0.66 x 0.60 x 0.61 cm, estimated volume 0.13 mL\n    Architecture       solid\n    Echogenicity       markedly hypoechoic\n    Shape              lobulated\n    Boundary           irregular\n    Halo               incomplete\n    Calcification      absent\n    Elastography       hard\n\n  ",
+      "title": "Step 1/6: What the TSH Decides",
+      "scenario": "A 41-year-old woman is referred for a second opinion. A routine health screen found a firm, palpable mass in the right lower central neck. She has no voice change, no dysphagia, no radiation history, and no family history of thyroid cancer.\n\nShe brings outside laboratory results, and you complete the panel yourself:\n\n    TSH                     1.76 microIU/mL\n    Free T4                 0.90 ng/dL\n    Anti-TPO antibody       < 0.3 IU/mL\n    Anti-thyroglobulin Ab   1.8 IU/mL\n    Thyroglobulin           1.77 ng/mL\n\nYou scan her yourself. The right lobe contains a 0.66 x 0.60 x 0.61 cm nodule: solid, markedly hypoechoic, lobulated with an irregular boundary, an incomplete halo, no calcification, and hard on elastography. A right level III node measures 0.71 x 0.38 cm, oval, regular, with a preserved linear hilus.",
       "media": "Load image: Right thyroid nodule, longitudinal and transverse grayscale, unannotated. Caption: 'Right lobe.'",
-      "question": "Score this nodule with ACR TI-RADS. What does the system recommend?",
+      "question": "What does her TSH of 1.76 microIU/mL tell you?",
       "options": [
         {
           "id": "A",
-          "text": "(A) TR5 at 7 points; at 6.6 mm it falls below the 1 cm biopsy threshold, so ACR recommends ultrasound follow-up rather than aspiration",
+          "text": "(A) It excludes an autonomously functioning nodule and keeps her on the sonographic pathway; within the normal range it does not risk-stratify this nodule",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) TR5 at 7 points, and highly suspicious nodules are aspirated at any size"
+          "text": "(B) A TSH in the lower half of the normal range is itself reassuring, since malignancy risk rises with TSH"
         },
         {
           "id": "C",
-          "text": "(C) TR4, because a nodule under 1 cm cannot reach the highest category"
+          "text": "(C) It excludes underlying autoimmune thyroiditis, which characteristically raises TSH"
         },
         {
           "id": "D",
-          "text": "(D) Category 4B, the ACR tier sitting between TR4 and TR5"
+          "text": "(D) It is normal, so thyroid function needs no further attention during her management"
         }
       ],
-      "feedback": "Correct answer: A\n\nScore it feature by feature. Solid composition 2, markedly hypoechoic 3, wider-than-tall 0, lobulated and irregular margin 2, no echogenic foci 0. Seven points, and seven or more is TR5. For TR5 the ACR recommends aspiration at 1 cm or more and ultrasound follow-up at 0.5 cm or more. Hers is 6.6 mm. On the imaging system alone, this nodule is followed, not biopsied.\n\nWhy the others fail:\n(B) Confuses suspicion with action. The TR category tells you how worrying the nodule looks; the size threshold tells you what to do about it. TR5 lowers the bar to 1 cm, it does not remove it.\n(C) Size is not one of the five scored features. Composition, echogenicity, shape, margin, and echogenic foci are, and a 4 mm nodule can score TR5 as easily as a 4 cm one. The category is about appearance; size enters only afterwards.\n(D) There is no 4B in ACR TI-RADS, which runs TR1 to TR5. Subcategories 4a, 4b, and 4c belong to the Kwak system, widely used in Asia and reported in this patient's original study. The two systems are not interchangeable and a report that says 4B tells an American reader very little. Pick one system and name it.\n\nTwo things the score does not capture. The elastography reads hard and the halo is incomplete, neither of which is an ACR feature. More importantly, this mass is palpable and firm on examination, and ACR TI-RADS is an imaging system that has never touched the patient.\n\nOn the panel: five results, all normal. Only the TSH was ever going to change anything, by excluding an autonomously functioning nodule. Thyroglobulin is not a cancer marker in an intact gland. The anti-TPO below the detection limit does not exclude autoimmune thyroiditis, and this patient will prove the point at final histology.\n\nKeypoint: the TI-RADS category says how suspicious the nodule looks, the size threshold says what to do about it, and the patient sitting in front of you can outrank both.\n\nReference: Tessler FN, Middleton WD, Grant EG, et al. ACR Thyroid Imaging, Reporting and Data System (TI-RADS): White Paper of the ACR TI-RADS Committee. J Am Coll Radiol. 2017;14(5):587-595. doi:10.1016/j.jacr.2017.01.046. Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
+      "feedback": "Correct answer: A\n\nTSH is the branch point of the workup and it does one specific job. A suppressed TSH would raise the possibility of an autonomously functioning nodule, which is very rarely malignant, and would send you to scintigraphy rather than to a needle. Hers is normal, so that branch closes cleanly and the nodule is assessed on its sonographic merits: solid, markedly hypoechoic, lobulated with an irregular boundary, and hard on elastography, in a mass she can feel.\n\nWhy the others fail:\n(B) The association between higher TSH and thyroid malignancy is real in population studies, but the effect is small and it has never been used to risk-stratify an individual nodule. A TSH of 1.76 tells you which pathway she is on. It does not tell you how likely her nodule is to be cancer, and reading it as reassurance would be reading a population statistic as a personal one.\n(C) Euthyroid autoimmune thyroiditis is common, and seronegative disease is well described. This patient turns out to be an example of both: her anti-TPO is below the detection limit and her TSH is normal, yet her final histology reports lymphocytic thyroiditis with fibrosis and calcification in the non-neoplastic gland. Normal function does not exclude the disease, and a negative antibody does not either.\n(D) True today and false later. If she proceeds to a lobectomy, roughly a quarter to a third of patients become hypothyroid and need replacement, so the TSH changes from a diagnostic test into the monitoring test that decides whether she takes a tablet for the rest of her life.\n\nThe rest of the panel is a baseline rather than a diagnostic test, and that is the right way to read it. Thyroglobulin is not interpretable as a tumor marker while the gland is intact, since normal tissue produces it; its value arrives after surgery, and having a preoperative figure on file is useful when the postoperative numbers need context. The anti-thyroglobulin antibody matters for a related reason: antibody positivity interferes with thyroglobulin assays and makes the result uninterpretable, so a documented negative now means any future thyroglobulin can be trusted.\n\nOn the level III node: oval, regular boundary, preserved linear fatty hilus. That is a normal reactive node, and seeing a node is not the same as finding one.\n\nKeypoint: the TSH decides which pathway she is on, and once it comes back normal the nodule is judged on the ultrasound and the examining finger.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
     },
     {
       "title": "Step 2/6: The Needle",
-      "scenario": "The nodule sits below the imaging threshold for biopsy, but it is palpable, firm, and TR5, and after discussion she wants it sampled. You aspirate it yourself under your own ultrasound guidance.\n\nThe target is 6.6 mm, solid, with an irregular margin, sitting close to the anterior capsule of the right lobe. There is no cystic component.\n\nA trainee sets up the trolley and asks what you want on it.",
+      "scenario": "A palpable, firm, sonographically suspicious nodule in a woman referred specifically because of a lump in her neck. You aspirate it yourself, under your own ultrasound guidance.\n\nThe target is 6.6 mm, solid, with an irregular margin, sitting close to the anterior capsule of the right lobe. There is no cystic component.\n\nA trainee sets up the trolley and asks what you want on it.",
       "media": "Load video: Ultrasound-guided fine needle aspiration of a small solid thyroid nodule, needle tip visualized within the lesion. 10 seconds, muted.",
       "question": "What do you ask for, and how do you sample?",
       "options": [
@@ -94,7 +94,7 @@
     {
       "title": "Step 4/6: Before the Knife",
       "scenario": "Staging computed tomography shows a lesion confined to the right lobe with no abnormal nodes. Clinical stage is T1a N0.\n\nShe has no voice complaint, no prior neck surgery, and speaks normally in clinic. You plan a right thyroidectomy with isthmusectomy, using intraoperative nerve monitoring.",
-      "media": "Load image: Right thyroid nodule, longitudinal and transverse grayscale, unannotated. Caption: 'Right lobe.'",
+      "media": "",
       "question": "What is your remaining obligation before surgery?",
       "options": [
         {
