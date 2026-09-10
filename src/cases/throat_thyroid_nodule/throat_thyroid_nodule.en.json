@@ -15,7 +15,7 @@
   "steps": [
     {
       "title": "Step 1/6: Seven Points",
-      "scenario": "A 41-year-old woman is referred for a second opinion. A routine health screen found a firm, palpable mass in the right lower central neck. She has no voice change, no dysphagia, no radiation history, and no family history of thyroid cancer.\n\nShe brings outside laboratory results, and you complete the panel yourself:\n\n    TSH 1.76 microIU/mL    Free T4 0.90 ng/dL    Anti-TPO < 0.3 IU/mL\n    Anti-thyroglobulin Ab 1.8 IU/mL    Thyroglobulin 1.77 ng/mL\n\nYou scan her yourself:\n\n    RIGHT THYROID LESION\n    0.66 x 0.60 x 0.61 cm, estimated volume 0.13 mL\n    Architecture       solid\n    Echogenicity       markedly hypoechoic\n    Shape              lobulated\n    Boundary           irregular\n    Halo               incomplete\n    Calcification      absent\n    Elastography       hard\n\n    RIGHT LEVEL III NODE\n    0.71 x 0.38 cm, oval, regular boundary, hypoechoic,\n    linear hilus present, no calcification",
+      "scenario": "A 41-year-old woman is referred for a second opinion. A routine health screen found a firm, palpable mass in the right lower central neck. She has no voice change, no dysphagia, no radiation history, and no family history of thyroid cancer.\n\nShe brings outside laboratory results, and you complete the panel yourself:\n\n    TSH 1.76 microIU/mL    Free T4 0.90 ng/dL    Anti-TPO < 0.3 IU/mL\n    Anti-thyroglobulin Ab 1.8 IU/mL    Thyroglobulin 1.77 ng/mL\n\nYou scan her yourself:\n\n    RIGHT THYROID LESION\n    0.66 x 0.60 x 0.61 cm, estimated volume 0.13 mL\n    Architecture       solid\n    Echogenicity       markedly hypoechoic\n    Shape              lobulated\n    Boundary           irregular\n    Halo               incomplete\n    Calcification      absent\n    Elastography       hard\n\n  ",
       "media": "Load image: Right thyroid nodule, longitudinal and transverse grayscale, unannotated. Caption: 'Right lobe.'",
       "question": "Score this nodule with ACR TI-RADS. What does the system recommend?",
       "options": [
@@ -94,7 +94,7 @@
     {
       "title": "Step 4/6: Before the Knife",
       "scenario": "Staging computed tomography shows a lesion confined to the right lobe with no abnormal nodes. Clinical stage is T1a N0.\n\nShe has no voice complaint, no prior neck surgery, and speaks normally in clinic. You plan a right thyroidectomy with isthmusectomy, using intraoperative nerve monitoring.",
-      "media": "",
+      "media": "Load image: Right thyroid nodule, longitudinal and transverse grayscale, unannotated. Caption: 'Right lobe.'",
       "question": "What is your remaining obligation before surgery?",
       "options": [
         {
