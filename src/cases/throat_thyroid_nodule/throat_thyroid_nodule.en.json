@@ -1,173 +1,173 @@
 {
   "id": "throat_thyroid_nodule",
-  "title": "Under a Centimeter: Surveillance, Growth, and the Decision to Operate",
-  "subtitle": "A subcentimeter papillary microcarcinoma from second opinion to final pathology",
-  "description": "Interpreting a normal thyroid panel, managing repeated indeterminate cytology, deciding when active surveillance has failed, preoperative nerve responsibilities, reading a BRAF-negative papillary carcinoma, and what happened to the central compartment nodes.",
-  "estimatedTime": "20-25 min",
+  "title": "Six Years of Watching",
+  "subtitle": "Active surveillance of a papillary carcinoma, and the day it ended",
+  "description": "Reading a thyroid panel after a suspicious aspirate, choosing a needle for a posteriorly placed nodule, recognising when active surveillance has failed, preoperative requirements, ATA recurrence risk with an aggressive histological variant, and what follows a lobectomy.",
+  "estimatedTime": "15-20 min",
   "difficulty": "Intermediate",
   "tags": [
     "Head and Neck",
-    "Papillary microcarcinoma",
+    "Papillary thyroid carcinoma",
     "Active surveillance",
-    "ATA 2025",
-    "More-is-better bias"
+    "Tall cell subtype",
+    "ATA 2025"
   ],
   "steps": [
     {
-      "title": "Step 1/6: What the TSH Decides",
-      "scenario": "A 41-year-old woman is referred for a second opinion. A routine health screen found a firm, palpable mass in the right lower central neck. She has no voice change, no dysphagia, no radiation history, and no family history of thyroid cancer.\n\nShe brings outside laboratory results, and you complete the panel yourself:\n\n    TSH                     1.76 microIU/mL\n    Free T4                 0.90 ng/dL\n    Anti-TPO antibody       < 0.3 IU/mL\n    Anti-thyroglobulin Ab   1.8 IU/mL\n    Thyroglobulin           1.77 ng/mL\n\nYou scan her yourself. The right lobe contains a 0.66 x 0.60 x 0.61 cm nodule: solid, markedly hypoechoic, lobulated with an irregular boundary, an incomplete halo, no calcification, and hard on elastography. A right level III node measures 0.71 x 0.38 cm, oval, regular, with a preserved linear hilus.",
-      "media": "Load image: Right thyroid nodule, longitudinal and transverse grayscale, unannotated. Caption: 'Right lobe.'",
-      "question": "What does her TSH of 1.76 microIU/mL tell you?",
-      "options": [
-        {
-          "id": "A",
-          "text": "(A) It excludes an autonomously functioning nodule and keeps her on the sonographic pathway; within the normal range it does not risk-stratify this nodule",
-          "correct": true
-        },
-        {
-          "id": "B",
-          "text": "(B) A TSH in the lower half of the normal range is itself reassuring, since malignancy risk rises with TSH"
-        },
-        {
-          "id": "C",
-          "text": "(C) It excludes underlying autoimmune thyroiditis, which characteristically raises TSH"
-        },
-        {
-          "id": "D",
-          "text": "(D) It is normal, so thyroid function needs no further attention during her management"
-        }
-      ],
-      "feedback": "Correct answer: A\n\nTSH is the branch point of the workup and it does one specific job. A suppressed TSH would raise the possibility of an autonomously functioning nodule, which is very rarely malignant, and would send you to scintigraphy rather than to a needle. Hers is normal, so that branch closes cleanly and the nodule is assessed on its sonographic merits: solid, markedly hypoechoic, lobulated with an irregular boundary, and hard on elastography, in a mass she can feel.\n\nWhy the others fail:\n(B) The association between higher TSH and thyroid malignancy is real in population studies, but the effect is small and it has never been used to risk-stratify an individual nodule. A TSH of 1.76 tells you which pathway she is on. It does not tell you how likely her nodule is to be cancer, and reading it as reassurance would be reading a population statistic as a personal one.\n(C) Euthyroid autoimmune thyroiditis is common, and seronegative disease is well described. This patient turns out to be an example of both: her anti-TPO is below the detection limit and her TSH is normal, yet her final histology reports lymphocytic thyroiditis with fibrosis and calcification in the non-neoplastic gland. Normal function does not exclude the disease, and a negative antibody does not either.\n(D) True today and false later. If she proceeds to a lobectomy, roughly a quarter to a third of patients become hypothyroid and need replacement, so the TSH changes from a diagnostic test into the monitoring test that decides whether she takes a tablet for the rest of her life.\n\nThe rest of the panel is a baseline rather than a diagnostic test, and that is the right way to read it. Thyroglobulin is not interpretable as a tumor marker while the gland is intact, since normal tissue produces it; its value arrives after surgery, and having a preoperative figure on file is useful when the postoperative numbers need context. The anti-thyroglobulin antibody matters for a related reason: antibody positivity interferes with thyroglobulin assays and makes the result uninterpretable, so a documented negative now means any future thyroglobulin can be trusted.\n\nOn the level III node: oval, regular boundary, preserved linear fatty hilus. That is a normal reactive node, and seeing a node is not the same as finding one.\n\nKeypoint: the TSH decides which pathway she is on, and once it comes back normal the nodule is judged on the ultrasound and the examining finger.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
-    },
-    {
-      "title": "Step 2/6: The Needle",
-      "scenario": "A palpable, firm, sonographically suspicious nodule in a woman referred specifically because of a lump in her neck. You aspirate it yourself, under your own ultrasound guidance.\n\nThe target is 6.6 mm, solid, with an irregular margin, sitting close to the anterior capsule of the right lobe. There is no cystic component.\n\nA trainee sets up the trolley and asks what you want on it.",
-      "media": "Load video: Ultrasound-guided fine needle aspiration of a small solid thyroid nodule, needle tip visualized within the lesion. 10 seconds, muted.",
-      "question": "What do you ask for, and how do you sample?",
-      "options": [
-        {
-          "id": "A",
-          "text": "(A) A 25 to 27 gauge needle, minimal or no suction, with several seconds of needle undulation inside the lesion",
-          "correct": true
-        },
-        {
-          "id": "B",
-          "text": "(B) A 22 gauge needle with continuous strong suction, to maximise cellular yield from a small solid target"
-        },
-        {
-          "id": "C",
-          "text": "(C) An 18 gauge core needle, since a repeat aspirate after an indeterminate result is unlikely to add anything"
-        },
-        {
-          "id": "D",
-          "text": "(D) A 25 to 27 gauge needle, sampling the periphery of the lesion only, to reduce the risk of needle track seeding"
-        }
-      ],
-      "feedback": "Correct answer: A\n\nThe commonest reason a thyroid aspirate comes back non-diagnostic is blood, not lack of technique. A fine needle with little or no suction bleeds less, and the cells are collected by the shearing action of moving the needle through the lesion rather than by pulling on the plunger. Standard practice is a 25 to 27 gauge needle on a 5 to 10 mL syringe, with roughly five seconds of undulation within the target. In a 6.6 mm lesion the thing that determines success is not the gauge at all but whether you can keep the tip visualized inside it, which is why this aspirate is done under your own ultrasound rather than free-hand.\n\nWhy the others fail:\n(B) The intuition that a bigger bore and harder suction give more cells is exactly backwards. Both increase hemorrhage, and blood dilutes the specimen and obscures the architecture the cytopathologist needs. This is the single most common technical error in thyroid FNA.\n(C) Core needle biopsy has a genuine role in selected situations, including nodules that remain non-diagnostic after repeated fine needle sampling, and suspected lymphoma or anaplastic carcinoma where tissue architecture matters. None of those applies here. In a 6.6 mm subcapsular lesion an 18 gauge core needle also introduces a real risk of hematoma and of passing straight through the target.\n(D) Needle track seeding after fine needle aspiration of the thyroid is vanishingly rare and is not a reason to modify technique. Peripheral-only sampling of a lesion this small is a reliable way to return another non-diagnostic or indeterminate result, which is the outcome you were trying to avoid.\n\nHer result: atypia of undetermined significance with nuclear atypia. Indeterminate cytology on a subcentimeter nodule with no aggressive features and no nodal disease, so structured active surveillance is arranged, with a defined interval and an agreed trigger for intervention.\n\nKeypoint: in thyroid aspiration the smaller needle and the lighter hand return more diagnostic material, not less.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
-    },
-    {
-      "title": "Step 3/6: Surveillance Ends",
-      "scenario": "Four months later she returns for her scheduled surveillance scan.\n\n    Initial     0.66 x 0.60 x 0.61 cm, ill-defined margin\n    Now         0.76 x 0.64 x 0.87 cm, ill-defined margin\n\nThe maximum dimension has increased by 2.1 mm, which is below the 3 mm threshold conventionally used to define progression, though the volume has clearly increased. You repeat the aspirate: suspicious for malignancy, papillary thyroid carcinoma cannot be excluded.\n\nOn review of the images, the lesion abuts the anterior capsule of the right lobe.",
-      "media": "Load image: Side-by-side surveillance ultrasound, initial and four-month study, matched plane and scale. Caption: 'Initial and follow-up.'",
-      "question": "Which finding most strongly ends active surveillance for this patient?",
-      "options": [
-        {
-          "id": "A",
-          "text": "(A) The upgrade in cytology from indeterminate to suspicious for malignancy",
-          "correct": true
-        },
-        {
-          "id": "B",
-          "text": "(B) The 2.1 mm increase in maximum dimension"
-        },
-        {
-          "id": "C",
-          "text": "(C) The persistently ill-defined margin, unchanged across both studies"
-        },
-        {
-          "id": "D",
-          "text": "(D) The subcapsular position of the lesion"
-        }
-      ],
-      "feedback": "Correct answer: A\n\nA cytological upgrade is a change in what the lesion is, not merely in how big it is, and it is the finding that most clearly ends a surveillance strategy. Suspicious for malignancy carries a substantially higher risk of carcinoma than atypia of undetermined significance, and a nodule that climbs the Bethesda categories under observation has answered the question surveillance was asked to answer.\n\nWhy the others fail:\n(B) Real growth, and deliberately just short of the conventional threshold. Had this been the only change it would have been a reason to shorten the interval rather than to operate, so a learner who picks it is applying the right rule to the weaker signal. Note also that the volume has increased more than the maximum dimension suggests, which is an argument for measuring in three planes rather than one.\n(C) Unchanged findings do not end surveillance. The margin was ill-defined at the outset and was part of why she was watched closely rather than discharged. It is a baseline characteristic, not a progression event.\n(D) Genuinely relevant and genuinely secondary. A lesion abutting the capsule has less parenchyma between it and the extrathyroidal tissues, which weakens the case for long-term observation, and it belongs in the conversation with the patient. On its own, without growth and without a cytological change, it would not have ended surveillance.\n\nKeypoint: surveillance ends when the lesion changes category, not when it changes millimeters, and the two do not always move together.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. 2025 American Thyroid Association Management Guidelines for Adult Patients with Differentiated Thyroid Cancer. Thyroid. 2025;35(8):841-985. Ali SZ, Baloch ZW, Cochand-Priollet B, et al. The 2023 Bethesda System for Reporting Thyroid Cytopathology. Thyroid. 2023;33(9):1039-1044."
-    },
-    {
-      "title": "Step 4/6: Before the Knife",
-      "scenario": "Staging computed tomography shows a lesion confined to the right lobe with no abnormal nodes. Clinical stage is T1a N0.\n\nShe has no voice complaint, no prior neck surgery, and speaks normally in clinic. You plan a right thyroidectomy with isthmusectomy, using intraoperative nerve monitoring.",
+      "title": "Step 1/6: The Panel After a Suspicious Aspirate",
+      "scenario": "A 44-year-old woman is referred to your clinic with a right thyroid nodule found on a neck ultrasound. She has no compressive symptoms, no voice change, no radiation history and no family history of thyroid cancer.\n\nHer thyroid panel:\n\n    TSH, free T4, T3        all normal\n    Anti-TPO antibody       40.2 IU/mL     (H)\n    Thyroglobulin           > 300 ng/mL    (H)\n    Anti-thyroglobulin      normal\n    TSH receptor antibody   normal",
       "media": "",
-      "question": "What is your remaining obligation before surgery?",
+      "question": "How do you read this panel?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Document vocal fold mobility, and consent explicitly for recurrent laryngeal nerve injury and for hypoparathyroidism",
+          "text": "(A) The normal TSH means the nodule is not autonomously functioning; nothing else here changes the plan",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Nothing further; nerve monitoring will identify the nerve, and a normal voice makes laryngoscopy unnecessary"
+          "text": "(B) A thyroglobulin above 300 ng/mL indicates a high tumor burden and argues for prompt surgery"
         },
         {
           "id": "C",
-          "text": "(C) Send a baseline thyroglobulin to serve as the reference value for postoperative surveillance"
+          "text": "(C) The raised anti-TPO points to thyroiditis and makes malignancy less likely"
         },
         {
           "id": "D",
-          "text": "(D) Obtain a baseline calcium and parathyroid hormone, since hypoparathyroidism is the commonest complication"
+          "text": "(D) The normal anti-thyroglobulin antibody means the thyroglobulin can be trusted as a tumor marker"
         }
       ],
-      "feedback": "Correct answer: A\n\nA normal voice does not mean two normal vocal folds. Unilateral immobility can be compensated and clinically silent, and if it is discovered after the operation rather than before it, nobody can say whether the surgery caused it. This is the assessment that protects the patient and the surgeon at the same time, and it is an otolaryngology responsibility that belongs to nobody else on the team.\n\nWhy the others fail:\n(B) Nerve monitoring is an adjunct for identification during the case and for prognostic information at the end of it. It is not a substitute for knowing the preoperative state of the folds, and it cannot retrospectively establish what the fold was doing the day before surgery.\n(C) A preoperative thyroglobulin in an intact gland has no surveillance value. After a lobectomy the remaining lobe continues to produce thyroglobulin, which is why serial monitoring is not recommended in this setting at all. Ultrasound is the follow-up.\n(D) Hypoparathyroidism is a real risk and belongs in the consent, but it is far less likely after a unilateral procedure than after a total thyroidectomy, and a baseline panel does not change the operative plan.\n\nKeypoint: document the fold before you operate, because afterwards the question can no longer be answered.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020, section on preoperative and postoperative voice assessment."
+      "feedback": "Correct answer: A\n\nTSH is the only test here that changes the pathway. Suppressed, it suggests an autonomously functioning nodule, rarely malignant, and leads to scintigraphy rather than a needle. Normal, as here, and the decision belongs to ultrasound and cytology. Free T4 and T3 grade dysfunction only once TSH is abnormal; the TSH receptor antibody matters only if it is suppressed.\n\nNothing on this panel diagnoses cancer. Only calcitonin can, for medullary carcinoma, and it was not ordered.\n\nWhy the others fail:\n(B) Thyroglobulin comes from all follicular tissue and rises with gland volume, thyroiditis, even palpation. No threshold separates benign from malignant while the gland is in place.\n(C) Anti-TPO establishes thyroiditis and predicts hypothyroidism after lobectomy, but does not lower the risk of a discrete suspicious nodule.\n(D) Anti-Tg tells you whether the thyroglobulin can be believed, since it falsely lowers Tg in standard assays. A true value is still not a tumor marker.\n\nKeypoint: TSH decides the pathway, the antibodies describe the gland, thyroglobulin means nothing until the gland is gone.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
     },
     {
-      "title": "Step 5/6: Does Negative Mean Better?",
-      "scenario": "The operation is uncomplicated. Final pathology:\n\n    Papillary microcarcinoma, classical subtype, well differentiated\n    Greatest dimension 0.45 cm, pT1a\n    Extrathyroidal extension: not identified\n    Vascular invasion: not identified\n    Multicentricity: not identified\n    Surgical margin: very close, less than 0.1 mm\n    Non-neoplastic thyroid: lymphocytic thyroiditis with fibrosis and calcification\n    BRAF V600E immunostain: negative\n\nShe has read the report before her follow-up appointment. She points at the last line and asks: \"It says BRAF negative. Does that mean my prognosis is better?\"",
-      "media": "Load image: Final pathology report, all patient and institutional identifiers redacted. Caption: 'Final histology.'",
-      "question": "How do you answer her?",
+      "title": "Step 2/6: Long Enough to Reach",
+      "scenario": "You scan her yourself. The right lobe contains a 0.81 x 0.71 x 0.61 cm nodule: solid, markedly hypoechoic, ill-defined with an irregular boundary and an incomplete halo.\n\nIt sits against the posterior border of the lobe, deep to the bulk of the gland.\n\nYou aspirate it under your own ultrasound guidance.",
+      "media": "Load image 1: Transverse ultrasound of the right lobe showing the nodule at the posterior border, unannotated. Caption: 'Right lobe, transverse.'\nLoad image 2: A 22 gauge and a 25 gauge needle side by side, showing the difference in length. Caption: 'Needle gauges.'",
+      "question": "Which needle do you use?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Her outlook is excellent, but that comes from the size, the absence of extrathyroidal extension and vascular invasion, and the clear nodes; BRAF status is not what determines it",
+          "text": "(A) 22 to 23 gauge",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Yes; BRAF-negative tumors carry a lower recurrence risk, so her outlook is better than it would otherwise have been"
+          "text": "(B) 25 to 27 gauge"
         },
         {
           "id": "C",
-          "text": "(C) No; BRAF-negative papillary carcinomas tend to behave more aggressively and warrant closer surveillance"
+          "text": "(C) 18 gauge core needle"
         },
         {
           "id": "D",
-          "text": "(D) Yes, and it also means she will not need radioiodine"
+          "text": "(D) 20 gauge with continuous strong suction"
         }
       ],
-      "feedback": "Correct answer: A\n\nAnswer the question she is really asking, which is whether she is going to be all right, and then attribute the answer to the right variable. Her outlook is excellent, and it is excellent because the tumor is 4.5 mm, confined to the gland, without vascular invasion or multifocality, with clear nodes. Those are the features that drive her risk. BRAF status is a detail on the same page, not the reason.\n\nThis matters more than it sounds. If you tell her the good news comes from the BRAF line, you have tied her reassurance to a weak variable, and if anything ever does go wrong she will remember that you told her a molecular result made her safe.\n\nWhy the others fail:\n(B) Overstates a real but small effect. BRAF-positive tumors are associated with extrathyroidal extension, nodal disease, and recurrence in large series, but the effect size is modest, it is confounded by histological subtype, and it does not reclassify a pT1a tumor. The direction is mildly in her favor; the magnitude does not carry the sentence.\n(C) Inverts the association. If anything, positivity is the adverse marker, and it becomes clinically meaningful mainly alongside a TERT promoter mutation, where the combination behaves considerably worse than either alone.\n(D) Reaches the right conclusion by the wrong route. She does not need radioiodine, and the reason is that she has a pT1a tumor completely excised by lobectomy, not that a stain came back negative. Explaining a correct decision with a wrong mechanism leaves her unable to understand the next decision you make.\n\nWhat BRAF is actually for, if she asks further, is three separate things, and most confusion comes from not saying which one is in play. It is diagnostic before surgery, where a positive result on indeterminate cytology effectively settles the diagnosis, because the mutation occurs essentially only in papillary carcinoma and its anaplastic derivatives. It is weakly prognostic, as above. And it is predictive of treatment eligibility, since BRAF and MEK inhibition is used in BRAF V600E anaplastic carcinoma and in radioiodine-refractory disease. Because she is negative, that last door is closed, and other drivers such as RET fusions would be the ones worth looking for in the future she will almost certainly never need.\n\nOn the margin she may also ask about: a clearance of less than 0.1 mm looks alarming on the page and is close to expected in a microcarcinoma, where the lesion sits near the capsule almost by definition. In a pT1a tumor with no extrathyroidal extension, no vascular invasion, and no multicentricity, it does not by itself call for further surgery.\n\nKeypoint: give her the reassurance she deserves, and attach it to the findings that actually earned it.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020, section on molecular markers. Ringel MD, Sosa JA, Baloch Z, et al. 2025 American Thyroid Association Management Guidelines for Adult Patients with Differentiated Thyroid Cancer. Thyroid. 2025;35(8):841-985."
+      "feedback": "Correct answer: A\n\nTwo requirements pull opposite ways. The needle must be fine, because blood is what makes an aspirate non-diagnostic. It must also be long enough to reach the back of the lobe, and the finest needles are the shortest.\n\nWhy the others fail:\n(B) The usual choice for a superficial nodule. Here it stops short and returns normal thyroid.\n(C) Core needle is for repeatedly non-diagnostic nodules or suspected lymphoma, and at the posterior border it heads toward the recurrent laryngeal nerve.\n(D) Blood contamination comes from suction and bleeding, not from bore. Strong continuous suction ruins the specimen fastest.\n\nKeypoint: depth sets the gauge, not suspicion.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
+    },
+    {
+      "title": "Step 3/6: The Day Surveillance Ends",
+      "scenario": "The cytology returns suspicious for papillary carcinoma.\n\nYou offer a right thyroidectomy with isthmusectomy. She declines, and chooses active surveillance with yearly ultrasound and thyroglobulin.\n\nShe has been scanned since 2019, the year before this aspirate:\n\n    2019    0.51 x 0.63 x 0.58 cm      Tg      -\n    2020    0.81 x 0.71 x 0.61 cm      Tg      -        aspirate\n    2021    0.82 x 0.76 x 0.74 cm      Tg    131 ng/mL\n    2023    0.96 x 0.84 x 0.82 cm      Tg    230 ng/mL\n    2025    1.04 x 0.93 x 1.01 cm      Tg    185 ng/mL\n\nThe sonographic category has moved from 4B to 4C. On the current study the lesion abuts the posterior thyroid capsule.",
+      "media": "Load image: Side-by-side ultrasound, 2019 and 2025, matched plane and scale. Caption: 'Initial and current.'",
+      "question": "Which finding ends active surveillance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) The maximal diameter has increased by more than 3 mm, and the lesion now abuts the posterior capsule",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "(B) Thyroglobulin has risen from 131 to 185 ng/mL"
+        },
+        {
+          "id": "C",
+          "text": "(C) The TI-RADS category has moved from 4B to 4C"
+        },
+        {
+          "id": "D",
+          "text": "(D) The tumor has passed 10 mm and is no longer a microcarcinoma"
+        }
+      ],
+      "feedback": "Correct answer: A\n\nProgression under active surveillance is defined as a 3 mm increase in maximal diameter, or new nodal metastasis. Hers went from 6.3 to 10.4 mm. Separately, a lesion against the posterior capsule lies near the recurrent laryngeal nerve, one of the standard reasons a nodule is a poor surveillance candidate at all. Either finding alone would justify surgery.\n\nWhy the others fail:\n(B) Thyroglobulin fluctuated without direction and is not a progression marker in an intact gland.\n(C) Sonographic category reflects appearance, not growth.\n(D) Size alone is not the trigger. The Kuma protocol continues surveillance to 13 mm if the patient prefers, because the growth definition is 3 mm on a 10 mm ceiling.\n\nKeypoint: surveillance ends on measured growth or on location, not on a number that looks bigger.\n\nReference: Ito Y, Miyauchi A. Gland Surg. 2020;9(5):1663-1673. Ito Y, Miyauchi A. J Endocr Soc. 2023;7(7):bvad063."
+    },
+    {
+      "title": "Step 4/6: Before Surgery",
+      "scenario": "She agrees to a right thyroidectomy with isthmusectomy. She has no voice complaint and no prior neck surgery.",
+      "media": "",
+      "question": "What do you arrange before the operation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) Laryngoscopy to document vocal fold mobility, contrast-enhanced neck CT, and repeat thyroglobulin with anti-thyroglobulin antibody",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "(B) The same, but non-contrast CT, to avoid an iodine load before possible radioiodine"
+        },
+        {
+          "id": "C",
+          "text": "(C) Laryngoscopy only; cross-sectional imaging adds nothing once the ultrasound is complete"
+        },
+        {
+          "id": "D",
+          "text": "(D) Baseline calcium and parathyroid hormone, since hypoparathyroidism is the main risk of the procedure"
+        }
+      ],
+      "feedback": "Correct answer: A\n\nThe laryngoscopy is the part that belongs to us: a normal voice does not mean two mobile folds, and afterwards the question can no longer be answered. Contrast-enhanced imaging assesses extent and the nodal compartments, and a preoperative thyroglobulin with its antibody gives the baseline that later values are read against.\n\nWhy the others fail:\n(B) The iodine concern is overstated. Contrast clears well before any radioiodine, and withholding it risks understaging the neck.\n(C) Ultrasound cannot assess retrosternal extent or the relationship to airway and vessels.\n(D) Hypoparathyroidism is uncommon after a unilateral procedure, and a baseline would not change the plan.\n\nKeypoint: document the folds before you operate, because afterwards it is an argument rather than a record.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
+    },
+    {
+      "title": "Step 5/6: Reading the Report",
+      "scenario": "Final pathology:\n\n    Papillary thyroid carcinoma, tall cell subtype, well differentiated\n    Two foci, right lobe: 1.1 cm and 0.3 cm\n    Extrathyroidal extension: not identified\n    Vascular and lymphatic invasion: not identified\n    Margin: tumor close to peripheral margin, less than 0.1 mm\n    Lymph nodes: perithyroid 0/1, level VI 0/2\n    pT1b(m) pN0",
+      "media": "Load image: Final pathology report, all patient and institutional identifiers redacted. Caption: 'Final histology.'",
+      "question": "Where does she fall in the ATA recurrence risk stratification?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) Intermediate risk, because of the tall cell subtype",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "(B) Low risk, because the tumor is intrathyroidal, node-negative and under 2 cm"
+        },
+        {
+          "id": "C",
+          "text": "(C) Intermediate risk, because the tumor is multifocal"
+        },
+        {
+          "id": "D",
+          "text": "(D) High risk, because the margin is less than 0.1 mm"
+        }
+      ],
+      "feedback": "Correct answer: A\n\nAggressive histological variants, tall cell among them, move an otherwise favorable tumor into the intermediate category. Every other line on this report reads low risk, which is exactly why the subtype line is the one that decides.\n\nWhy the others fail:\n(B) True of every feature except the one that matters. Stopping before the histological type is the commonest way to get this wrong.\n(C) Multifocality in an intrathyroidal, node-negative papillary carcinoma does not raise the category.\n(D) A close but uninvolved margin is not high risk. That requires gross extrathyroidal extension, incomplete resection, distant metastasis or bulky nodal disease.\n\nKeypoint: the subtype can outrank the size, the stage and the node count at once.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985."
     },
     {
       "title": "Step 6/6: What Happens Now",
-      "scenario": "She is discharged on the third postoperative day with the drain out and the wound clean. Final stage is pT1a pN0, a 4.5 mm classical papillary microcarcinoma, no extrathyroidal extension, no vascular invasion, no multicentricity. The left lobe is intact.\n\nAt her first clinic visit she asks two questions: whether she needs to take a tablet for the rest of her life, and how you will know if the cancer comes back.",
+      "scenario": "She has had a right thyroidectomy with isthmusectomy. The left lobe is intact. She asks what happens next.",
       "media": "",
-      "question": "What is the follow-up plan?",
+      "question": "What do you recommend?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Periodic neck ultrasound, TSH checked periodically with levothyroxine started only if she becomes hypothyroid, and no serial thyroglobulin",
+          "text": "(A) Discuss completion thyroidectomy, since the intermediate-risk features may warrant radioiodine and it cannot be given with a lobe in place",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Serial thyroglobulin every six months as the primary surveillance test, since a rising level would signal recurrence"
+          "text": "(B) Proceed to radioiodine ablation now"
         },
         {
           "id": "C",
-          "text": "(C) Levothyroxine started now and titrated to suppress TSH below 0.1 microIU/mL, to reduce the risk of recurrence"
+          "text": "(C) Start levothyroxine and titrate to suppress TSH below 0.1 microIU/mL"
         },
         {
           "id": "D",
-          "text": "(D) Completion thyroidectomy, because the surgical margin was less than 0.1 mm"
+          "text": "(D) Annual ultrasound alone, since a lobectomy is definitive for any tumor under 2 cm"
         }
       ],
-      "feedback": "Correct answer: A\n\nAfter a lobectomy the surveillance test is ultrasound. You are looking at the thyroid bed, the remaining lobe, and the nodal compartments, and for a low-risk tumor of this size the interval is measured in years rather than months. Thyroid function is checked for her sake, not for the cancer's: roughly one in four to one in three patients becomes hypothyroid after a lobectomy and needs replacement, and the rest do not. So the honest answer to her first question is that she may need a tablet, that you will find out from a blood test rather than from a guess, and that many patients in her position never take one.\n\nWhy the others fail:\n(B) The commonest misunderstanding after a lobectomy, and it comes from applying total-thyroidectomy logic to a patient who still has half a thyroid. The remaining lobe produces thyroglobulin, so the level reflects how much normal tissue she has rather than whether tumor has returned. Serial monitoring is not recommended in this setting, and a rise would generate anxiety and imaging without meaning anything.\n(C) TSH suppression is not indicated for low-risk disease after lobectomy. The aim is a TSH in the normal range, low-normal if anything, and driving it below 0.1 buys her no reduction in recurrence risk while exposing her to the bone and cardiac costs of long-term thyrotoxicosis. She is 41 and will live with this for decades.\n(D) The close margin is real and it looks alarming on the report, but it is close to expected in a microcarcinoma, where the lesion sits near the capsule almost by definition. In a pT1a tumor with no extrathyroidal extension, no vascular invasion, and no multicentricity, it does not by itself justify taking the other lobe. Choosing it converts a patient who may need no medication at all into one who certainly needs it for life.\n\nOne thing to add to the plan that is specifically yours: if her voice changes at any point after this operation, she needs her vocal folds looked at, and you documented them before surgery precisely so that the comparison is available.\n\nKeypoint: after a lobectomy the surveillance test is the ultrasound, and the thyroid function test is for her symptoms rather than for her cancer.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. 2025 American Thyroid Association Management Guidelines for Adult Patients with Differentiated Thyroid Cancer. Thyroid. 2025;35(8):841-985. Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
+      "feedback": "Correct answer: A\n\nThe conversation follows from the risk category. Intermediate risk raises the question of radioiodine, and radioiodine needs the whole gland gone, so completion thyroidectomy is the decision that comes first. It is a discussion, not a foregone conclusion.\n\nWhy the others fail:\n(B) With a normal lobe in place the iodine goes to that lobe, and thyroglobulin surveillance stays uninterpretable.\n(C) Suppression below 0.1 was abandoned for low and intermediate risk in 2015. The target is a TSH in the normal range; years of subclinical thyrotoxicosis cost bone and heart.\n(D) The stage is favorable but the subtype is not, and lobectomy is not automatically definitive once an aggressive variant is on the report.\n\nKeypoint: settle the extent of surgery before the adjuvant treatment, because one forecloses the other.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985."
     }
   ]
 }
