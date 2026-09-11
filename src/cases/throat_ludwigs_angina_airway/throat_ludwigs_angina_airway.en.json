@@ -15,7 +15,7 @@
     {
       "title": "Step 1/6: The Scanner Is Ready",
       "scenario": "A 58-year-old man is brought to the emergency department with a fever and several days of severe pain in a lower molar. He is sitting bolt upright, drooling, with a muffled voice and labored breathing. The floor of his mouth is tense and woody on both sides, and the tongue is pushed up and back.\n\nThe emergency physician has booked a contrast CT of the neck and the porter is waiting to take him.",
-      "media": "",
+      "media": "Load image: Intraoral photograph of tense, elevated floor of mouth with the tongue displaced upward, consented patient. Caption: 'Floor of mouth.'",
       "question": "What do you do?",
       "options": [
         {
@@ -41,7 +41,7 @@
     {
       "title": "Step 2/6: Securing the Airway",
       "scenario": "He is upright, on oxygen, with saturations of 94 percent. Anesthesia is at the bedside. You are scrubbed with a tracheostomy set open. He is still conscious and can follow instructions.",
-      "media": "",
+      "media": "Load image: The double setup as you would stage it: flexible scope and topical anesthesia on one side of the bed, tracheostomy tray open and scalpel-bougie-tube kit laid out on the other. Caption: 'Double setup.'",
       "question": "How do you secure the airway?",
       "options": [
         {
@@ -65,30 +65,30 @@
       "feedback": "Correct answer: A\n\nAn awake technique keeps him breathing for himself throughout. The scope follows the air passage past the swelling, and if it cannot be done, he is still breathing and the surgical airway can proceed under control. Having the surgeon ready at the neck before starting is the point: the plan for failure is in place before the first attempt.\n\nWhy the others fail:\n(B) Induction and paralysis remove the muscle tone that is keeping what airway he has open. If the videolaryngoscope cannot pass the swelling, and it often cannot, he is now apneic with an airway you cannot see. Head and neck infection was one of the highest-risk groups for exactly this sequence in the national audit.\n(C) A nasopharyngeal airway bypasses the tongue base but not swelling below it, and it can bleed into an already compromised airway. Observation is not a plan when the swelling is progressing.\n(D) Blind passage through distorted, swollen tissue risks trauma and bleeding and has no way to confirm the route. If the mouth cannot open, that is a reason for a scope, not for going blind.\n\nKeypoint: keep him breathing, look with a scope, and have the neck ready before you start.\n\nReference: Cook TM, Woodall N, Frerk C. Fourth National Audit Project. Br J Anaesth. 2011;106(5):617-631. Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines. Br J Anaesth. 2015;115(6):827-848. doi:10.1093/bja/aev371."
     },
     {
-      "title": "Step 3/6: The Scope Cannot Pass",
+      "title": "Step 3/6: Where Do You Cut",
       "scenario": "The scope reaches the swelling and cannot advance. He becomes agitated, then unresponsive. The saturation reads 60 percent and falling. Bag-valve-mask ventilation does not move the chest. A supraglottic airway does not seat.\n\nYou declare a can't-intubate, can't-oxygenate situation.",
-      "media": "",
-      "question": "What do you do now?",
+      "media": "Load image: Your own unlabeled line drawing of the anterior neck: thyroid cartilage, cricoid, thyroid isthmus, tracheal rings. No annotations, no arrows. The same drawing is reused at Step 5. Caption: 'Anterior neck.'",
+      "question": "Saturation is 60 percent and falling. Where do you cut?",
       "options": [
         {
           "id": "A",
-          "text": "(A) One more attempt with the videolaryngoscope now that he is unresponsive and the jaw is relaxed"
+          "text": "(A) Through the thyroid cartilage in the midline, the most prominent landmark"
         },
         {
           "id": "B",
-          "text": "(B) Needle cricothyroidotomy with a large-bore cannula and jet oxygenation"
+          "text": "(B) Below the cricoid, through the second and third tracheal rings"
         },
         {
           "id": "C",
-          "text": "(C) Emergency tracheostomy through the swollen neck"
+          "text": "(C) Needle through the cricothyroid membrane with a large-bore cannula, then jet oxygenation"
         },
         {
           "id": "D",
-          "text": "(D) Scalpel cricothyroidotomy: incise the cricothyroid membrane, pass a bougie, railroad a cuffed tube",
+          "text": "(D) Through the cricothyroid membrane, between the thyroid cartilage and the cricoid",
           "correct": true
         }
       ],
-      "feedback": "Correct answer: D\n\nThe Difficult Airway Society 2015 guideline names scalpel cricothyroidotomy as the preferred rescue technique for a can't-intubate, can't-oxygenate emergency. Scalpel, bougie, cuffed tube. It is fast, it uses equipment every operating room has, and it gives a cuffed airway that can be ventilated normally. Ludwig's swelling is above the larynx, so the cricothyroid membrane is usually still reachable.\n\nWhy the others fail:\n(A) Another attempt with the same problem costs the seconds he does not have. The swelling has not changed; only his oxygen has.\n(B) In the national audit that shaped the 2015 guideline, about 60 percent of needle cricothyroidotomy attempts failed. A cannula also gives no cuff, no reliable ventilation, and no protection from aspiration.\n(C) Tracheostomy through infected, swollen tissue takes minutes he does not have. It is the definitive airway later, not the rescue now.\n\nKeypoint: in a can't-intubate, can't-oxygenate emergency, scalpel, bougie, tube.\n\nReference: Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines. Br J Anaesth. 2015;115(6):827-848. doi:10.1093/bja/aev371. Cook TM, Woodall N, Frerk C. Br J Anaesth. 2011;106(5):617-631."
+      "feedback": "Correct answer: D\n\nThe cricothyroid membrane is the most superficial point of the airway. There is no thyroid isthmus over it, it can be felt through the skin even in a swollen neck, and it takes seconds to open. Stabilize the larynx with the non-dominant hand, make a horizontal stab through skin and membrane, rotate the blade, pass a bougie, railroad a 6.0 cuffed tube, inflate the cuff. The Difficult Airway Society names this scalpel technique as the preferred rescue in a can't-intubate, can't-oxygenate emergency.\n\nWhy the others fail:\n(A) The thyroid cartilage is the landmark you hold, not the one you cut. It is solid cartilage, it does not open into the airway, and cutting it damages the larynx above the folds.\n(B) This is the tracheostomy site, and it is right for the definitive airway later. Now it is deeper, under the isthmus, and takes minutes. He has seconds.\n(C) About 60 percent of needle attempts failed in the national audit that shaped the 2015 guideline. A cannula gives no cuff, no reliable ventilation, and no protection from aspiration.\n\nKeypoint: the membrane between thyroid cartilage and cricoid is where you cut in an emergency; the tracheal rings are where you cut when there is time.\n\nReference: Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines. Br J Anaesth. 2015;115(6):827-848. doi:10.1093/bja/aev371. Cook TM, Woodall N, Frerk C. Br J Anaesth. 2011;106(5):617-631."
     },
     {
       "title": "Step 4/6: Now the CT",
@@ -119,7 +119,7 @@
     {
       "title": "Step 5/6: The Definitive Airway",
       "scenario": "The abscess is drained in the operating room and the tooth is removed. The swelling will take days to settle and he will need the airway for at least a week. You convert the cricothyroidotomy to a formal tracheostomy in the same sitting.",
-      "media": "",
+      "media": "Load image: Your own line drawing of the anterior neck: thyroid cartilage, cricothyroid membrane, cricoid, thyroid isthmus, tracheal rings numbered 1 to 6, innominate artery crossing low. No labels on which level is correct. Caption: 'Anterior neck.'",
       "question": "Where do you enter the trachea?",
       "options": [
         {
@@ -145,7 +145,7 @@
     {
       "title": "Step 6/6: The First Night",
       "scenario": "He is in the ICU. At 3 a.m. the nurse calls: his neck and upper chest have swollen up over the last hour and crackle under her fingers. The ventilator is showing high airway pressures.",
-      "media": "",
+      "media": "Load image: Chest radiograph showing subcutaneous air outlining the neck and chest wall muscles, de-identified. Caption: 'Postoperative day 1.'",
       "question": "What has most likely happened?",
       "options": [
         {
