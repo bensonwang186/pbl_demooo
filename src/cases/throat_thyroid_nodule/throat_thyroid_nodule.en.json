@@ -1,20 +1,20 @@
 {
   "id": "throat_thyroid_nodule",
-  "title": "Six Years of Watching",
-  "subtitle": "Active surveillance of a papillary carcinoma, and the day it ended",
-  "description": "Reading a thyroid panel after a suspicious aspirate, choosing a needle for a posteriorly placed nodule, recognizing when active surveillance has failed, preoperative documentation, preoperative imaging, ATA recurrence risk with an aggressive histological variant, and what follows a lobectomy.",
+  "title": "Watch, or Operate",
+  "subtitle": "One thyroid nodule, from the first blood test to the final report",
+  "description": "Interpreting a thyroid panel, choosing a needle for a deeply placed nodule, deciding when follow-up should end, preoperative documentation and imaging, risk stratification, and the decision that follows surgery.",
   "estimatedTime": "20-25 min",
   "difficulty": "Intermediate",
   "tags": [
     "Head and Neck",
-    "Papillary thyroid carcinoma",
-    "Active surveillance",
-    "Tall cell subtype",
+    "Thyroid nodule",
+    "FNA",
+    "Risk stratification",
     "ATA 2025"
   ],
   "steps": [
     {
-      "title": "Step 1/7: The Panel After a Suspicious Aspirate",
+      "title": "Step 1/7: Reading the Panel",
       "scenario": "A 44-year-old woman is referred to your clinic with a right thyroid nodule found on a neck ultrasound. She has no compressive symptoms, no voice change, no radiation history and no family history of thyroid cancer.\n\nHer thyroid panel (institutional reference range in brackets):\n\n    TSH                     1.76 uIU/mL      [0.34 - 5.60]\n    Free T4                 0.98 ng/dL       [0.61 - 1.44]\n    T3                      105 ng/dL        [87 - 178]\n    Anti-TPO antibody       40.2 IU/mL   (H) [< 34]\n    Thyroglobulin           > 300 ng/mL  (H) [1.4 - 78]\n    Anti-thyroglobulin      1.8 IU/mL        [< 4]\n    TSH receptor antibody   0.8 IU/L         [< 1.75]",
       "media": "",
       "question": "How do you read this panel?",
@@ -66,7 +66,7 @@
       "feedback": "Correct answer: B\n\nThe needle has to do two things at once. It has to be thin, because blood in the sample is the main reason an aspirate comes back non-diagnostic. It also has to be long enough to reach a nodule sitting at the back of the lobe. The thinnest needles are also the shortest ones, so 22 to 23 gauge is the compromise.\n\nWhy the others fail:\n(A) This is the right choice for a nodule near the surface. This one is too deep, and a needle that does not reach the target brings back normal thyroid tissue instead.\n(C) A core needle is used when repeated fine needle samples are non-diagnostic, or when lymphoma is suspected. Neither applies here.\n(D) Blood in the sample comes mostly from suction and from bleeding, not from the size of the needle. Strong continuous suction is the quickest way to spoil the specimen.\n\nKeypoint: choose the needle by how deep the nodule is, not by how suspicious it looks.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
     },
     {
-      "title": "Step 3/7: The Day Surveillance Ends",
+      "title": "Step 3/7: Six Months Later",
       "scenario": "The cytology returns papillary thyroid carcinoma.\n\nThe nodule measures 0.51 x 0.63 x 0.58 cm. Below 1 cm it is size-eligible for active surveillance, and after discussion she chooses it.\n\nSix months later:\n\n    Baseline     0.51 x 0.63 x 0.58 cm\n    6 months     0.81 x 0.83 x 0.90 cm\n\nOn the follow-up scan the lesion now abuts the posterior thyroid capsule.",
       "media": "Load image: Side-by-side ultrasound, baseline and six-month study, matched plane and scale. Caption: 'Baseline and six months.'",
       "question": "Which finding ends active surveillance?",
