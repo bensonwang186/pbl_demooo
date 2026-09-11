@@ -67,29 +67,29 @@
     },
     {
       "title": "Step 3/6: Listening to the Voice",
-      "scenario": "You carry out a standard auditory-perceptual evaluation and record:\n\n    G3    Overall grade, severe\n    R2    Roughness, moderate\n    B3    Breathiness, severe\n    A1    Asthenia, slight\n    S1    Strain, slight\n\nA reference chart for the scale is on the wall.",
-      "media": "Load image: GRBASI reference chart. Caption: 'Perceptual scale.'",
-      "question": "Given this profile, what should you expect to find when you look?",
+      "scenario": "At the same visit you carry out a standard auditory-perceptual evaluation and record the score in the chart:\n\n    G3  R2  B3",
+      "media": "Load image: GRBAS reference chart. Caption: 'Perceptual scale.'",
+      "question": "What does B3 mean, and what does it tell you about the vocal folds?",
       "options": [
         {
           "id": "A",
-          "text": "(A) A unilateral lesion on the vibratory margin holding the folds apart and preventing complete closure",
+          "text": "(A) Breathiness, severe: air is escaping during phonation, usually because the vocal folds are not closing completely",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Muscle tension dysphonia, with supraglottic compression and no lesion on the vibratory margin"
+          "text": "(B) Roughness, severe: the vocal folds are vibrating very irregularly"
         },
         {
           "id": "C",
-          "text": "(C) Bilateral vocal fold bowing from atrophy, with a spindle-shaped glottic gap"
+          "text": "(C) Strain, severe: excessive effort is being used to produce voice"
         },
         {
           "id": "D",
-          "text": "(D) Unilateral vocal fold paralysis, with an immobile fold and a wide glottic gap"
+          "text": "(D) Asthenia, severe: the voice is weak and lacks power"
         }
       ],
-      "feedback": "Correct answer: A\n\nRead the whole profile rather than any single number. Severe breathiness means a lot of air is escaping. Moderate roughness means the two folds are vibrating unevenly. Asthenia and strain are both 1, so there is neither weakness nor excess effort. Air escaping without weakness and without strain means something is physically holding the folds apart, and the roughness adds asymmetry between the sides. That points to a mass on one vibratory margin.\n\nWhy the others fail:\n(B) Muscle tension dysphonia comes from excess laryngeal effort, so strain would be raised. It is 1.\n(C) Atrophy gives a thin, weak voice, so asthenia would rise with breathiness. It is 1. Weakness is what separates atrophy from a mass.\n(D) Paralysis also causes marked breathiness, but the large gap is inefficient, so it usually brings raised asthenia too. Asthenia of 1 argues against it, and fold mobility on the next examination will settle it.\n\nOn the chart: the version shown is the extended GRBASI scale, which adds Instability. Classic GRBAS uses five parameters, each 0 normal to 3 severe. Record all five, because the normal ones are what rule out the other three answers.\n\nKeypoint: one raised parameter names the sound; the pattern across all five names the cause.\n\nReference: Hirano M. Clinical Examination of Voice. Springer-Verlag; 1981. Yamauchi EJ, Imaizumi S, Maruyama H, Haji T. Logoped Phoniatr Vocol. 2010;35(3):121-128. doi:10.3109/14015430903334269."
+      "feedback": "Correct answer: A\n\nGRBAS rates five features of the voice, each from 0 (normal) to 3 (severe):\n• G   Grade, overall severity\n• R   Roughness, irregular vibration\n• B   Breathiness, audible air escape\n• A   Asthenia, weakness\n• S   Strain, excess effort\n\nB stands for breathiness, and 3 means severe. Breathiness is the sound of air leaking through the glottis during phonation. It usually means the vocal folds are not closing completely, so something is keeping them apart. That is what you should be looking for at laryngoscopy.\n\nWhy the others fail:\n(B) Roughness is the R, and his R is 2. It describes irregular vibration, not air escape.\n(C) Strain is the S. It describes effort and rises in muscle tension dysphonia. A breathy voice is the opposite problem: too little closure, not too much effort.\n(D) Asthenia is the A. It describes a weak, thin voice, as in atrophy or paralysis. It is not what B measures.\n\nKeypoint: B3 means severe air escape, and severe air escape means the folds are not closing.\n\nReference: Hirano M. Clinical Examination of Voice. Springer-Verlag; 1981. Yamauchi EJ, Imaizumi S, Maruyama H, Haji T. Logoped Phoniatr Vocol. 2010;35(3):121-128. doi:10.3109/14015430903334269."
     },
     {
       "title": "Step 4/6: What the Stroboscope Shows",
