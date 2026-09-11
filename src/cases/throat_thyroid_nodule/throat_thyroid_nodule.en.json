@@ -21,23 +21,23 @@
       "options": [
         {
           "id": "A",
-          "text": "(A) The normal TSH means the nodule is not autonomously functioning; nothing else here changes the plan",
-          "correct": true
+          "text": "(A) A thyroglobulin above 300 ng/mL indicates a high tumor burden and argues for prompt surgery"
         },
         {
           "id": "B",
-          "text": "(B) A thyroglobulin above 300 ng/mL indicates a high tumor burden and argues for prompt surgery"
+          "text": "(B) The raised anti-TPO points to thyroiditis and makes malignancy less likely"
         },
         {
           "id": "C",
-          "text": "(C) The raised anti-TPO points to thyroiditis and makes malignancy less likely"
+          "text": "(C) The normal TSH means the nodule is not autonomously functioning; nothing else here changes the plan",
+          "correct": true
         },
         {
           "id": "D",
           "text": "(D) The normal anti-thyroglobulin antibody means the thyroglobulin can be trusted as a tumor marker"
         }
       ],
-      "feedback": "Correct answer: A\n\nTSH is the only test on this panel that changes what you do next. If it is low, the nodule may be autonomously functioning. Those are rarely cancer, so the next step would be a thyroid scan rather than a biopsy. Her TSH is normal, so the nodule is treated as non-functioning and the decision rests on the ultrasound and the cytology. Free T4 and T3 are only useful once the TSH is abnormal. The TSH receptor antibody is only useful if the TSH is low.\n\nNo blood test on this panel can diagnose thyroid cancer. The only serum marker that can is calcitonin, for medullary carcinoma, and it was not ordered.\n\nWhy the others fail:\n(B) All normal thyroid tissue makes thyroglobulin, so the level rises with a larger gland, with thyroiditis, and even after palpation or a biopsy. While the thyroid is still in the neck there is no Tg level that separates benign from malignant, because the values overlap too much. ATA does not recommend measuring Tg or TgAb before surgery for diagnosis.\n(C) A high anti-TPO means she has thyroiditis, and it also means she is more likely to become hypothyroid after a lobectomy. It does not make a suspicious nodule less likely to be cancer.\n(D) Anti-Tg is measured to check whether the Tg result can be trusted, because the antibody makes Tg read falsely low. Hers is normal, so the Tg value is real. A real value is still not a cancer marker.\n\nKeypoint: the TSH tells you which pathway to follow, the antibodies tell you about the gland, and the thyroglobulin tells you nothing until the thyroid is removed.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020. Giovanella L, D'Aurizio F, Petranovic Ovcaricek P, Gorges R. Diagnostic, theranostic and prognostic value of thyroglobulin in thyroid cancer. J Clin Med. 2024;13(9):2463. doi:10.3390/jcm13092463."
+      "feedback": "Correct answer: C\n\nTSH is the only test here that changes the pathway. If suppressed, it suggests an autonomously functioning nodule, rarely malignant, and leads to scintigraphy rather than a needle. If normal, as here, and the decision depends on ultrasound and cytology. Free T4 and T3 grade dysfunction only once TSH is abnormal; the TSH receptor antibody matters only if TSH is suppressed.\n\nNothing on this panel diagnoses cancer. Only calcitonin can, for medullary carcinoma, and it was not ordered.\n\nWhy the others fail:\n(A) Thyroglobulin is produced by all follicular thyroid tissue, so its level reflects gland volume, thyroiditis, and even mechanical disruption from palpation or biopsy  (it is not specific to malignancy). While the thyroid gland still not\n, no single Tg threshold reliably distinguishes benign from malignant disease; overlap between the two is substantial, and current ATA guidelines do not recommend routine preoperative Tg or TgAb testing for diagnostic purposes. TG only becomes clinically actionable once the gland and all Tg-producing tissue  has been removed. That is why a preoperative Tg is drawn: not to diagnose or stage disease, but to establish an individual baseline. After thyroidectomy, serial Tg measurements (and their trend over time relative to that baseline and TSH stimulation status) are used to predict persistent, recurrent, or metastatic differentiated thyroid cancer. \n(B) Anti-TPO establishes thyroiditis and predicts hypothyroidism after lobectomy, but does not lower the risk of a discrete suspicious nodule.\n(D) Anti-Tg tells you whether the thyroglobulin can be believed, since it falsely lowers Tg in standard assays. A true value is still not a tumor marker.\n\nKeypoint: the TSH tells you which pathway to follow, the antibodies tell you about the gland, and the thyroglobulin tells you nothing until the thyroid is removed.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020. Giovanella L, D'Aurizio F, Petranovic Ovcaricek P, Gorges R. Diagnostic, theranostic and prognostic value of thyroglobulin in thyroid cancer. J Clin Med. 2024;13(9):2463. doi:10.3390/jcm13092463."
     },
     {
       "title": "Step 2/7: Long Enough to Reach",
@@ -47,12 +47,12 @@
       "options": [
         {
           "id": "A",
-          "text": "(A) 22 to 23 gauge",
-          "correct": true
+          "text": "(A) 25 to 27 gauge"
         },
         {
           "id": "B",
-          "text": "(B) 25 to 27 gauge"
+          "text": "(B) 22 to 23 gauge",
+          "correct": true
         },
         {
           "id": "C",
@@ -63,33 +63,33 @@
           "text": "(D) 20 gauge with continuous strong suction"
         }
       ],
-      "feedback": "Correct answer: A\n\nThe needle has to do two things at once. It has to be thin, because blood in the sample is the main reason an aspirate comes back non-diagnostic. It also has to be long enough to reach a nodule sitting at the back of the lobe. The thinnest needles are also the shortest ones, so 22 to 23 gauge is the compromise.\n\nWhy the others fail:\n(B) This is the right choice for a nodule near the surface. This one is too deep, and a needle that does not reach the target brings back normal thyroid tissue instead.\n(C) A core needle is used when repeated fine needle samples are non-diagnostic, or when lymphoma is suspected. Neither applies here. At the back of the lobe it also points toward the recurrent laryngeal nerve.\n(D) Blood in the sample comes mostly from suction and from bleeding, not from the size of the needle. Strong continuous suction is the quickest way to spoil the specimen.\n\nKeypoint: choose the needle by how deep the nodule is, not by how suspicious it looks.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
+      "feedback": "Correct answer: B\n\nThe needle has to do two things at once. It has to be thin, because blood in the sample is the main reason an aspirate comes back non-diagnostic. It also has to be long enough to reach a nodule sitting at the back of the lobe. The thinnest needles are also the shortest ones, so 22 to 23 gauge is the compromise.\n\nWhy the others fail:\n(A) This is the right choice for a nodule near the surface. This one is too deep, and a needle that does not reach the target brings back normal thyroid tissue instead.\n(C) A core needle is used when repeated fine needle samples are non-diagnostic, or when lymphoma is suspected. Neither applies here. At the back of the lobe it also points toward the recurrent laryngeal nerve.\n(D) Blood in the sample comes mostly from suction and from bleeding, not from the size of the needle. Strong continuous suction is the quickest way to spoil the specimen.\n\nKeypoint: choose the needle by how deep the nodule is, not by how suspicious it looks.\n\nReference: Haugen BR, Alexander EK, Bible KC, et al. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020."
     },
     {
       "title": "Step 3/7: The Day Surveillance Ends",
-      "scenario": "The cytology returns papillary thyroid carcinoma.\n\nAt 0.81 cm this is size-eligible for active surveillance under the guideline. You offer it, and she accepts. She is followed with ultrasound and thyroglobulin.\n\n    2019    0.51 x 0.63 x 0.58 cm      Tg      -\n    2020    0.81 x 0.71 x 0.61 cm      Tg      -        aspirate\n    2021    0.82 x 0.76 x 0.74 cm      Tg    131 ng/mL\n    2023    0.96 x 0.84 x 0.82 cm      Tg    230 ng/mL\n    2025    1.04 x 0.93 x 1.01 cm      Tg    185 ng/mL\n\nThe sonographic category has moved from 4B to 4C, and the lesion now abuts the posterior thyroid capsule.",
-      "media": "Load image: Side-by-side ultrasound, 2019 and 2025, matched plane and scale. Caption: 'Initial and current.'",
+      "scenario": "The cytology returns papillary thyroid carcinoma.\n\nThe nodule measures 0.51 x 0.63 x 0.58 cm. Below 1 cm it is size-eligible for active surveillance, and after discussion she chooses it.\n\nSix months later:\n\n    Baseline     0.51 x 0.63 x 0.58 cm\n    6 months     0.81 x 0.83 x 0.90 cm\n\nOn the follow-up scan the lesion now abuts the posterior thyroid capsule.",
+      "media": "Load image: Side-by-side ultrasound, baseline and six-month study, matched plane and scale. Caption: 'Baseline and six months.'",
       "question": "Which finding ends active surveillance?",
       "options": [
         {
           "id": "A",
-          "text": "(A) The maximal diameter has increased by more than 3 mm, and the lesion now abuts the posterior capsule",
-          "correct": true
+          "text": "(A) The maximal diameter has increased by more than 3 mm"
         },
         {
           "id": "B",
-          "text": "(B) Thyroglobulin has risen from 131 to 185 ng/mL"
+          "text": "(B) The nodule is approaching the 1 cm ceiling for surveillance"
         },
         {
           "id": "C",
-          "text": "(C) The TI-RADS category has moved from 4B to 4C"
+          "text": "(C) The nodule grew during the very first surveillance interval"
         },
         {
           "id": "D",
-          "text": "(D) The tumor has passed 10 mm and is no longer a microcarcinoma"
+          "text": "(D) Growth of more than 3 mm in one dimension and a volume increase over 50 percent, in a lesion now abutting the posterior capsule",
+          "correct": true
         }
       ],
-      "feedback": "Correct answer: A\n\nGrowth during active surveillance is defined as an increase of 3 mm or more in the largest diameter, or a new lymph node metastasis. Hers went from 6.3 mm to 10.4 mm. Separately, a nodule touching the posterior capsule sits close to the recurrent laryngeal nerve, and that is one of the usual reasons not to offer surveillance in the first place. Either finding on its own would be enough to operate.\n\nWhy the others fail:\n(B) The thyroglobulin went up and then came down again. It has no clear direction, and while the thyroid is still in place it does not measure tumor growth.\n(C) The sonographic category describes how the nodule looks. It is not a measure of growth and it is not one of the defined triggers.\n(D) Reaching 10 mm on its own is not a trigger. The Kuma protocol allows surveillance to continue up to 13 mm if the patient prefers, because the growth threshold is 3 mm.\n\nKeypoint: surveillance ends when the nodule meets the defined growth threshold, or when its position makes it unsafe to keep watching.\n\nReference: Ito Y, Miyauchi A. Gland Surg. 2020;9(5):1663-1673. Ito Y, Miyauchi A. J Endocr Soc. 2023;7(7):bvad063."
+      "feedback": "Correct answer: D\n\nTwo NCCN triggers are met here, and a third finding supports them.\n\nNCCN lists growth of 3 mm or more in any dimension, or a volume increase of 50 percent or more, as reasons to move from surveillance to surgical consultation, alongside new biopsy-proven nodal metastasis, distant metastasis, or radiologic extrathyroidal extension. Her longitudinal dimension went from 0.58 to 0.90 cm, an increase of 3.2 mm. Her volume went from 0.098 to 0.317 mL, an increase of over 200 percent. The lesion also now abuts the posterior capsule, close to the recurrent laryngeal nerve.\n\nWhy the others fail:\n(A) Check the arithmetic. The maximal diameter went from 0.63 to 0.90 cm, which is 2.7 mm. The 3 mm threshold is met in a different dimension, not this one.\n(B) 0.90 cm is close to 1 cm, but size alone is not a trigger. The listed triggers are growth, nodal or distant metastasis, and extrathyroidal extension.\n(C) Some growth is expected. Surveillance is built around defined thresholds rather than around any change at all.\n\nKeypoint: measure every dimension and calculate the volume, because the threshold may be crossed on an axis you were not watching.\n\nReference: NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma (add the version you are working from). Tuttle RM, Fagin JA, Minkowitz G, et al. Natural history and tumor volume kinetics of papillary thyroid cancers during active surveillance. JAMA Otolaryngol Head Neck Surg. 2017;143(10):1015-1020."
     },
     {
       "title": "Step 4/7: Before Surgery",
@@ -125,23 +125,23 @@
       "options": [
         {
           "id": "A",
-          "text": "(A) Contrast-enhanced CT of the neck and mediastinum",
-          "correct": true
+          "text": "(A) Non-contrast CT, to avoid an iodine load before possible radioiodine"
         },
         {
           "id": "B",
-          "text": "(B) Non-contrast CT, to avoid an iodine load before possible radioiodine"
+          "text": "(B) No cross-sectional imaging; the ultrasound already covers the neck"
         },
         {
           "id": "C",
-          "text": "(C) No cross-sectional imaging; the ultrasound already covers the neck"
+          "text": "(C) Contrast-enhanced CT of the neck and mediastinum",
+          "correct": true
         },
         {
           "id": "D",
           "text": "(D) Repeat ultrasound of the lateral compartments, since ultrasound is the most sensitive test for cervical nodes"
         }
       ],
-      "feedback": "Correct answer: A\n\nThe 2025 ATA guidelines recommend a CT or MRI of the neck and chest with intravenous contrast before surgery when there is gross extrathyroidal extension, extensive or bulky lymph nodes, or a suspicion that the airway, esophagus or chest is involved (strong recommendation, moderate-certainty evidence). Her nodule is touching the capsule, which raises the question of extrathyroidal extension, so she meets the criteria.\n\nOne thing to look for on the scan: if the innominate artery runs behind the esophagus, she is likely to have a right non-recurrent laryngeal nerve.\n\nWhy the others fail:\n(B) Without contrast the scan cannot show whether the tumor is wrapped around vessels, or whether lymph nodes are enhancing or necrotic, and those are the findings that change the operation. The iodine clears in 4 to 6 weeks, and the ATA position is that better images are worth a short delay to radioiodine. A urine iodine level can be checked if there is doubt.\n(C) Ultrasound cannot see the retropharyngeal, parapharyngeal, infraclavicular or mediastinal areas, and it cannot show how far the disease extends downward.\n(D) Ultrasound is very good for the lateral neck, which is how she was staged N0. The problem is the areas it cannot reach.\n\nKeypoint: contrast is necessary here, because the findings that would change the operation cannot be seen without it.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985, Recommendation 8."
+      "feedback": "Correct answer: C\n\nThe 2025 ATA guidelines recommend a CT or MRI of the neck and chest with intravenous contrast before surgery when there is gross extrathyroidal extension, extensive or bulky lymph nodes, or a suspicion that the airway, esophagus or chest is involved (strong recommendation, moderate-certainty evidence). Her nodule is touching the capsule, which raises the question of extrathyroidal extension, so she meets the criteria.\n\nOne thing to look for on the scan: if the innominate artery runs behind the esophagus, she is likely to have a right non-recurrent laryngeal nerve.\n\nWhy the others fail:\n(A) Without contrast the scan cannot show whether the tumor is wrapped around vessels, or whether lymph nodes are enhancing or necrotic, and those are the findings that change the operation. The iodine clears in 4 to 6 weeks, and the ATA position is that better images are worth a short delay to radioiodine. A urine iodine level can be checked if there is doubt.\n(B) Ultrasound cannot see the retropharyngeal, parapharyngeal, infraclavicular or mediastinal areas, and it cannot show how far the disease extends downward.\n(D) Ultrasound is very good for the lateral neck, which is how she was staged N0. The problem is the areas it cannot reach.\n\nKeypoint: contrast is necessary here, because the findings that would change the operation cannot be seen without it.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985, Recommendation 8."
     },
     {
       "title": "Step 6/7: Reading the Report",
@@ -151,12 +151,12 @@
       "options": [
         {
           "id": "A",
-          "text": "(A) Intermediate risk, because of the tall cell subtype",
-          "correct": true
+          "text": "(A) Low risk, because the tumor is intrathyroidal, node-negative and under 2 cm"
         },
         {
           "id": "B",
-          "text": "(B) Low risk, because the tumor is intrathyroidal, node-negative and under 2 cm"
+          "text": "(B) Intermediate risk, because of the tall cell subtype",
+          "correct": true
         },
         {
           "id": "C",
@@ -167,7 +167,7 @@
           "text": "(D) High risk, because the margin is less than 0.1 mm"
         }
       ],
-      "feedback": "Correct answer: A\n\nThe ATA divides recurrence risk into low, intermediate and high.\n\nIntermediate risk includes microscopic extrathyroidal extension, lymph node metastases, radioiodine-avid foci in the neck, vascular invasion, and aggressive histology. Tall cell is one of the named aggressive types, along with hobnail and columnar cell. That one feature puts her in the intermediate group even though everything else in the report looks favorable.\n\nWhy the others fail:\n(B) To be low risk, the tumor must be confined to the thyroid with no aggressive histology, no vascular invasion, no extrathyroidal extension and no lymph node metastases. She meets all of those except the histology.\n(C) A multifocal papillary carcinoma confined to the thyroid, with no other adverse features, stays in the low-risk group. Multifocality on its own does not change the category.\n(D) High risk requires gross extrathyroidal extension, tumor left behind at surgery, distant metastases, or a lymph node 3 cm or larger. A close margin with no tumor at the edge is none of these.\n\nKeypoint: check the histological type before assigning the risk category, because it can outweigh the size, the stage and the lymph node result.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985."
+      "feedback": "Correct answer: B\n\nThe ATA divides recurrence risk into low, intermediate and high.\n\nIntermediate risk includes microscopic extrathyroidal extension, lymph node metastases, radioiodine-avid foci in the neck, vascular invasion, and aggressive histology. Tall cell is one of the named aggressive types, along with hobnail and columnar cell. That one feature puts her in the intermediate group even though everything else in the report looks favorable.\n\nWhy the others fail:\n(A) To be low risk, the tumor must be confined to the thyroid with no aggressive histology, no vascular invasion, no extrathyroidal extension and no lymph node metastases. She meets all of those except the histology.\n(C) A multifocal papillary carcinoma confined to the thyroid, with no other adverse features, stays in the low-risk group. Multifocality on its own does not change the category.\n(D) High risk requires gross extrathyroidal extension, tumor left behind at surgery, distant metastases, or a lymph node 3 cm or larger. A close margin with no tumor at the edge is none of these.\n\nKeypoint: check the histological type before assigning the risk category, because it can outweigh the size, the stage and the lymph node result.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985."
     },
     {
       "title": "Step 7/7: What Happens Now",
@@ -177,23 +177,23 @@
       "options": [
         {
           "id": "A",
-          "text": "(A) Discuss completion thyroidectomy, since the intermediate-risk features may warrant radioiodine and it cannot be given with a lobe in place",
-          "correct": true
+          "text": "(A) Proceed to radioiodine ablation now"
         },
         {
           "id": "B",
-          "text": "(B) Proceed to radioiodine ablation now"
+          "text": "(B) Start levothyroxine and titrate to suppress TSH below 0.1 microIU/mL"
         },
         {
           "id": "C",
-          "text": "(C) Start levothyroxine and titrate to suppress TSH below 0.1 microIU/mL"
+          "text": "(C) Annual ultrasound alone, since a lobectomy is definitive for any tumor under 2 cm"
         },
         {
           "id": "D",
-          "text": "(D) Annual ultrasound alone, since a lobectomy is definitive for any tumor under 2 cm"
+          "text": "(D) Discuss completion thyroidectomy, since the intermediate-risk features may warrant radioiodine and it cannot be given with a lobe in place",
+          "correct": true
         }
       ],
-      "feedback": "Correct answer: A\n\nThree things in her report make a second operation worth discussing: the tall cell type, two separate tumors, and a margin of less than 0.1 mm. While the left lobe is still there, thyroglobulin cannot be used to look for residual disease, and radioiodine is not given until the rest of the thyroid has been removed. The surgical decision has to be made first.\n\nThe 2025 ATA guidelines list tall cell as one of the higher-risk papillary types where completion thyroidectomy may be worth considering after a lobectomy. NCCN takes the same approach for a close or positive margin, lymphatic invasion, or high-grade histology. Both present it as a discussion rather than a requirement.\n\nWhy the others fail:\n(B) Radioiodine cannot be planned while the other lobe is still in place, so the surgical decision comes first. Since 2015 radioiodine has also been used selectively rather than given to everyone after surgery.\n(C) Keeping TSH below 0.1 is not recommended for low or intermediate risk disease unless there is evidence the cancer has returned. For an intermediate-risk patient with no evidence of disease the target is 0.1 to 0.5, or 0.5 to 2.0, depending on how she responds to treatment.\n(D) A tumor under 2 cm is not automatically fully treated by a lobectomy. Two tumors, a close margin and an aggressive cell type are each a reason to reconsider completion rather than simply watch.\n\nKeypoint: decide how much thyroid to remove before deciding about radioiodine, because leaving a lobe rules radioiodine out.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma (add the version you are working from)."
+      "feedback": "Correct answer: D\n\nThree things in her report make a second operation worth discussing: the tall cell type, two separate tumors, and a margin of less than 0.1 mm. While the left lobe is still there, thyroglobulin cannot be used to look for residual disease, and radioiodine is not given until the rest of the thyroid has been removed. The surgical decision has to be made first.\n\nThe 2025 ATA guidelines list tall cell as one of the higher-risk papillary types where completion thyroidectomy may be worth considering after a lobectomy. NCCN takes the same approach for a close or positive margin, lymphatic invasion, or high-grade histology. Both present it as a discussion rather than a requirement.\n\nWhy the others fail:\n(A) Radioiodine cannot be planned while the other lobe is still in place, so the surgical decision comes first. Since 2015 radioiodine has also been used selectively rather than given to everyone after surgery.\n(B) Keeping TSH below 0.1 is not recommended for low or intermediate risk disease unless there is evidence the cancer has returned. For an intermediate-risk patient with no evidence of disease the target is 0.1 to 0.5, or 0.5 to 2.0, depending on how she responds to treatment.\n(C) A tumor under 2 cm is not automatically fully treated by a lobectomy. Two tumors, a close margin and an aggressive cell type are each a reason to reconsider completion rather than simply watch.\n\nKeypoint: decide how much thyroid to remove before deciding about radioiodine, because leaving a lobe rules radioiodine out.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma (add the version you are working from)."
     }
   ]
 }
