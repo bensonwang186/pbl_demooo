@@ -1,99 +1,99 @@
 {
   "id": "throat_tonsillitis",
   "title": "How Many Is Enough",
-  "subtitle": "A child with repeated sore throats, from the referral letter to the follow-up visit",
-  "description": "Counting episodes against the documentation criteria, deciding whether to offer surgery, same-day discharge versus overnight monitoring, what goes in at induction, discharge analgesia, and what to tell the family afterward.",
+  "subtitle": "A young man with repeated sore throats, from the first visit to six weeks after surgery",
+  "description": "The frequency criteria, what counts as a documented episode, what to tell an adult about recovery, what goes in at induction, discharge analgesia, and what the largest adult trial says about the benefit.",
   "estimatedTime": "15-20 min",
   "difficulty": "Intermediate",
   "tags": [
-    "Pediatric Otolaryngology",
+    "General Otolaryngology",
     "Throat infection",
     "Guideline criteria",
     "Perioperative care",
-    "AAO-HNS 2019"
+    "NATTINA"
   ],
   "steps": [
     {
-      "title": "Step 1/6: Counting Episodes",
-      "scenario": "An 8-year-old girl is referred for recurrent sore throat. Her mother says she has had more than ten this year and has been on antibiotics repeatedly.\n\nYou pull the records. There are nine clinic visits for sore throat in the past 12 months:\n\n    4 visits    sore throat, temperature 38.6 to 39.2 C documented\n    2 visits    sore throat, tonsillar exudate described\n    1 visit     sore throat, rapid group A strep test positive\n    2 visits    \"sore throat, antibiotic prescribed\" and nothing else recorded",
-      "media": "Load image: Oropharyngeal photograph showing enlarged tonsils with exudate. Caption: 'Oropharynx.'",
-      "question": "How many of these episodes count toward the criteria for tonsillectomy?",
+      "title": "Step 1/6: The Criteria",
+      "scenario": "A 25-year-old man comes to clinic with recurrent tonsillitis. For the past two years he has had repeated episodes of severe sore throat with fever and pus on the tonsils, and courses of antibiotics from several clinics have not stopped them coming back.\n\nOn examination both tonsils are grade III.",
+      "media": "Load image: Oropharyngeal photograph showing grade III tonsils. Caption: 'Oropharynx.'",
+      "question": "When you discuss surgery with him, you refer to the Paradise criteria. Which frequency of episodes meets the criteria for tonsillectomy?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Nine, because every clinic visit for sore throat in the past year counts"
+          "text": "(A) Three episodes in the past six months"
         },
         {
           "id": "B",
-          "text": "(B) More than ten, because the mother's account also covers episodes managed at home"
-        },
-        {
-          "id": "C",
-          "text": "(C) Seven",
+          "text": "(B) At least 7 in one year; or at least 5 per year for two years; or at least 3 per year for three years",
           "correct": true
         },
         {
+          "id": "C",
+          "text": "(C) A single episode with fever"
+        },
+        {
           "id": "D",
-          "text": "(D) One, because only a positive group A strep test confirms an episode"
+          "text": "(D) At least 5 in one year"
         }
       ],
-      "feedback": "Correct answer: C\n\nAn episode counts only when the record for that visit documents a sore throat plus at least one of the following: temperature above 38.3 C (101 F), cervical adenopathy, tonsillar exudate, or a positive test for group A beta-hemolytic streptococcus. Four visits qualify on temperature, two on exudate, and one on the strep test. The remaining two record a sore throat and a prescription and nothing else.\n\nWhy the others fail:\n(A) A visit for sore throat is not the same as a qualifying episode. Most sore throats at this age are viral, and the four listed features are what separate the episodes the trials counted from the rest.\n(B) The requirement is not there to doubt the mother. It is there because the trials that showed benefit enrolled children whose episodes had these documented features. Counting episodes that were never characterized brings in children who were not represented in those trials, and the expected benefit does not transfer.\n(D) A positive strep test is one of four acceptable features, not the only one. Fever, adenopathy and exudate each qualify on their own, and in practice most documented episodes qualify on fever or exudate rather than on a swab.\n\nKeypoint: an episode counts when the chart records a sore throat plus one of four specific findings, not when the family remembers it.\n\nReference: Mitchell RB, Archer SM, Ishman SL, et al. Clinical Practice Guideline: Tonsillectomy in Children (Update). Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42. doi:10.1177/0194599818801757, Key Action Statement 2."
+      "feedback": "Correct answer: B\n\nThe three thresholds come from the Paradise trial: 7 or more episodes in the past year, or 5 or more per year for two years, or 3 or more per year for three years. Any one of the three is enough. The UK guideline (SIGN) uses the same numbers for adults and adds that the episodes must be disabling and prevent normal functioning. The NATTINA trial, the largest adult tonsillectomy trial, used exactly these entry criteria.\n\nWhy the others fail:\n(A) Three in six months is a high rate, but the criteria count full years, and three in six months does not reach any of the three thresholds.\n(C) One episode is never an indication, however severe.\n(D) Five in one year falls short. Five per year counts only when it happens two years running.\n\nKeypoint: 7 in one year, 5 a year for two years, or 3 a year for three years.\n\nReference: Paradise JL, Bluestone CD, Bachman RZ, et al. N Engl J Med. 1984;310(11):674-683. Scottish Intercollegiate Guidelines Network. Management of Sore Throat and Indications for Tonsillectomy. SIGN 117. 2010."
     },
     {
-      "title": "Step 2/6: What You Recommend",
-      "scenario": "Seven documented qualifying episodes in the past 12 months.\n\nShe is otherwise well and growing normally. She does not snore and there is no witnessed apnea. She has no drug allergies and no bleeding history.",
+      "title": "Step 2/6: What Counts",
+      "scenario": "He says there have been more than ten episodes this year. You open the chart to count them.\n\nTo count toward the criteria, an episode has to be documented at the time it happened.",
       "media": "",
-      "question": "What do you recommend?",
+      "question": "Which of these counts as a documented episode?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Offer tonsillectomy, and decide with the family",
-          "correct": true
+          "text": "(A) A phone call to the clinic for sore throat, with antibiotics prescribed"
         },
         {
           "id": "B",
-          "text": "(B) Watchful waiting, since the criterion requires seven episodes across two years rather than in one"
+          "text": "(B) A sore throat he reports at a later visit"
         },
         {
           "id": "C",
-          "text": "(C) Watchful waiting, since she has had no complications from any of the episodes"
+          "text": "(C) A sore throat with at least one of: temperature above 38.3 C, cervical adenopathy, tonsillar exudate, or a positive strep test recorded at that visit",
+          "correct": true
         },
         {
           "id": "D",
-          "text": "(D) Six months of prophylactic antibiotics, then reconsider surgery"
+          "text": "(D) A sore throat with a normal examination and no fever recorded"
         }
       ],
-      "feedback": "Correct answer: A\n\nSeven documented episodes in the past year meets the frequency criterion, and tonsillectomy becomes a reasonable option. Note the strength of the statement: this is an option, not a strong recommendation. Meeting the criterion makes surgery defensible, not obligatory, and the decision is made with the family after discussing the expected benefit and the risks.\n\nWhy the others fail:\n(B) Misreads the three thresholds. They are seven episodes in the past year, or five per year for two years, or three per year for three years. Any one of the three is sufficient, and she meets the first.\n(C) Complications are not part of the frequency criterion. A history of more than one peritonsillar abscess is one of the factors that can justify surgery in a child who falls below the thresholds, but their absence does not disqualify a child who meets them.\n(D) Long-term antibiotic prophylaxis is not part of this guideline. It exposes her to adverse effects and resistance, and it does not change the fact that she already meets the criterion.\n\nKeypoint: meeting the criterion opens the conversation about surgery rather than settling it.\n\nReference: Mitchell RB, Archer SM, Ishman SL, et al. Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42, Key Action Statements 2 and 3."
+      "feedback": "Correct answer: C\n\nAn episode counts only when the note from that visit records a sore throat plus at least one of four findings: temperature above 38.3 C (101 F), cervical adenopathy, tonsillar exudate, or a positive test for group A streptococcus.\n\nHis chart has nine visits for sore throat this year. Seven have one of those findings recorded. Two say only \"sore throat, antibiotic prescribed.\" So he has seven documented episodes, which meets the first threshold.\n\nWhy the others fail:\n(A) Nothing was examined or measured, so nothing can be counted.\n(B) Recall is not documentation. The requirement exists because the trials that showed benefit enrolled patients whose episodes had these recorded features.\n(D) A sore throat with a normal examination is most likely viral, and it is not one of the episodes the trials counted.\n\nKeypoint: count what the chart recorded at the time, not what the patient remembers.\n\nReference: Paradise JL, Bluestone CD, Bachman RZ, et al. N Engl J Med. 1984;310(11):674-683. Scottish Intercollegiate Guidelines Network. SIGN 117. 2010."
     },
     {
-      "title": "Step 3/6: Home the Same Day",
-      "scenario": "The family agrees to surgery. She is 8 years old, has no obstructive symptoms and no comorbid conditions, and lives 40 minutes from the hospital.\n\nThe list is a day surgery list.",
+      "title": "Step 3/6: What Recovery Looks Like",
+      "scenario": "Seven documented episodes in one year meets the criteria, and he wants surgery. Before booking it you talk about recovery.\n\nHe works full time and asks how long he will be off.",
       "media": "",
-      "question": "Does she need overnight inpatient monitoring?",
+      "question": "What do you tell him about recovery in an adult?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Yes, because the first 24 hours carry the risk of primary bleeding"
+          "text": "(A) Pain is worse and lasts longer than in children, usually around two weeks, and about one in five adults in the largest trial reported some postoperative bleeding",
+          "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Yes, because all children under 12 are observed overnight after tonsillectomy"
+          "text": "(B) Recovery is like a child's: two or three days of discomfort and back to work within a week"
         },
         {
           "id": "C",
-          "text": "(C) Yes, because of the number of throat infections she has had"
+          "text": "(C) Bleeding is rare in adults because the tonsillar bed is larger and easier to cauterize"
         },
         {
           "id": "D",
-          "text": "(D) No, overnight monitoring is for children under 3 years or with severe obstructive sleep apnea",
-          "correct": true
+          "text": "(D) He should expect to stay in hospital for several days"
         }
       ],
-      "feedback": "Correct answer: D\n\nOvernight inpatient monitoring is recommended for children younger than 3 years, and for children with severe obstructive sleep apnea, defined as an apnea-hypopnea index of 10 or more obstructive events per hour, an oxygen saturation nadir below 80 percent, or both. She is 8, has no obstructive symptoms, and meets neither. Same-day discharge is appropriate.\n\nWhy the others fail:\n(A) The reasoning sounds protective and does not hold. Primary bleeding is uncommon, and an overnight stay does not prevent it; it only changes where the child is if it happens. The criteria are built around airway risk after surgery, not around bleeding surveillance.\n(B) There is no age cutoff of 12. The stated age criterion is under 3 years.\n(C) The number of preoperative infections says nothing about the risk of the postoperative night. It was the reason for the operation, not a reason to admit.\n\nKeypoint: the overnight criteria are about airway risk, and they are age under 3 or severe sleep apnea.\n\nReference: Mitchell RB, Archer SM, Ishman SL, et al. Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42, Key Action Statement 12."
+      "feedback": "Correct answer: A\n\nAdults have more pain after tonsillectomy than children and it lasts longer, usually about two weeks. In NATTINA, 39 percent of participants had an adverse event related to the surgery, and the most common was bleeding, reported by 19 percent. That is higher than older reports of 5 to 10 percent, partly because the trial contacted patients proactively to ask. Plan two weeks off work and tell him what a bleed looks like and where to go.\n\nWhy the others fail:\n(B) This is the child's course, and adults do worse on every measure: pain, time to eating normally, and days off.\n(C) The opposite of the evidence. Adult bleeding rates are higher than children's, not lower.\n(D) Uncomplicated adult tonsillectomy is a day case or overnight stay. Several days is not expected.\n\nKeypoint: two weeks of significant pain, and a real bleeding risk he needs to be told about before he agrees.\n\nReference: Wilson JA, O'Hara J, Fouweather T, et al. Conservative management versus tonsillectomy in adults with recurrent acute tonsillitis in the UK (NATTINA). Lancet. 2023;401(10393):2051-2059. doi:10.1016/S0140-6736(23)00519-6."
     },
     {
       "title": "Step 4/6: At Induction",
-      "scenario": "She is on the table. Anesthesia asks what you want given.",
+      "scenario": "He is on the operating table. The anesthesiologist asks what you want given.",
       "media": "",
       "question": "What do you give intraoperatively?",
       "options": [
@@ -103,8 +103,7 @@
         },
         {
           "id": "B",
-          "text": "(B) A single dose of intravenous dexamethasone, and no antibiotic",
-          "correct": true
+          "text": "(B) Neither, since both have been linked to postoperative bleeding"
         },
         {
           "id": "C",
@@ -112,62 +111,63 @@
         },
         {
           "id": "D",
-          "text": "(D) Neither, since both have been linked to increased postoperative bleeding"
+          "text": "(D) A single dose of intravenous dexamethasone, and no antibiotic",
+          "correct": true
         }
       ],
-      "feedback": "Correct answer: B\n\nTwo separate strong recommendations point in opposite directions. A single intraoperative dose of intravenous dexamethasone should be given: it reduces postoperative nausea and vomiting and improves early oral intake. Perioperative antibiotics should not be given or prescribed: they do not reduce pain, bleeding, or return visits, and they carry the usual costs of resistance and adverse effects.\n\nWhy the others fail:\n(A) Reverses both recommendations at once.\n(C) The steroid half is correct. The antibiotic half is the part practice has moved away from, and it was one of the statements revised in 2019 because routine use had persisted without benefit.\n(D) The concern about steroids and bleeding is the reason this was studied in the first place. A single intraoperative dose has not been shown to increase bleeding that requires intervention, and withholding it gives up a benefit that is well established.\n\nKeypoint: give the steroid, withhold the antibiotic, and note that both are strong recommendations rather than preferences.\n\nReference: Mitchell RB, Archer SM, Ishman SL, et al. Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42, Key Action Statements 10 and 11."
+      "feedback": "Correct answer: D\n\nA single intraoperative dose of dexamethasone reduces postoperative nausea and vomiting and helps early oral intake. Perioperative antibiotics do not: a Cochrane review found they do not reduce pain, bleeding, or time to normal diet, and they carry the usual costs of adverse effects and resistance.\n\nWhy the others fail:\n(A) Reverses both. The antibiotic has no benefit and the steroid does.\n(B) A single steroid dose has not been shown to increase bleeding that requires intervention, and withholding it gives up a real benefit.\n(C) The steroid half is right. The antibiotic half is the routine that persisted for years without evidence.\n\nKeypoint: give the steroid, withhold the antibiotic.\n\nReference: Dhiwakar M, Clement WA, Supriya M, McKerrow W. Antibiotics to reduce post-tonsillectomy morbidity. Cochrane Database Syst Rev. 2012;(12):CD005607."
     },
     {
       "title": "Step 5/6: Going Home",
-      "scenario": "The operation is uncomplicated. She wakes well, drinks, and is ready for discharge the same afternoon.\n\nHer mother asks what to give her for the pain.",
+      "scenario": "The operation is uncomplicated. He is ready to go home the same evening and asks what to take for the pain.",
       "media": "",
       "question": "What do you prescribe?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Ibuprofen, acetaminophen, or both",
-          "correct": true
+          "text": "(A) An opioid alone, since anti-inflammatory drugs increase the risk of bleeding"
         },
         {
           "id": "B",
-          "text": "(B) Acetaminophen with codeine at weight-based dosing"
+          "text": "(B) Scheduled acetaminophen and ibuprofen, with a small supply of an opioid only for breakthrough pain",
+          "correct": true
         },
         {
           "id": "C",
-          "text": "(C) Acetaminophen alone, since ibuprofen increases the risk of post-tonsillectomy bleeding"
+          "text": "(C) Acetaminophen alone, since ibuprofen increases the risk of bleeding"
         },
         {
           "id": "D",
-          "text": "(D) Acetaminophen with tramadol, which avoids the known problem with codeine"
+          "text": "(D) A course of antibiotics, which reduces pain by reducing bacterial load in the tonsillar bed"
         }
       ],
-      "feedback": "Correct answer: A\n\nIbuprofen, acetaminophen, or both is a strong recommendation. Used together they control pain well enough that most children do not need an opioid at all, which is the point.\n\nWhy the others fail:\n(B) Codeine must not be given to any child under 12 after tonsillectomy. Codeine is converted to morphine by CYP2D6, some children are ultra-rapid metabolizers, and deaths from respiratory depression have been reported in exactly this setting. This is one of only two prohibitions in the guideline.\n(C) A widely held belief that the evidence does not support. Ibuprofen has not been shown to increase post-tonsillectomy bleeding that requires intervention. Withholding it gives weaker analgesia and pushes families toward opioids, which is the greater risk.\n(D) Tramadol is also metabolized by CYP2D6 and carries the same ultra-rapid metabolizer problem as codeine. It is not the safe substitute it is often assumed to be, and it is restricted in children after tonsillectomy for the same reason.\n\nKeypoint: the two non-opioids are the first-line prescription, and codeine and tramadol share the same metabolic reason for being avoided.\n\nReference: Mitchell RB, Archer SM, Ishman SL, et al. Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42, Key Action Statements 13 and 14."
+      "feedback": "Correct answer: B\n\nScheduled acetaminophen and ibuprofen together are the base of pain control, taken by the clock for the first week rather than as needed. Adult pain is severe enough that a short supply of an opioid for breakthrough is reasonable, with a set number of tablets and no refill.\n\nWhy the others fail:\n(A) Ibuprofen has not been shown to increase post-tonsillectomy bleeding that requires intervention. Leaving it out means more opioid, not less bleeding.\n(C) Same error. Withholding ibuprofen weakens the regimen without lowering the bleeding risk.\n(D) Antibiotics do not reduce post-tonsillectomy pain. The Cochrane review from Step 4 covers this directly.\n\nKeypoint: acetaminophen and ibuprofen by the clock, opioid only for breakthrough.\n\nReference: Dhiwakar M, Clement WA, Supriya M, McKerrow W. Cochrane Database Syst Rev. 2012;(12):CD005607. Mitchell RB, Archer SM, Ishman SL, et al. Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42, Key Action Statement 13."
     },
     {
       "title": "Step 6/6: Six Weeks Later",
-      "scenario": "She had a sore throat for about ten days and then settled. There was no bleeding.\n\nAt her six-week visit the fossae are healed. Her mother asks whether this means the sore throats are over.",
+      "scenario": "The fossae are healed and there was no bleeding. He is back at work.\n\nHe asks whether this means the sore throats are over.",
       "media": "Load image: Oropharyngeal photograph showing healed tonsillar fossae. Caption: 'Six weeks.'",
-      "question": "What do you tell her?",
+      "question": "What do you tell him?",
       "options": [
         {
           "id": "A",
-          "text": "(A) She should not get throat infections again, since the tonsils have been removed"
+          "text": "(A) He should not get sore throats again, since the tonsils have been removed"
         },
         {
           "id": "B",
-          "text": "(B) Her immune defenses will now be weaker, so she should expect more infections of other kinds"
+          "text": "(B) Tonsillectomy has not been shown to help adults, and it was done to make each episode milder"
         },
         {
           "id": "C",
-          "text": "(C) The reduction is real but modest and is concentrated in the first year or two, and recurrent throat infection tends to become less frequent over time even without surgery",
+          "text": "(C) He will have fewer sore throat days, not none: in the largest adult trial, about 23 days over two years compared with 30 without surgery",
           "correct": true
         },
         {
           "id": "D",
-          "text": "(D) Tonsillectomy has not been shown to reduce throat infections, and it was done mainly to shorten each episode"
+          "text": "(D) His immune defenses are now weaker, so he should expect more infections of other kinds"
         }
       ],
-      "feedback": "Correct answer: C\n\nBoth halves of this matter. Tonsillectomy does reduce the frequency of throat infection in severely affected children, but the size of the effect is modest and largest in the first year or two. At the same time, recurrent throat infection improves on its own with age, which is the reason the thresholds for operating are set as high as they are.\n\nWhy the others fail:\n(A) Removing the tonsils does not remove the pharynx. She can still get pharyngitis, including streptococcal pharyngitis, and promising otherwise sets up a conversation you will have to take back.\n(B) A common family worry and worth answering directly. No study has demonstrated a clinically significant effect of tonsillectomy on immune function.\n(D) Understates a real effect. The benefit in frequency exists in children who meet the criteria; it is the size of it, not its existence, that gets overstated.\n\nKeypoint: promise a smaller number of sore throats, not the end of them, and say that some of the improvement would have come anyway.\n\nReference: Mitchell RB, Archer SM, Ishman SL, et al. Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42. Paradise JL, Bluestone CD, Bachman RZ, et al. Efficacy of tonsillectomy for recurrent throat infection in severely affected children. N Engl J Med. 1984;310(11):674-683."
+      "feedback": "Correct answer: C\n\nNATTINA randomized 453 adults who met the criteria to tonsillectomy or conservative management and counted sore throat days for two years. The tonsillectomy group had a median of 23 days against 30 in the conservative group, and after adjustment the rate was about half. The surgery was also cost-effective. So the benefit is real, but it is fewer days, not zero.\n\nWhy the others fail:\n(A) Removing the tonsils does not remove the pharynx. He can still get pharyngitis, including streptococcal pharyngitis.\n(B) Wrong on both counts. NATTINA showed a clear reduction in sore throat days, and the operation was done for frequency, not for severity of individual episodes.\n(D) No study has shown a clinically meaningful effect of tonsillectomy on immune function.\n\nKeypoint: about half the sore throat days, not none of them.\n\nReference: Wilson JA, O'Hara J, Fouweather T, et al. Lancet. 2023;401(10393):2051-2059. doi:10.1016/S0140-6736(23)00519-6."
     }
   ]
 }
