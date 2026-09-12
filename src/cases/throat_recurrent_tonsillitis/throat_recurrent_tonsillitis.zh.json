@@ -37,7 +37,7 @@
           "text": "(D) 一年內至少 5 次"
         }
       ],
-      "feedback": "正確答案：B\n\n這三個門檻來自 Paradise trial：過去一年 7 次以上，或連續兩年每年 5 次以上，或連續三年每年 3 次以上。符合任一個就夠了。英國的 SIGN guideline 對成人用同一組數字，並加上「發作必須嚴重到影響正常生活」。成人最大型的 NATTINA trial 用的就是這組納入條件。\n\n其他選項為什麼不對：\n(A) 六個月三次頻率確實高，但標準是以「整年」為單位計算，六個月三次三個門檻都沒到。\n(C) 不管多嚴重，一次發作都不是手術適應症。\n(D) 一年五次還差一點。每年五次要「連續兩年」才算。\n\nKeypoint：一年 7 次、連兩年每年 5 次、或連三年每年 3 次。\n\nReference: Paradise JL, Bluestone CD, Bachman RZ, et al. N Engl J Med. 1984;310(11):674-683. Scottish Intercollegiate Guidelines Network. Management of Sore Throat and Indications for Tonsillectomy. SIGN 117. 2010."
+      "feedback": "正確答案：B\n\n這三個門檻是 Paradise trial 訂出來的：過去一年發作 7 次以上，或連續兩年每年 5 次以上，或連續三年每年 3 次以上。三個裡面符合任何一個就算數。英國的 SIGN guideline 對成人用的是同一組數字，只是多加了一句：發作要嚴重到影響正常生活。成人規模最大的 NATTINA trial，收案條件用的也是這一組。\n\n其他選項為什麼不對：\n(A) 六個月三次，換算起來頻率確實不低，但這套標準是以整年為單位在數的，六個月三次三個門檻一個都沒碰到。\n(C) 不管那一次發作多嚴重，一次就是一次，從來不構成手術適應症。\n(D) 一年五次差一點點。五次這個數字要連續兩年都達到才算。\n\nKeypoint：一年 7 次、連兩年每年 5 次、連三年每年 3 次，記這三組就夠了。\n\nReference: Paradise JL, Bluestone CD, Bachman RZ, et al. N Engl J Med. 1984;310(11):674-683. Scottish Intercollegiate Guidelines Network. Management of Sore Throat and Indications for Tonsillectomy. SIGN 117. 2010."
     },
     {
       "title": "Step 2/6：什麼才算數",
@@ -63,7 +63,7 @@
           "text": "(D) 喉嚨痛，但理學檢查正常、沒有發燒紀錄"
         }
       ],
-      "feedback": "正確答案：C\n\n只有當次病歷同時記錄「喉嚨痛」加上下列四項之一，這次發作才算數：體溫 >38.3°C（101°F）、頸部淋巴結腫大、扁桃腺 exudate、或 group A streptococcus 檢測陽性。\n\n他今年有九次喉嚨痛的門診紀錄。其中七次有記到上述其中一項。另外兩次只寫「喉嚨痛，開抗生素」。所以他有七次有紀錄的發作，符合第一個門檻。\n\n其他選項為什麼不對：\n(A) 沒有檢查、沒有測量，就沒有東西可以算。\n(B) 回想不等於紀錄。這個要求存在，是因為證實手術有效的那些試驗，納入的是發作當下就有這些紀錄的病人。\n(D) 理學檢查正常的喉嚨痛多半是病毒性的，不是那些試驗計入的發作。\n\nKeypoint：算的是病歷當下記了什麼，不是病人記得什麼。\n\nReference: Paradise JL, Bluestone CD, Bachman RZ, et al. N Engl J Med. 1984;310(11):674-683. Scottish Intercollegiate Guidelines Network. SIGN 117. 2010."
+      "feedback": "正確答案：C\n\n一次發作要算進去，那一次的病歷必須同時寫到「喉嚨痛」，加上這四項裡的任何一項：體溫超過 38.3°C、頸部淋巴結腫、扁桃腺有 exudate、或 strep test 陽性。\n\n他今年因為喉嚨痛看了九次門診。其中七次有記到上面其中一項，另外兩次病歷上只有「喉嚨痛，開抗生素」這幾個字。所以他算得出來的是七次，剛好碰到第一個門檻。\n\n其他選項為什麼不對：\n(A) 電話裡沒有人檢查他、也沒有量到任何數據，就沒有東西可以拿來算。\n(B) 病人自己回想不算紀錄。會有這個要求，是因為當初證實手術有效的那些試驗，收的都是發作當下就留下這些紀錄的病人；沒有紀錄的那些，本來就不在研究裡面。\n(D) 檢查起來什麼都正常的喉嚨痛，多半是病毒感染，不是那些試驗在數的東西。\n\nKeypoint：數的是當時病歷寫了什麼，不是病人說他痛過幾次。\n\nReference: Paradise JL, Bluestone CD, Bachman RZ, et al. N Engl J Med. 1984;310(11):674-683. Scottish Intercollegiate Guidelines Network. SIGN 117. 2010."
     },
     {
       "title": "Step 3/6：恢復期長什麼樣子",
@@ -89,7 +89,7 @@
           "text": "(D) 要有住院好幾天的心理準備"
         }
       ],
-      "feedback": "正確答案：A\n\n成人 tonsillectomy 後的疼痛比小孩嚴重也持續更久，通常約兩週。在 NATTINA 裡，39% 的受試者發生手術相關不良事件，最常見的是出血，有 19% 回報。這比過去報告的 5 到 10% 高，部分原因是試驗主動聯絡病人詢問。請他排兩週的假，並且告訴他出血長什麼樣子、要去哪裡。\n\n其他選項為什麼不對：\n(B) 這是小孩的恢復過程。成人在每一個指標上都比較差：疼痛、恢復正常進食的時間、請假天數。\n(C) 和證據相反。成人的出血率比小孩高，不是低。\n(D) 單純的成人 tonsillectomy 是 day case 或住一晚。不會住好幾天。\n\nKeypoint：兩週的顯著疼痛，以及一個他必須在同意手術前就知道的真實出血風險。\n\nReference: Wilson JA, O'Hara J, Fouweather T, et al. Conservative management versus tonsillectomy in adults with recurrent acute tonsillitis in the UK (NATTINA). Lancet. 2023;401(10393):2051-2059. doi:10.1016/S0140-6736(23)00519-6."
+      "feedback": "正確答案：A\n\n成人開完扁桃腺比小孩痛得多，也痛得久，大概要兩週。NATTINA 這個試驗裡，39% 的人出現手術相關的不良事件，最多的是出血，有 19% 回報過。這個數字比以前講的 5 到 10% 高很多，一部分原因是這個試驗會主動打電話問病人，不是等病人回來才知道。所以請他直接排兩週的假，而且要告訴他出血長什麼樣子、真的出血要去哪裡。\n\n其他選項為什麼不對：\n(B) 這是小孩的恢復狀況。成人每一項都比較差：更痛、更久才能正常吃東西、要請更多天假。\n(C) 剛好講反了。成人的出血率比小孩高，不是低。\n(D) 單純的成人扁桃腺切除是當天回家或住一晚。不會住到好幾天。\n\nKeypoint：兩週的疼痛，加上一個他必須在簽同意書之前就知道的出血風險。\n\nReference: Wilson JA, O'Hara J, Fouweather T, et al. Conservative management versus tonsillectomy in adults with recurrent acute tonsillitis in the UK (NATTINA). Lancet. 2023;401(10393):2051-2059. doi:10.1016/S0140-6736(23)00519-6."
     },
     {
       "title": "Step 4/6：誘導時",
@@ -115,7 +115,7 @@
           "correct": true
         }
       ],
-      "feedback": "正確答案：D\n\n術中單次給一劑 dexamethasone 可以減少術後噁心嘔吐，也幫助早期經口進食。Perioperative antibiotics 則沒有這些好處：一篇 Cochrane review 發現它不會減少疼痛、出血、或恢復正常飲食的時間，反而要付出副作用和抗藥性的代價。\n\n其他選項為什麼不對：\n(A) 兩件事都弄反了。沒有好處的是 antibiotic，有好處的是 steroid。\n(B) 沒有證據顯示單次 steroid 會增加需要處理的出血，不給它等於放棄一個真實的好處。\n(C) Steroid 那一半是對的。Antibiotic 那一半是沿用多年但沒有證據支持的常規。\n\nKeypoint：Steroid 要給，antibiotic 不要給。\n\nReference: Dhiwakar M, Clement WA, Supriya M, McKerrow W. Antibiotics to reduce post-tonsillectomy morbidity. Cochrane Database Syst Rev. 2012;(12):CD005607."
+      "feedback": "正確答案：D\n\n這兩件事的答案剛好是相反的。Dexamethasone 術中給一劑，可以減少術後噁心嘔吐，也讓病人比較早能吃東西，該給。抗生素則相反：Cochrane review 看過了，它不會讓病人比較不痛、不會減少出血、也不會讓病人比較快恢復正常飲食，該省下來的就省下來，不然只是白白承擔副作用和抗藥性。\n\n其他選項為什麼不對：\n(A) 兩件事剛好都做反了。沒有好處的是抗生素，有好處的是類固醇。\n(B) 會擔心類固醇造成出血是合理的，這也是當初去研究它的原因，但術中單獨給一劑並沒有被證實會增加需要處理的出血。不給它只是白白放棄一個已經確立的好處。\n(C) 類固醇那一半是對的。抗生素那一半是沿用了很多年、但一直沒有證據支持的習慣。\n\nKeypoint：類固醇給，抗生素不給。\n\nReference: Dhiwakar M, Clement WA, Supriya M, McKerrow W. Antibiotics to reduce post-tonsillectomy morbidity. Cochrane Database Syst Rev. 2012;(12):CD005607."
     },
     {
       "title": "Step 5/6：回家",
@@ -141,7 +141,7 @@
           "text": "(D) 開一個療程的抗生素，藉由降低 tonsillar bed 的細菌量來減輕疼痛"
         }
       ],
-      "feedback": "正確答案：B\n\nAcetaminophen 加 ibuprofen 一起、按時間服用（不是痛了才吃）是止痛的基礎，第一週尤其要定時。成人的疼痛程度夠強，開少量 opioid 做 breakthrough 是合理的——固定顆數，不再續開。\n\n其他選項為什麼不對：\n(A) 沒有證據顯示 ibuprofen 會增加需要處理的術後出血。不開它的結果是用更多 opioid，不是更少出血。\n(C) 同樣的錯誤。不給 ibuprofen 會削弱止痛效果，卻不會降低出血風險。\n(D) 抗生素不會減輕 tonsillectomy 後的疼痛，Step 4 引用的 Cochrane review 直接回答了這一點。\n\nKeypoint：Acetaminophen 加 ibuprofen 定時吃，opioid 只做 breakthrough。\n\nReference: Dhiwakar M, Clement WA, Supriya M, McKerrow W. Cochrane Database Syst Rev. 2012;(12):CD005607. Mitchell RB, Archer SM, Ishman SL, et al. Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42, Key Action Statement 13."
+      "feedback": "正確答案：B\n\nAcetaminophen 和 ibuprofen 兩種一起、按時間吃，第一週尤其不要等到痛了才吃，這是止痛的基礎。成人扁桃腺術後是真的很痛，所以額外開少量的 opioid 讓他痛到受不了的時候用是合理的——講好幾顆，不再續開。\n\n其他選項為什麼不對：\n(A) 沒有證據顯示 ibuprofen 會增加需要回來處理的出血。不給它，結果是他吃更多 opioid，出血並不會比較少。\n(C) 一樣的問題。少了 ibuprofen 止痛效果就變差，出血風險卻沒有因此降低。\n(D) 抗生素不會讓術後比較不痛，Step 4 引的那篇 Cochrane review 直接回答了這件事。\n\nKeypoint：兩種非鴉片類定時吃，opioid 只留給真的撐不住的時候。\n\nReference: Dhiwakar M, Clement WA, Supriya M, McKerrow W. Cochrane Database Syst Rev. 2012;(12):CD005607. Mitchell RB, Archer SM, Ishman SL, et al. Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42, Key Action Statement 13."
     },
     {
       "title": "Step 6/6：六週後",
@@ -167,7 +167,7 @@
           "text": "(D) 免疫力會變差，之後其他感染會變多"
         }
       ],
-      "feedback": "正確答案：C\n\nNATTINA 將 453 位符合標準的成人隨機分到 tonsillectomy 或保守治療，計算兩年內喉嚨痛的天數。手術組中位數 23 天，保守組 30 天，校正後的發生率約為一半。手術同時也具成本效益。所以效益是真的，但是「天數變少」，不是「歸零」。\n\n其他選項為什麼不對：\n(A) 拿掉扁桃腺不等於拿掉咽部。他還是會有 pharyngitis，包括鏈球菌性咽炎。\n(B) 兩件事都錯。NATTINA 顯示喉嚨痛天數明顯減少；而且這次手術是為了「頻率」，不是為了讓單次發作變輕。\n(D) 沒有研究顯示 tonsillectomy 對免疫功能有臨床上有意義的影響。\n\nKeypoint：喉嚨痛的天數大約少一半，不是完全不會痛。\n\nReference: Wilson JA, O'Hara J, Fouweather T, et al. Lancet. 2023;401(10393):2051-2059. doi:10.1016/S0140-6736(23)00519-6."
+      "feedback": "正確答案：C\n\nNATTINA 把 453 位符合標準的成人隨機分成開刀組和保守治療組，追蹤兩年，數他們總共喉嚨痛幾天。開刀組中位數 23 天，沒開刀的 30 天，校正之後大約是少一半。而且算下來手術是划算的。所以開刀是有效的，但效果是「痛的天數變少」，不是「從此不痛」。\n\n其他選項為什麼不對：\n(A) 拿掉扁桃腺並不等於拿掉咽喉。他還是會咽喉炎，包括鏈球菌感染。\n(B) 兩件事都說錯了。NATTINA 明確顯示喉嚨痛的天數變少；而且當初開刀是因為發作太頻繁，不是為了讓每次痛得輕一點。\n(D) 沒有任何研究顯示拿掉扁桃腺會讓免疫功能出現有臨床意義的下降。\n\nKeypoint：跟他說天數大概少一半，不要說以後不會痛。\n\nReference: Wilson JA, O'Hara J, Fouweather T, et al. Lancet. 2023;401(10393):2051-2059. doi:10.1016/S0140-6736(23)00519-6."
     }
   ]
 }
