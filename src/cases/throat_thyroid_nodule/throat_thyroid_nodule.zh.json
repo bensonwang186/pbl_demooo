@@ -89,7 +89,7 @@
           "correct": true
         }
       ],
-      "feedback": "正確答案：D\n\n她這次同時踩到 NCCN 兩個該結束追蹤的條件，再加上第三個發現。\n\nNCCN 列出的條件是：任何一個徑增加 3 mm 以上，或是體積長超過 50%；另外還有新出現的淋巴結轉移（要切片證實）、遠端轉移、或影像上看到侵犯到甲狀腺外。她的縱徑從 0.58 長到 0.90，增加了 3.2 mm；體積從 0.098 變成 0.317 mL，多了兩倍以上。除此之外，這顆現在已經貼到後被膜，離喉返神經很近了。\n\n其他選項為什麼不對：\n(A) 拿最大徑來比是 0.63 到 0.90，只有 2.7 mm，還不到門檻。3 mm 是在另一個軸上達成的，不是這一個。\n(B) 0.90 確實快到 1 cm 了，但光是變大並不是結束追蹤的理由。條件寫的是成長幅度、轉移、和甲狀腺外侵犯這幾項。\n(C) 追蹤本來就預期它會長一點。整套追蹤是圍繞著明確的門檻設計的，不是一有變化就要開刀。\n\nKeypoint：三個徑都要量，體積也要算，不然門檻可能在你沒盯著的那個軸上被跨過去。\n\nReference: NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma（請補上你使用的版本號）。Tuttle RM, Fagin JA, Minkowitz G, et al. Natural history and tumor volume kinetics of papillary thyroid cancers during active surveillance. JAMA Otolaryngol Head Neck Surg. 2017;143(10):1015-1020."
+      "feedback": "正確答案：D\n\n她這次同時踩到 NCCN 兩個該結束追蹤的條件，再加上第三個發現。\n\nNCCN 列出的條件是：任何一個徑增加 3 mm 以上，或是體積長超過 50%；另外還有新出現的淋巴結轉移（要切片證實）、遠端轉移、或影像上看到侵犯到甲狀腺外。她的縱徑從 0.58 長到 0.90，增加了 3.2 mm；體積從 0.098 變成 0.317 mL，多了兩倍以上。除此之外，這顆現在已經貼到後被膜，離喉返神經很近了。\n\n其他選項為什麼不對：\n(A) 拿最大徑來比是 0.63 到 0.90，只有 2.7 mm，還不到門檻。3 mm 是在另一個軸上達成的，不是這一個。\n(B) 0.90 確實快到 1 cm 了，但光是變大並不是結束追蹤的理由。條件寫的是成長幅度、轉移、和甲狀腺外侵犯這幾項。\n(C) 追蹤本來就預期它會長一點。整套追蹤是圍繞著明確的門檻設計的，不是一有變化就要開刀。\n\nKeypoint：三個徑都要量，體積也要算，不然門檻可能在你沒盯著的那個軸上被跨過去。\n\nReference: National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026. Tuttle RM, Fagin JA, Minkowitz G, et al. Natural history and tumor volume kinetics of papillary thyroid cancers during active surveillance. JAMA Otolaryngol Head Neck Surg. 2017;143(10):1015-1020."
     },
     {
       "title": "Step 4/7：手術之前",
@@ -193,7 +193,7 @@
           "correct": true
         }
       ],
-      "feedback": "正確答案：D\n\n她這份報告上有三件事，讓再開一次刀值得拿出來討論：tall cell、兩個病灶、切緣不到 0.1 mm。而且只要左葉還留著，Tg 就驗不出有沒有殘存病灶，碘治療也不能做——碘會被正常的左葉吃掉。所以要不要做碘治療之前，得先決定甲狀腺到底要不要拿乾淨。\n\n2025 ATA 指引把 tall cell 列在「葉切除後可以考慮再做 completion」的較高風險亞型裡。NCCN 對切緣接近或陽性、淋巴管侵犯、高惡性度組織型，走的也是同一條路。\n\n其他選項為什麼不對：\n(A) 左葉還在的時候碘治療根本排不了，順序是先決定手術範圍。而且 2015 年之後碘治療已經改成有需要才做，不是每個開完刀的人都給。\n(B) 這是以前的做法。2015 年以前甲狀腺癌開完幾乎每個人都壓 TSH。現在是看風險分級和治療反應來定目標：壓到 0.1 以下只留給高風險、或還有結構性病灶的人。她是中風險而且沒有疾病證據，目標大概落在 0.1 到 0.5；如果最後就只做葉切除，一般是把 TSH 維持在正常範圍就好。長期壓 TSH 還會增加心房顫動的風險、讓骨密度下降，她才 44 歲，這個代價要背幾十年。\n(C) 決定葉切除夠不夠的不是大小。低風險、局限在甲狀腺內、小於 2 cm 的確實可以就這樣追蹤，但她身上有三個特徵把她移出那一群。只做超音波追蹤，等於是把「要不要做 completion」這個問題擱著，而不是回答了它。\n\nKeypoint：先決定甲狀腺要拿多少，再決定要不要做碘治療——因為留著一葉，碘治療這個選項就沒了。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma（請補上你使用的版本號）。"
+      "feedback": "正確答案：D\n\n她這份報告上有三件事，讓再開一次刀值得拿出來討論：tall cell、兩個病灶、切緣不到 0.1 mm。而且只要左葉還留著，Tg 就驗不出有沒有殘存病灶，碘治療也不能做——碘會被正常的左葉吃掉。所以要不要做碘治療之前，得先決定甲狀腺到底要不要拿乾淨。\n\n2025 ATA 指引把 tall cell 列在「葉切除後可以考慮再做 completion」的較高風險亞型裡。NCCN 對切緣接近或陽性、淋巴管侵犯、高惡性度組織型，走的也是同一條路。\n\n其他選項為什麼不對：\n(A) 左葉還在的時候碘治療根本排不了，順序是先決定手術範圍。而且 2015 年之後碘治療已經改成有需要才做，不是每個開完刀的人都給。\n(B) 這是以前的做法。2015 年以前甲狀腺癌開完幾乎每個人都壓 TSH。現在是看風險分級和治療反應來定目標：壓到 0.1 以下只留給高風險、或還有結構性病灶的人。她是中風險而且沒有疾病證據，目標大概落在 0.1 到 0.5；如果最後就只做葉切除，一般是把 TSH 維持在正常範圍就好。長期壓 TSH 還會增加心房顫動的風險、讓骨密度下降，她才 44 歲，這個代價要背幾十年。\n(C) 決定葉切除夠不夠的不是大小。低風險、局限在甲狀腺內、小於 2 cm 的確實可以就這樣追蹤，但她身上有三個特徵把她移出那一群。只做超音波追蹤，等於是把「要不要做 completion」這個問題擱著，而不是回答了它。\n\nKeypoint：先決定甲狀腺要拿多少，再決定要不要做碘治療——因為留著一葉，碘治療這個選項就沒了。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026."
     }
   ]
 }
