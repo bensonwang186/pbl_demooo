@@ -92,33 +92,33 @@
     },
     {
       "title": "Step 4/6: Now the CT",
-      "scenario": "The cricothyroidotomy tube is in. Saturation is 99 percent and he is being ventilated. He is now stable enough to lie flat, and the contrast CT of the neck is obtained.",
+      "scenario": "The cricothyroidotomy tube is in. Saturation is 99 percent and he is being ventilated. He is now stable enough to lie flat, and the contrast CT of the neck is obtained.\n\nThe report reads: swelling of the tongue and tongue base, ill-defined soft tissue density across the floor of the mouth with abscess formation, subcutaneous fat stranding in the submental region consistent with cellulitis, and several inflammatory-appearing nodes in both submandibular regions. No enhancing mass.",
       "media": "Load image: Axial and coronal contrast-enhanced CT of the neck, unannotated. Caption: 'Post-contrast.'",
       "question": "What does the CT show, and what does it change?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Bilateral submandibular and sublingual space involvement without a drainable collection; antibiotics alone, no incision needed"
+          "text": "(A) A peritonsillar abscess; needle aspiration or incision and drainage through the mouth"
         },
         {
           "id": "B",
-          "text": "(B) Bilateral submandibular and sublingual space involvement with a rim-enhancing collection; incision and drainage, removal of the dental source, and antibiotics",
+          "text": "(B) Bilateral floor-of-mouth infection with abscess formation and surrounding cellulitis; incision and drainage of the floor of the mouth, removal of the source tooth, and intravenous antibiotics",
           "correct": true
         },
         {
           "id": "C",
-          "text": "(C) A unilateral parapharyngeal abscess; the tracheostomy can be avoided since the airway swelling is one-sided"
+          "text": "(C) A parapharyngeal abscess; drainage through the neck under general anesthesia"
         },
         {
           "id": "D",
-          "text": "(D) Retropharyngeal extension into the mediastinum; transfer to cardiothoracic surgery before any neck drainage"
+          "text": "(D) Cellulitis only, with no collection; intravenous antibiotics alone"
         }
       ],
-      "feedback": "Correct answer: B\n\nThe CT does two jobs once the airway is safe. It maps the extent of the infection across the submandibular, sublingual and submental spaces on both sides, and it shows whether there is a collection to drain. Here there is a rim-enhancing collection, so the plan is incision and drainage of the involved spaces, extraction of the source tooth, and intravenous antibiotics covering oral flora. The scan also confirms the infection has not tracked to the parapharyngeal space or the mediastinum.\n\nWhy the others fail:\n(A) Early Ludwig's angina can be cellulitis without pus, and antibiotics alone are then reasonable. That is not this scan. A rim-enhancing collection is drained.\n(C) The swelling is bilateral by definition in Ludwig's angina. A unilateral parapharyngeal abscess is a different diagnosis with a different approach, and the airway decision was already made on clinical grounds.\n(D) Mediastinal extension is a real complication and the reason the scan should include the upper chest, but it is not what this scan shows.\n\nKeypoint: the CT decides what gets drained; it never decides whether the airway gets secured.\n\nReference: Vieira F, Allen SM, Stocks RM, Thompson JW. Deep neck infection. Otolaryngol Clin North Am. 2008;41(3):459-483."
+      "feedback": "Correct answer: B\n\nThe CT confirms the diagnosis and answers the question it was ordered for. Both sides of the floor of the mouth are involved, the tongue base is swollen, which is what was closing the airway, and there is a collection to drain. The plan is incision and drainage of the floor of the mouth, extraction of the source tooth, and intravenous antibiotics covering oral flora. The scan also confirms the infection has not tracked laterally to the parapharyngeal space.\n\nOne thing about the report: the findings section describes the collection as ill-defined rather than as a clean rim-enhancing abscess. That is typical of the floor of the mouth, where early pus is loculated and poorly walled off. Read the impression and the clinical picture together, and explore with a low threshold.\n\nWhy the others fail:\n(A) A peritonsillar abscess sits between the tonsil and the constrictor, on one side, at the level of the oropharynx. This is bilateral and in the floor of the mouth.\n(C) A parapharyngeal abscess is lateral to the constrictor near the carotid sheath and would show as an enhancing collection there. The report describes neither.\n(D) Antibiotics alone is reasonable for early Ludwig's angina with cellulitis only and no airway compromise. This patient has a collection on the report and has already lost his airway to the infection. Pus is drained.\n\nKeypoint: the CT decides what gets drained; it never decides whether the airway gets secured.\n\nReference: Vieira F, Allen SM, Stocks RM, Thompson JW. Deep neck infection. Otolaryngol Clin North Am. 2008;41(3):459-483."
     },
     {
       "title": "Step 5/6: The Definitive Airway",
-      "scenario": "The abscess is drained in the operating room and the tooth is removed. The swelling will take days to settle and he will need the airway for at least a week. You convert the cricothyroidotomy to a formal tracheostomy in the same sitting.",
+      "scenario": "The floor of the mouth is incised and drained and the source tooth is removed. The swelling will take days to settle and he will need the airway for at least a week, so you convert the cricothyroidotomy to a formal tracheostomy in the same sitting.",
       "media": "Load image: Your own line drawing of the anterior neck: thyroid cartilage, cricothyroid membrane, cricoid, thyroid isthmus, tracheal rings numbered 1 to 6, innominate artery crossing low. No labels on which level is correct. Caption: 'Anterior neck.'",
       "question": "Where do you enter the trachea?",
       "options": [
@@ -144,7 +144,7 @@
     },
     {
       "title": "Step 6/6: The First Night",
-      "scenario": "He is in the ICU. At 3 a.m. the nurse calls: his neck and upper chest have swollen up over the last hour and crackle under her fingers. The ventilator is showing high airway pressures.",
+      "scenario": "He is in the ICU. At 3 a.m. the nurse calls: his neck and upper chest have swollen up over the last hour and crackle on palpation. The ventilator is showing high airway pressures.",
       "media": "Load image: Chest radiograph showing subcutaneous air outlining the neck and chest wall muscles, de-identified. Caption: 'Postoperative day 1.'",
       "question": "What has most likely happened?",
       "options": [
@@ -166,7 +166,7 @@
           "text": "(D) The abscess has re-accumulated and the neck swelling is pus"
         }
       ],
-      "feedback": "Correct answer: A\n\nCrepitus spreading from the neck to the chest is air in the soft tissues. Air gets there when it cannot get out through the tube, usually because the tube is partly blocked by secretions or malpositioned, and cannot get out around the tube either because the skin is closed tightly around it. The pressure then dissects into the neck and chest and can push the tube out of the trachea. The fix is to check the tube position and patency immediately, and to leave the stoma loosely closed or open in the first place.\n\nWhy the others fail:\n(B) An overinflated cuff damages the tracheal mucosa over days. It does not put air into the neck in an hour.\n(C) Bleeding gives a firm, expanding swelling without crepitus. Air crackles; blood does not.\n(D) Re-accumulated pus would be tender, warm and firm, and would not produce crepitus or high ventilator pressures.\n\nKeypoint: crepitus after tracheostomy means air is going the wrong way, and the first check is whether the tube is patent and in the trachea.\n\nReference: Mitchell RB, Hussey HM, Setzen G, et al. Clinical consensus statement: tracheostomy care. Otolaryngol Head Neck Surg. 2013;148(1):6-20."
+      "feedback": "Correct answer: A\n\nThis is subcutaneous emphysema: air in the soft tissues of the neck and chest wall, felt as crepitus under the skin. Air gets there when it cannot get out through the tube, usually because the tube is partly blocked by secretions or malpositioned, and cannot get out around the tube either because the skin is closed tightly around it. The pressure then dissects into the neck and chest and can push the tube out of the trachea. The fix is to check the tube position and patency immediately, and to leave the stoma loosely closed or open in the first place.\n\nWhy the others fail:\n(B) An overinflated cuff damages the tracheal mucosa over days. It does not put air into the neck in an hour.\n(C) Bleeding gives a firm, expanding swelling without crepitus. Air crackles; blood does not.\n(D) Re-accumulated pus would be tender, warm and firm, and would not produce crepitus or high ventilator pressures.\n\nKeypoint: subcutaneous emphysema after tracheostomy means air is going the wrong way, and the first check is whether the tube is patent and in the trachea.\n\nReference: Mitchell RB, Hussey HM, Setzen G, et al. Clinical consensus statement: tracheostomy care. Otolaryngol Head Neck Surg. 2013;148(1):6-20."
     }
   ]
 }
