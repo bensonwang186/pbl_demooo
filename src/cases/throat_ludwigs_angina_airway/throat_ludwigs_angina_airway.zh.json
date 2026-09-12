@@ -36,7 +36,7 @@
           "text": "(D) 先給 IV antibiotics 和 dexamethasone，一小時後再評估要不要做影像"
         }
       ],
-      "feedback": "正確答案：C\n\n他已經有 impending airway obstruction 的徵象：坐直、流口水、muffled voice、呼吸費力、雙側口底腫脹把舌頭往後推。躺平在 CT 機裡、離開能救他的人和設備，這就是這類病人死亡的地方。氣道優先，CT 等管子放進去之後再做。\n\n其他選項為什麼不對：\n(A) 這張 CT 不會改變接下來十分鐘要做的事，卻要他躺平、身邊沒有人能處理狀況。\n(B) 護理師和 oximeter 建立不了氣道。SpO2 在 CT 室裡掉下來，是在最糟糕的地方發生危機。\n(D) Antibiotics 和 steroid 要給，但一小時內消不掉已經形成的腫脹，等待只是把可控的情況變成緊急狀況。\n\nKeypoint：有上呼吸道阻塞徵象的病人，氣道沒有確保之前不進 CT 室。\n\nReference: Cook TM, Woodall N, Frerk C. Fourth National Audit Project. Br J Anaesth. 2011;106(5):617-631."
+      "feedback": "正確答案：C\n\n他身上已經把上呼吸道快要塞住的徵象湊齊了：坐得筆直不敢躺、口水吞不下去、聲音悶悶的、呼吸費力，加上雙側口底腫起來把舌頭往後推。這種病人躺平在 CT 機裡面，旁邊沒有人、沒有器械，正是最容易出事的場景。氣道先處理，CT 等管子放好了再做。\n\n其他選項為什麼不對：\n(A) 這張 CT 不會改變你接下來十分鐘要做的任何事，卻要他躺平、還把他送到一個沒有人能救他的地方。\n(B) 護理師和血氧機救不了氣道。萬一血氧在 CT 室裡掉下去，那是在最糟的地點發生最糟的事。\n(D) 抗生素和類固醇當然要給，但它們一個小時內消不掉已經腫起來的組織。等這一個小時，只是把一個還控制得住的局面，變成一場急救。\n\nKeypoint：只要有上呼吸道阻塞的徵象，氣道沒處理好之前，不要送去 CT。\n\nReference: Cook TM, Woodall N, Frerk C. Fourth National Audit Project. Br J Anaesth. 2011;106(5):617-631."
     },
     {
       "title": "Step 2/6：建立氣道",
@@ -62,7 +62,7 @@
           "text": "(D) Blind nasal intubation，因為嘴巴張不開"
         }
       ],
-      "feedback": "正確答案：A\n\nAwake technique 讓他全程自己呼吸。內視鏡順著氣道通過腫脹處；如果過不去，他還在呼吸，surgical airway 可以在有控制的狀況下進行。開始之前外科醫師就在頸部就位，重點就在這裡：失敗的計畫在第一次嘗試之前就準備好了。\n\n其他選項為什麼不對：\n(B) SpO2 往下掉讓人覺得要快，但「急」正是要保持清醒的理由，不是反對的理由。誘導和肌肉鬆弛會拿掉維持他現有氣道的肌肉張力。如果 videolaryngoscope 過不了腫脹處，而且常常過不去，他就變成無呼吸、而你看不到氣道。頭頸部感染在 NAP4 裡正是這種情況風險最高的族群之一。\n(C) Nasopharyngeal airway 能繞過舌根，但繞不過舌根以下的腫脹，而且會在已經受損的氣道裡造成出血。High-flow oxygen 下 SpO2 80 到 89%、還有一點通氣，不是穩定的氣道；腫脹還在進展時，觀察不是一個計畫。\n(D) 盲插過扭曲腫脹的組織會造成損傷和出血，而且沒辦法確認路徑。嘴巴張不開是用內視鏡的理由，不是盲插的理由。\n\nKeypoint：讓他繼續自己呼吸、用內視鏡看、開始之前頸部就準備好。\n\nReference: Cook TM, Woodall N, Frerk C. Fourth National Audit Project. Br J Anaesth. 2011;106(5):617-631. Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines. Br J Anaesth. 2015;115(6):827-848. doi:10.1093/bja/aev371."
+      "feedback": "正確答案：A\n\n清醒插管最大的好處是：從頭到尾他都自己在呼吸。內視鏡順著氣道往下找路，萬一真的過不去，他還在呼吸，你還有時間從容地改做外科氣道。而外科醫師在動手之前就已經站在頸部旁邊了——重點就在這裡：失敗之後要怎麼辦，在第一次嘗試之前就已經準備好。\n\n其他選項為什麼不對：\n(B) 血氧一直往下掉會讓人覺得應該快一點，但「急」恰恰是要讓他保持清醒的理由，不是趕快讓他睡著的理由。一旦誘導加肌肉鬆弛，他現在僅存的那一點氣道就靠肌肉張力撐著，張力一沒就塌了。如果 videolaryngoscope 又過不了腫脹處——這種情況很常發生——你現在面對的是一個沒有呼吸、而且你看不到氣道的病人。NAP4 裡頭頸部感染正是這種狀況風險最高的族群之一。\n(C) Nasopharyngeal airway 只能繞過舌根，繞不過舌根以下的腫脹，而且在已經很脆弱的氣道裡還可能戳出血。何況他現在是吸著高流量氧氣、血氧還只有 80 幾，這不叫穩定；腫脹還在惡化的時候，「再觀察看看」不是一個計畫。\n(D) 組織已經腫到變形，盲插只會撞出血，而且你完全不知道管子跑到哪裡去。嘴巴張不開是「要用內視鏡」的理由，不是「乾脆用猜的」的理由。\n\nKeypoint：讓他繼續自己呼吸、用內視鏡看清楚路、動手之前頸部先準備好。\n\nReference: Cook TM, Woodall N, Frerk C. Fourth National Audit Project. Br J Anaesth. 2011;106(5):617-631. Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines. Br J Anaesth. 2015;115(6):827-848. doi:10.1093/bja/aev371."
     },
     {
       "title": "Step 3/6：要切哪裡",
@@ -88,7 +88,7 @@
           "correct": true
         }
       ],
-      "feedback": "正確答案：D\n\nCricothyroid membrane 是氣道最表淺的位置。上面沒有 thyroid isthmus，就算頸部腫脹也能隔著皮膚摸到，打開只要幾秒鐘。非慣用手固定喉頭，橫向 stab 穿過皮膚和 membrane，刀片轉 90 度，放 bougie，套上 6.0 cuffed tube，打 cuff。DAS 把這個 scalpel technique 列為 CICO 的首選 rescue technique。\n\n其他選項為什麼不對：\n(A) Thyroid cartilage 是你用手固定的 landmark，不是你切的地方。它是實心軟骨，切開不會進入氣道，而且會傷到聲帶以上的喉頭。\n(B) 這是 tracheostomy 的位置，之後做 definitive airway 是對的。但現在它比較深、在 isthmus 底下、要花好幾分鐘。他只剩幾秒鐘。\n(C) 在形塑 2015 DAS guideline 的 NAP4 裡，約 60% 的 needle cricothyroidotomy 失敗。Cannula 沒有 cuff、無法可靠通氣、也不能防止 aspiration。\n\nKeypoint：緊急時切 thyroid cartilage 和 cricoid 之間的 membrane；有時間時才切 tracheal ring。\n\nReference: Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines. Br J Anaesth. 2015;115(6):827-848. doi:10.1093/bja/aev371. Cook TM, Woodall N, Frerk C. Br J Anaesth. 2011;106(5):617-631."
+      "feedback": "正確答案：D\n\nCricothyroid membrane 是整個氣道最靠近皮膚的地方。上面沒有甲狀腺峽部擋著，就算脖子腫起來也還摸得到，切開只要幾秒鐘。用非慣用手把喉頭固定住，橫向一刀穿過皮膚和 membrane，刀片轉 90 度撐開，放 bougie，順著把 6.0 的 cuffed tube 推進去，打 cuff。DAS 把這套 scalpel technique 列為 CICO 的第一線救援方式。\n\n其他選項為什麼不對：\n(A) Thyroid cartilage 是你用手抓住的東西，不是你切的東西。它是實心的軟骨，切開了也進不了氣道，反而傷到聲帶以上的喉部。\n(B) 那是 tracheostomy 的位置，等一下做 definitive airway 的時候是對的。但現在它埋得比較深、上面還壓著峽部，要做好幾分鐘。他只剩幾秒。\n(C) 促成 2015 DAS guideline 的 NAP4 裡，用針做的 cricothyroidotomy 大約六成失敗。而且 cannula 沒有 cuff，沒辦法好好給氣，也擋不住嘔吐物跑進去。\n\nKeypoint：緊急的時候切 thyroid cartilage 和 cricoid 中間那層膜；等有時間了，才輪到切氣管環。\n\nReference: Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines. Br J Anaesth. 2015;115(6):827-848. doi:10.1093/bja/aev371. Cook TM, Woodall N, Frerk C. Br J Anaesth. 2011;106(5):617-631."
     },
     {
       "title": "Step 4/6：現在可以做 CT 了",
@@ -114,7 +114,7 @@
           "text": "(D) 只有 cellulitis、沒有 collection；單用 IV antibiotics"
         }
       ],
-      "feedback": "正確答案：B\n\nCT 確認了診斷，也回答了做這張 CT 要問的問題。口底雙側受累、舌根腫脹（這就是把氣道壓閉的原因），而且有 collection 要 drain。計畫是口底 I&D、拔除病源牙、IV antibiotics 涵蓋口腔菌叢。CT 也確認感染沒有往外側走到 parapharyngeal space。\n\n關於報告的一點：findings 段落把 collection 描述為 ill-defined，不是乾淨的 rim-enhancing abscess。這在口底很典型，早期的膿是 loculated、包覆不完整的。要把 impression 和臨床表現放在一起讀，探查的門檻要低。\n\n其他選項為什麼不對：\n(A) Peritonsillar abscess 位在扁桃腺和 constrictor 之間、單側、在口咽的高度。這個是雙側、在口底。\n(C) Parapharyngeal abscess 在 constrictor 外側、靠近 carotid sheath，會在那裡顯示 enhancing collection。報告兩者都沒有。\n(D) 早期 Ludwig's angina 只有 cellulitis、沒有 collection、氣道沒有受損時，單用 antibiotics 是合理的。這位病人報告上有 collection，而且氣道已經因為這個感染丟掉了。有膿就要 drain。\n\nKeypoint：CT 決定要 drain 什麼；它從來不決定氣道要不要建立。\n\nReference: Vieira F, Allen SM, Stocks RM, Thompson JW. Deep neck infection. Otolaryngol Clin North Am. 2008;41(3):459-483."
+      "feedback": "正確答案：B\n\n這張 CT 一方面確認了診斷，一方面回答了當初開它要問的問題。口底兩側都受影響，舌根腫起來——這就是把氣道壓閉的元凶——而且有膿可以引流。所以接下來是口底切開引流、把那顆惹事的牙齒拔掉、抗生素涵蓋口腔菌叢。CT 同時也確認了感染沒有往外側跑到 parapharyngeal space。\n\n有一點值得注意：findings 那一段把這團東西描述成 ill-defined，不是一個輪廓乾淨的 rim-enhancing abscess。口底的膿常常就是長這樣，早期的膿是散在的、包不起來。所以 impression 要跟臨床表現一起看，該探查的時候門檻要放低。\n\n其他選項為什麼不對：\n(A) Peritonsillar abscess 是長在扁桃腺和 constrictor 中間、單側、在口咽那個高度。她這個是雙側、在口底。\n(C) Parapharyngeal abscess 在 constrictor 外側、靠近 carotid sheath，那裡會看到 enhancing collection。這張 CT 兩個條件都不符合。\n(D) 如果是早期的 Ludwig's angina、只有 cellulitis、沒有膿、氣道也還好，那單給抗生素是合理的。但他報告上已經有膿，而且氣道已經因為這個感染丟過一次了。有膿就要引流。\n\nKeypoint：CT 決定的是「要引流什麼」，從來不是「氣道要不要建立」。\n\nReference: Vieira F, Allen SM, Stocks RM, Thompson JW. Deep neck infection. Otolaryngol Clin North Am. 2008;41(3):459-483."
     },
     {
       "title": "Step 5/6：Definitive airway",
@@ -140,7 +140,7 @@
           "text": "(D) 第 5、6 tracheal ring 之間，盡量低，讓 tube 遠離腫脹處"
         }
       ],
-      "feedback": "正確答案：C\n\nTracheostomy 從 cricoid 以下、第 2、3 ring 進入。Cricoid 是氣道唯一完整的環，也是聲帶以下最窄的地方。Tube 頂著它、或開口傷到它，會造成非常難處理的 subglottic stenosis。Tracheostomy 放好後，cricothyroidotomy 就關掉。\n\n其他選項為什麼不對：\n(A) 這會讓 tube 頂在 cricoid 上一週以上，正是這次轉換要移除的 stenosis 風險。\n(B) 同樣的問題。Cricoid 和第 1 ring 要保護，就是因為那裡受傷會在氣道最窄處產生 stenosis。\n(D) 太低。第 3、4 ring 以下 trachea 往胸骨後方走，innominate artery 從前方橫過，tube 放在那裡可能侵蝕進血管。\n\nKeypoint：Cricoid 以下、innominate 以上，就是第 2、3 ring。\n\nReference: Mitchell RB, Hussey HM, Setzen G, et al. Clinical consensus statement: tracheostomy care. Otolaryngol Head Neck Surg. 2013;148(1):6-20."
+      "feedback": "正確答案：C\n\nTracheostomy 要開在 cricoid 下面、第 2 和第 3 環之間。Cricoid 是整條氣道唯一一個完整的環，也是聲帶以下最窄的地方。管子長期頂著它、或是開洞的時候傷到它，就會造成 subglottic stenosis，那種狹窄非常難處理。Tracheostomy 放好之後，原本的 cricothyroidotomy 就關掉。\n\n其他選項為什麼不對：\n(A) 這樣做等於讓管子在 cricoid 上面頂一個星期以上，而這次轉換手術的目的，就是要把這個風險拿掉。\n(B) 一樣的問題。Cricoid 和第一環之所以要保護，就是因為那裡受傷會在氣道最窄的地方留下狹窄。\n(D) 太低了。第 3、4 環以下氣管開始往胸骨後方走，innominate artery 從前面橫過去，管子放在那裡有磨破血管的風險。\n\nKeypoint：Cricoid 以下、innominate 以上，剩下的就是第 2、3 環。\n\nReference: Mitchell RB, Hussey HM, Setzen G, et al. Clinical consensus statement: tracheostomy care. Otolaryngol Head Neck Surg. 2013;148(1):6-20."
     },
     {
       "title": "Step 6/6：第一個晚上",
@@ -166,7 +166,7 @@
           "text": "(D) Abscess 又積回來，頸部腫的是膿"
         }
       ],
-      "feedback": "正確答案：A\n\n這是 subcutaneous emphysema（皮下氣腫）：空氣跑進頸部和胸壁的軟組織，摸起來是皮下的 crepitus。空氣會跑到那裡，是因為它從 tube 出不去，通常是 tube 被分泌物部分塞住或位置跑掉，而且從 tube 周圍也出不去，因為皮膚縫得太緊。壓力於是往頸部和胸部剝離，甚至可能把 tube 推出 trachea。處理是立刻確認 tube 的位置和通暢度，而 stoma 一開始就應該鬆鬆地縫或不縫。\n\n其他選項為什麼不對：\n(B) Cuff 打太飽是幾天內傷害 tracheal mucosa，不會在一小時內把空氣打進頸部。\n(C) 出血是硬的、逐漸擴大的腫脹，沒有 crepitus。空氣會響，血不會。\n(D) 積回來的膿會痛、熱、硬，不會有 crepitus，也不會讓呼吸器壓力升高。\n\nKeypoint：Tracheostomy 後出現 subcutaneous emphysema，代表空氣走錯路了，第一件事是確認 tube 通不通、在不在 trachea 裡。\n\nReference: Mitchell RB, Hussey HM, Setzen G, et al. Clinical consensus statement: tracheostomy care. Otolaryngol Head Neck Surg. 2013;148(1):6-20."
+      "feedback": "正確答案：A\n\n這是 subcutaneous emphysema，也就是空氣跑進頸部和胸壁的軟組織裡，摸起來就是皮下那種捻髮的感覺。空氣會跑到那裡，是因為它從管子裡出不去——通常是管子被分泌物塞住一部分，或是位置跑掉了——而管子周圍也出不去，因為皮膚縫得太緊。壓力沒地方跑，就往頸部和胸部的組織間隙鑽，嚴重的時候甚至會把管子頂出氣管。處理方式是立刻確認管子通不通、還在不在氣管裡；而更前面的預防，是一開始 stoma 就不要縫緊。\n\n其他選項為什麼不對：\n(B) Cuff 打太飽是慢慢傷害氣管黏膜，要好幾天才看得出來，不會在一個小時內把空氣打進脖子。\n(C) 出血會是一塊硬硬的、越來越大的腫，摸起來不會有捻髮音。空氣才會有那種聲音，血不會。\n(D) 膿如果又積回來，摸起來是痛的、熱的、硬的，不會有捻髮音，也不會讓呼吸器壓力升高。\n\nKeypoint：Tracheostomy 之後出現皮下氣腫，代表空氣跑錯地方了，第一件事就是確認管子通不通、在不在氣管裡。\n\nReference: Mitchell RB, Hussey HM, Setzen G, et al. Clinical consensus statement: tracheostomy care. Otolaryngol Head Neck Surg. 2013;148(1):6-20."
     }
   ]
 }
