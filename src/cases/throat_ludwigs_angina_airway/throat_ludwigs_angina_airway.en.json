@@ -14,7 +14,7 @@
   "steps": [
     {
       "title": "Step 1/6: The Scanner Is Ready",
-      "scenario": "A 58-year-old man is brought to the emergency department with a fever and several days of severe pain in a lower molar. He is sitting bolt upright, drooling, with a muffled voice and labored breathing. The floor of his mouth is tense and woody on both sides, and the tongue is pushed up and back.\n\nThe emergency physician has booked a contrast CT of the neck and the porter is waiting to take him.",
+      "scenario": "A 58-year-old man is brought to the emergency department with a fever and several days of severe pain in a lower molar. He is sitting bolt upright, drooling, with a muffled voice and labored breathing. On room air the saturation is fluctuating between 89 and 92 percent. The floor of his mouth is tense and woody on both sides, and the tongue is pushed up and back.\n\nThe emergency physician has booked a contrast CT of the neck and the porter is waiting to take him.",
       "media": "Load image: Intraoral photograph of tense, elevated floor of mouth with the tongue displaced upward, consented patient. Caption: 'Floor of mouth.'",
       "question": "What do you do?",
       "options": [
@@ -40,7 +40,7 @@
     },
     {
       "title": "Step 2/6: Securing the Airway",
-      "scenario": "He is upright, on oxygen, with saturations of 94 percent. Anesthesia is at the bedside. You are scrubbed with a tracheostomy set open. He is still conscious and can follow instructions.",
+      "scenario": "He is upright and on high-flow oxygen, but the saturation is still fluctuating between 80 and 89 percent and is not improving. Anesthesia is at the bedside. You are scrubbed with a tracheostomy set open. He is still conscious and can follow instructions.",
       "media": "Load image: The double setup as you would stage it: flexible scope and topical anesthesia on one side of the bed, tracheostomy tray open and scalpel-bougie-tube kit laid out on the other. Caption: 'Double setup.'",
       "question": "How do you secure the airway?",
       "options": [
@@ -51,18 +51,18 @@
         },
         {
           "id": "B",
-          "text": "(B) Rapid sequence induction with a videolaryngoscope, since he is cooperative and the saturation is adequate"
+          "text": "(B) Rapid sequence induction with a videolaryngoscope, since he is cooperative and there is no time to topicalize"
         },
         {
           "id": "C",
-          "text": "(C) A nasopharyngeal airway and observation in the resuscitation bay, since the saturation is holding"
+          "text": "(C) A nasopharyngeal airway and observation in the resuscitation bay, since he is still moving air"
         },
         {
           "id": "D",
           "text": "(D) Blind nasal intubation, since the mouth cannot be opened"
         }
       ],
-      "feedback": "Correct answer: A\n\nAn awake technique keeps him breathing for himself throughout. The scope follows the air passage past the swelling, and if it cannot be done, he is still breathing and the surgical airway can proceed under control. Having the surgeon ready at the neck before starting is the point: the plan for failure is in place before the first attempt.\n\nWhy the others fail:\n(B) Induction and paralysis remove the muscle tone that is keeping what airway he has open. If the videolaryngoscope cannot pass the swelling, and it often cannot, he is now apneic with an airway you cannot see. Head and neck infection was one of the highest-risk groups for exactly this sequence in the national audit.\n(C) A nasopharyngeal airway bypasses the tongue base but not swelling below it, and it can bleed into an already compromised airway. Observation is not a plan when the swelling is progressing.\n(D) Blind passage through distorted, swollen tissue risks trauma and bleeding and has no way to confirm the route. If the mouth cannot open, that is a reason for a scope, not for going blind.\n\nKeypoint: keep him breathing, look with a scope, and have the neck ready before you start.\n\nReference: Cook TM, Woodall N, Frerk C. Fourth National Audit Project. Br J Anaesth. 2011;106(5):617-631. Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines. Br J Anaesth. 2015;115(6):827-848. doi:10.1093/bja/aev371."
+      "feedback": "Correct answer: A\n\nAn awake technique keeps him breathing for himself throughout. The scope follows the air passage past the swelling, and if it cannot be done, he is still breathing and the surgical airway can proceed under control. Having the surgeon ready at the neck before starting is the point: the plan for failure is in place before the first attempt.\n\nWhy the others fail:\n(B) A falling saturation makes this feel urgent, and urgency is the argument for staying awake, not against it. Induction and paralysis remove the muscle tone that is keeping what airway he has open. If the videolaryngoscope cannot pass the swelling, and it often cannot, he is now apneic with an airway you cannot see. Head and neck infection was one of the highest-risk groups for exactly this sequence in the national audit.\n(C) A nasopharyngeal airway bypasses the tongue base but not swelling below it, and it can bleed into an already compromised airway. Moving some air at 80 to 89 percent on high-flow oxygen is not a stable airway, and observation is not a plan when the swelling is progressing.\n(D) Blind passage through distorted, swollen tissue risks trauma and bleeding and has no way to confirm the route. If the mouth cannot open, that is a reason for a scope, not for going blind.\n\nKeypoint: keep him breathing, look with a scope, and have the neck ready before you start.\n\nReference: Cook TM, Woodall N, Frerk C. Fourth National Audit Project. Br J Anaesth. 2011;106(5):617-631. Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines. Br J Anaesth. 2015;115(6):827-848. doi:10.1093/bja/aev371."
     },
     {
       "title": "Step 3/6: Where Do You Cut",
