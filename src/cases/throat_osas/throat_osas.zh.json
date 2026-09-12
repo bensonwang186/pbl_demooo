@@ -36,7 +36,7 @@
           "text": "(D) 先做 DISE 來判斷有沒有 OSA。"
         }
       ],
-      "feedback": "正確答案：C\n\n以下三者合併出現：\n• 習慣性大聲打鼾\n• 目擊到的呼吸中止\n• 白天嗜睡\n對 OSA 的臨床懷疑度很高，但病史和篩檢問卷都不能確立診斷。\n必須做客觀的睡眠檢查。\n對於沒有複雜共病、且中重度 OSA 風險升高的成人，AASM 接受 polysomnography（PSG）或技術品質足夠的 home sleep apnea test（HSAT）作為診斷選項。\nKeypoint：篩檢是在估計風險，客觀的睡眠檢查才是在確立診斷。\n銜接\n這位病人接受了 overnight PSG。\n\nReference\nKapur VK, Auckley DH, Chowdhuri S, et al. Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea. J Clin Sleep Med. 2017;13(3):479–504."
+      "feedback": "正確答案：C\n\n習慣性大聲打鼾、旁人目擊到呼吸中止、加上白天嗜睡，這三個湊在一起，OSA 的機率很高。但機率高不等於診斷成立——病史和問卷都只能估風險，不能拿來當診斷。要確診就必須做客觀的睡眠檢查。\n\n對於沒有其他複雜共病、而且中重度 OSA 風險偏高的成人，AASM 認可兩種做法：標準的 polysomnography（PSG），或是技術品質足夠的居家睡眠檢查（HSAT），兩者都可以拿來確診。\n\n其他選項為什麼不對：\n(A) 打鼾加上目擊到的呼吸中止是很強的臨床線索，但光靠這兩點下診斷，既分不出嚴重度，也不知道血氧掉到多少。\n(B) STOP-Bang 是設計來篩檢的，它的工作是幫你找出「誰需要進一步檢查」，不是告訴你「這個人有沒有病」。\n(D) DISE 是在已經確診之後、要規劃手術的時候才做的。還不知道他有沒有 OSA 就先做 DISE，順序完全顛倒了。\n\nKeypoint：問卷是在估風險，睡眠檢查才是在下診斷。\n\nReference: Kapur VK, Auckley DH, Chowdhuri S, et al. Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea. J Clin Sleep Med. 2017;13(3):479–504."
     },
     {
       "title": "Step 2/6：PSG 與嚴重度",
@@ -58,7 +58,7 @@
           "text": "(C) 屬於重度 OSA，所以有舌根手術的適應症。"
         }
       ],
-      "feedback": "正確答案：B\n\nAHI ≥30 次/小時，慣例上歸類為重度 OSA。\n所以：\nAHI 33.7/h → 重度 OSA\n但這裡有第一個重要的手術教學點：\n嚴重度 ≠ 阻塞位置\nPSG 描述的是睡眠呼吸障礙造成的生理負荷，但它不會告訴外科醫師主要的塌陷發生在：\n• Velum\n• Lateral pharyngeal wall\n• 舌根（tongue base）\n• Epiglottis\n• 或是多層次\nInternational Consensus Statement on OSA 強調，OSA 的評估與治療必須把睡眠檢查結果、病人的 phenotype 和上呼吸道解剖整合在一起看。\nKeypoint：AHI 告訴你病有多嚴重，不會告訴你該開哪裡。\n\n銜接：\n病人現在有了客觀診斷：重度阻塞性睡眠呼吸中止症。\n下一個問題是：一開始該怎麼治療？\n\nReference\nChang JL, Goldberg AN, Alt JA, et al. International consensus statement on obstructive sleep apnea. Int Forum Allergy Rhinol. 2023;13(7):1061–1482."
+      "feedback": "正確答案：B\n\nAHI 30 以上算重度，所以 33.7 就是重度 OSA。這部分很直接。\n\n真正的重點在後面：嚴重度和阻塞位置是兩回事。PSG 量的是「這個病造成多大的生理負擔」，它完全不會告訴外科醫師，塌下來的到底是 velum、lateral pharyngeal wall、舌根、epiglottis，還是好幾個地方一起塌。International Consensus Statement on OSA 就強調，OSA 的評估和治療必須把睡眠檢查、病人的 phenotype 和上呼吸道解剖三件事合起來看。\n\n其他選項為什麼不對：\n(A) 嚴重度歸類錯了，而且 PSG 本來就看不出阻塞在哪一層。\n(C) 嚴重度沒錯，但推論錯了。AHI 高不等於問題出在舌根，拿嚴重度去決定要開哪裡，就是這一題要擋掉的思路。\n\nKeypoint：AHI 告訴你病有多重，不會告訴你該開哪裡。\n\nReference: Chang JL, Goldberg AN, Alt JA, et al. International consensus statement on obstructive sleep apnea. Int Forum Allergy Rhinol. 2023;13(7):1061–1482."
     },
     {
       "title": "Step 3/6：內科治療與順從性",
@@ -80,7 +80,7 @@
           "text": "(C) 停止治療，因為無法耐受 PAP 就代表 OSA 無法治療。"
         }
       ],
-      "feedback": "正確答案：A\n\n對於 OSA 合併白天嗜睡的成人，CPAP 有很強的證據支持；CPAP 或 APAP 都是標準的長期 PAP 模式。\n但如果病人無法耐受或不接受 PAP，下一步並不會自動變成某一種特定手術。\nAASM 給出強建議：對於無法耐受或不接受 PAP 的成人 OSA 病人，臨床醫師應該討論轉介給 sleep surgeon；指引特別支持在 BMI <40 kg/m² 的病人進行這個討論。\n這位病人：\nBMI 26 + 重度 OSA + 無法耐受 PAP\n因此適合接受手術評估。\nKeypoint：無法耐受 PAP 決定的是「走手術這條路」，不是「決定做哪一台手術」。\n銜接：\n現在開始考慮手術了，外科醫師必須回答：\n這位病人的氣道在睡眠中究竟塌在哪裡？\n\nReference\nPatil SP, Ayappa IA, Caples SM, et al. Treatment of adult obstructive sleep apnea with positive airway pressure: An AASM clinical practice guideline. J Clin Sleep Med. 2019;15(2):335–343.\nKent D, Stanley J, Aurora RN, et al. Referral of adults with obstructive sleep apnea for surgical consultation: An AASM clinical practice guideline. J Clin Sleep Med. 2021;17(12):2499–2505."
+      "feedback": "正確答案：A\n\n對於重度 OSA 加上白天嗜睡的成人，CPAP 的證據很強，CPAP 或 APAP 都是標準的長期治療方式。但如果病人就是戴不下去、或是不願意用，下一步並不會自動跳到某一台手術。\n\nAASM 給的是強建議：成人 OSA 病人無法耐受或不接受 PAP 的時候，臨床醫師應該跟他討論轉介給 sleep surgeon，而且指引特別指出 BMI 低於 40 的病人更適合進行這個討論。他 BMI 26、重度 OSA、又戴不住 PAP，正好是該轉介評估的對象。\n\n其他選項為什麼不對：\n(B) 扁桃腺大只是其中一個可能的阻塞點。還沒搞清楚他睡覺時到底塌在哪裡就直接排 UPPP，等於用清醒時看到的東西去決定睡著時的問題。\n(C) 戴不住 PAP 只代表這條路走不通，不代表沒有其他路。\n\nKeypoint：無法耐受 PAP 決定的是「改走手術這條路」，不是「決定開哪一台」。\n\nReference: Patil SP, Ayappa IA, Caples SM, et al. Treatment of adult obstructive sleep apnea with positive airway pressure: An AASM clinical practice guideline. J Clin Sleep Med. 2019;15(2):335–343. Kent D, Stanley J, Aurora RN, et al. Referral of adults with obstructive sleep apnea for surgical consultation: An AASM clinical practice guideline. J Clin Sleep Med. 2021;17(12):2499–2505."
     },
     {
       "title": "Step 4/6：DISE 與手術介入",
@@ -112,7 +112,7 @@
           "text": "(E) Arytenoid"
         }
       ],
-      "feedback": "正確答案：A、B、C\n\nOSA 是一個動態的上呼吸道疾病。\nDISE 可以顯示睡眠狀態下的塌陷，涉及：\n• Velum\n• Lateral pharyngeal wall\n• 舌根\n• Epiglottis\n並且可以呈現清醒檢查無法完全預測的多層次阻塞。\nAAO-HNS 表示 DISE 有助於決定最有效的 OSA 手術治療計畫。\n2024 年一篇針對 DISE 導引上呼吸道手術的系統性回顧與統合分析也發現，DISE 所辨識出的塌陷型態與手術結果及失敗風險相關。\nKeypoint：清醒檢查描述的是解剖，DISE 呈現的是塌陷。\n銜接：\n氣道評估顯示這位病人需要以部位為導向的多層次手術策略。\n下一個決定是：什麼時候該加上舌根手術？\n\nReference\nAAO-HNS. Position statement: Treatment of obstructive sleep apnea. Revised 2021.\nQi Y, Zhao Y, Yan Y, Wu D. Surgical failure guided by DISE in patients with obstructive sleep apnea: A systematic review and meta-analysis. Eur Arch Otorhinolaryngol. 2024;281(7):3333–3343."
+      "feedback": "正確答案：A、B、C\n\nOSA 的問題是動態的：清醒時看起來還好的氣道，睡著之後可能整個塌下去。DISE 就是要看這件事。它可以顯示 velum、lateral pharyngeal wall、舌根、epiglottis 各層的塌陷，也常常揭露清醒檢查完全預測不到的多層次阻塞。\n\nAAO-HNS 的立場是 DISE 有助於決定最有效的 OSA 手術計畫。2024 年一篇針對 DISE 導引手術的系統性回顧與統合分析也發現，DISE 看到的塌陷型態，跟手術結果和失敗風險有關。\n\n其他選項為什麼不對：\n(D) Epiglottis 的塌陷確實存在，也確實會影響術式選擇，但這段影像上它沒有超過 50%。\n(E) Arytenoid 在這段影像上同樣沒有達到臨床上顯著的塌陷程度。\n\nKeypoint：清醒時的檢查看的是解剖長什麼樣，DISE 看的是它睡著之後怎麼塌。\n\nReference: AAO-HNS. Position statement: Treatment of obstructive sleep apnea. Revised 2021. Qi Y, Zhao Y, Yan Y, Wu D. Surgical failure guided by DISE in patients with obstructive sleep apnea: A systematic review and meta-analysis. Eur Arch Otorhinolaryngol. 2024;281(7):3333–3343."
     },
     {
       "title": "Step 5/6：選擇手術",
@@ -134,7 +134,7 @@
           "text": "(C) 只有無法耐受 PAP 這一點"
         }
       ],
-      "feedback": "正確答案：B\n\n這是整個案例的核心手術原則。\nTORS 不是由 AHI 決定的手術，它是由「部位」決定的手術。\n一位病人可以 AHI 高達 50 卻沒有實質的舌根塌陷，這種情況下舌根縮減術並不會自動被合理化。\n反過來說，當舌根阻塞是病人氣道 phenotype 的重要成分時，TORS 可以作為個人化手術計畫的一部分納入考慮。\n2026 年一篇針對單獨施行 TORS 舌根手術的系統性回顧發現，已發表的研究主要納入的成人具有：\n• 中重度 OSA\n• PAP 失敗／無法耐受\n• 有舌根肥厚／阻塞的證據\n平均 AHI 從 34.2 改善到 14.7 次/小時，但作者強調研究數量有限、異質性高，而且病人選擇非常重要。\n為什麼要做多層次手術？\n如果病人在以下兩個位置都有臨床上重要的阻塞：\n顎部／咽部層級\n以及\n舌根層級\n那麼治療可能需要同時處理這兩個部位。\nKeypoint：多層次手術要由「多層次阻塞」來支持，不是由「重度 OSA」來支持。\n最後一個問題是：\n你怎麼知道 OSA 真的被成功治療了？\n\nReference\nChaidas K, Mouratidou S. Standalone transoral robotic surgery for obstructive sleep apnoea: A systematic literature review of clinical outcomes. Life. 2026;16(2):332.\nMouratidou S, Chaidas K. Transoral robotic surgery for patients with obstructive sleep apnoea: A systematic review of current practices. 2024.\nAAO-HNS 認為舌根相關術式，包括 midline glossectomy 類的手術，可以是成人 OSA 整體手術治療的一部分。"
+      "feedback": "正確答案：B\n\n這是整個案例最核心的手術原則：TORS 是看「位置」決定的手術，不是看 AHI 決定的手術。\n\n一個病人 AHI 可以高到 50，但舌根根本沒有明顯塌陷——這種情況做舌根縮減不會自動變成合理。反過來，當舌根阻塞確實是他氣道問題的重要成分時，TORS 才有進入手術計畫的理由。2026 年一篇針對單獨做 TORS 舌根手術的系統性回顧發現，已發表的研究收的病人大致都有這三個特徵：中重度 OSA、PAP 失敗或戴不住、而且有舌根肥厚或阻塞的證據。平均 AHI 從 34.2 降到 14.7，但作者也提醒研究數量少、異質性高，病人選擇非常關鍵。\n\n至於為什麼要做多層次手術：因為他顎咽和舌根兩個位置都有臨床上重要的阻塞，只處理一個地方，另一個還是會塌。\n\n其他選項為什麼不對：\n(A) AHI 高只說明病重，說明不了要開哪裡。這一題問的就是「憑什麼加開舌根」，AHI 回答不了。\n(C) 戴不住 PAP 只是讓他進入手術評估，它不會指定任何一台手術。\n\nKeypoint：多層次手術要由多層次阻塞來支持，不是由重度 OSA 來支持。\n\nReference: Chaidas K, Mouratidou S. Standalone transoral robotic surgery for obstructive sleep apnoea: A systematic literature review of clinical outcomes. Life. 2026;16(2):332. Mouratidou S, Chaidas K. Transoral robotic surgery for patients with obstructive sleep apnoea: A systematic review of current practices. 2024."
     },
     {
       "title": "Step 6/6：出院衛教與傷口照護",
@@ -160,7 +160,7 @@
           "correct": true
         }
       ],
-      "feedback": "正確答案：D\n\n主觀的改善有意義，但是：\n打鼾變少 ≠ OSA 治癒\n而且：\nESS 改善 ≠ 呼吸事件恢復正常\n在 upper-airway surgery 這類非 PAP 的介入之後，OSA 的療效評估應該包含對睡眠呼吸障礙的客觀再評估。\n進階教學點\n睡眠手術的研究常用這樣的標準來定義手術成功：\nAHI 下降 ≥50% 且術後 AHI <20\n但是：\n手術成功 ≠ 治癒\n病人可以符合研究定義的「成功」，卻仍有臨床上重要的殘餘 OSA。\n因此療效評估應該整合：\n• 治療後 AHI／REI\n• 血氧\n• 殘餘的白天症狀\n• 睡眠相關生活品質\n• 心血管代謝的整體狀況\n• 是否需要輔助治療\nKeypoint：傷口癒合代表手術結束了；要等療效被客觀再評估過，OSA 的治療才算結束。\n\nReference\nSher AE, Schechtman KB, Piccirillo JF. The efficacy of surgical modifications of the upper airway in adults with obstructive sleep apnea syndrome. Sleep. 1996;19(2):156–177. doi:10.1093/sleep/19.2.156.\nChang JL, Goldberg AN, Alt JA, et al. International consensus statement on obstructive sleep apnea. Int Forum Allergy Rhinol. 2023;13(7):1061–1482."
+      "feedback": "正確答案：D\n\n主觀上覺得好很多當然有意義，但打鼾變小聲不等於 OSA 好了，ESS 分數下降也不等於呼吸事件回到正常。非 PAP 的治療——像上呼吸道手術——做完之後，療效評估必須包含對睡眠呼吸障礙的客觀再檢查。\n\n補充一個比較進階的觀念：睡眠手術的研究常用「AHI 下降 50% 以上，而且術後 AHI 低於 20」來定義手術成功。但手術成功不等於治癒。一個病人完全符合研究定義的「成功」，身上還是可能留著臨床上要處理的 OSA。所以評估的時候要一起看：術後的 AHI 或 REI、血氧、白天還有沒有症狀、睡眠相關的生活品質、心血管代謝的整體狀況，以及要不要加上輔助治療。\n\n其他選項為什麼不對：\n(A) 打鼾是氣流通過軟組織振動的聲音，跟呼吸有沒有停是兩件事。手術把振動的組織處理掉，聲音當然變小，但事件可能還在。\n(B) 白天嗜睡受睡眠時數、作息、情緒很多因素影響，它會動不代表呼吸事件有改善。\n(C) 門診內視鏡看到的是清醒時的氣道。OSA 是睡著之後才發生的問題，清醒下看起來變寬，不保證睡著時不會塌。\n\nKeypoint：傷口癒合代表手術結束了；要等客觀檢查證實療效，OSA 的治療才算結束。\n\nReference: Sher AE, Schechtman KB, Piccirillo JF. The efficacy of surgical modifications of the upper airway in adults with obstructive sleep apnea syndrome. Sleep. 1996;19(2):156–177. doi:10.1093/sleep/19.2.156. Chang JL, Goldberg AN, Alt JA, et al. International consensus statement on obstructive sleep apnea. Int Forum Allergy Rhinol. 2023;13(7):1061–1482."
     }
   ]
 }
