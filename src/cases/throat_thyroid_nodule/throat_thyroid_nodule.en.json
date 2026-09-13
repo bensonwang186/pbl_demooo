@@ -171,29 +171,29 @@
     },
     {
       "title": "Step 7/7: What Happens Now",
-      "scenario": "She has had a right thyroidectomy with isthmusectomy. The left lobe is intact. She asks what happens next.",
+      "scenario": "She has had a right thyroidectomy with isthmusectomy. The left lobe is still there. The pathology shows tall cell subtype and two foci. She asks what happens next.",
       "media": "",
-      "question": "What do you recommend?",
+      "question": "What is the next step?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Proceed to radioiodine ablation now"
+          "text": "(A) Proceed to radioiodine now"
         },
         {
           "id": "B",
-          "text": "(B) Start levothyroxine and titrate to suppress TSH below 0.1 microIU/mL"
+          "text": "(B) Start levothyroxine and suppress TSH below 0.1"
         },
         {
           "id": "C",
-          "text": "(C) Annual ultrasound alone, since a lobectomy is definitive for any tumor under 2 cm"
+          "text": "(C) Annual ultrasound alone"
         },
         {
           "id": "D",
-          "text": "(D) Discuss completion thyroidectomy, since the intermediate-high risk features may warrant radioiodine and it cannot be given with a lobe in place",
+          "text": "(D) Discuss completion thyroidectomy, because radioiodine may be needed and it cannot be given with a lobe in place",
           "correct": true
         }
       ],
-      "feedback": "Correct answer: D\n\nTwo things in her report make a second operation worth discussing: the tall cell subtype and two separate foci. While the left lobe is still there, thyroglobulin cannot be used to look for residual disease, and radioiodine is not given until the rest of the thyroid has been removed. The surgical decision has to be made first.\n\nThe 2025 ATA guidelines list tall cell as one of the higher-risk papillary types where completion thyroidectomy may be worth considering after a lobectomy, and they allow more individualized radioiodine decisions in the low-intermediate and intermediate-high groups. They also add a new point that belongs to us: recurrent laryngeal nerve status should be considered before a completion thyroidectomy (R16). If the nerve on the operated side is not working, operating on the other side carries a different risk, which is one more reason her preoperative laryngoscopy mattered. NCCN takes the same approach for positive margins, lymphatic invasion, or high-grade histology.\n\nWhy the others fail:\n(A) Radioiodine cannot be planned while the other lobe is still in place, so the surgical decision comes first. Since 2015 radioiodine has also been used selectively rather than given to everyone after surgery.\n(B) This is the older approach. Until 2015, TSH was suppressed routinely in almost everyone after surgery for thyroid cancer. The 2025 guidelines have simplified the target to a binary choice: within the normal reference range, or below it. Below normal is reserved for a biochemically or structurally incomplete response. After a hemithyroidectomy with no evidence of disease, the target is within the normal range. Long-term suppression also raises the risk of atrial fibrillation and lowers bone density.\n(C) Size is not what makes a lobectomy sufficient. Low-risk intrathyroidal tumors under 2 cm can be managed this way, but she has two features that take her out of that group: tall cell subtype and two separate foci. The close margin is negative and does not count. Surveillance alone leaves the completion question unasked rather than answered.\n\nKeypoint: decide how much thyroid to remove before deciding about radioiodine, because leaving a lobe rules radioiodine out.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. Praw SS, Gigliotti BJ, Tessnow A, Kang H, Margulies DJ. Executive summary of the 2025 American Thyroid Association management guidelines for adult patients with differentiated thyroid cancer. Thyroid. 2025;35(11):1214-1220. doi:10.1177/10507256251390877. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026."
+      "feedback": "Correct answer: D\n\nTwo findings on her report make a second operation worth discussing: tall cell subtype and two separate foci. Both raise the possibility that she will need radioiodine. Radioiodine cannot be given while the left lobe remains, because the normal lobe takes up the iodine instead of any residual disease. The first decision is therefore whether to remove the left lobe, and that is a discussion with the patient rather than an automatic step.\n\nThe 2025 ATA guidelines name tall cell as a subtype for which completion thyroidectomy may be considered after lobectomy. They also add a new recommendation: confirm that the recurrent laryngeal nerve on the operated side is functioning before operating on the contralateral side (R16). This is why her preoperative laryngoscopy mattered. NCCN gives the same guidance for positive margins, lymphatic invasion, or high-grade histology.\n\nWhy the others fail:\n(A) Radioiodine cannot be given yet, because the left lobe is still in place. Since 2015 radioiodine has also been used selectively rather than routinely after surgery.\n(B) This is the older approach. Before 2015, TSH suppression was routine after thyroid cancer surgery. The 2025 guidelines simplify the target to two options: within the normal reference range, or below it. Below normal is reserved for patients with biochemically or structurally incomplete response. She has no evidence of disease, so the target is the normal range. Long-term suppression also increases the risk of atrial fibrillation and reduces bone density.\n(C) For a low-risk tumor under 2 cm, lobectomy with ultrasound follow-up is sufficient. She is not low risk: tall cell subtype and multifocality place her in the intermediate-high group. The close margin is negative and does not change this. Ultrasound alone leaves the question of further treatment unanswered.\n\nKeypoint: decide about the left lobe first, because radioiodine is not an option while it remains.\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. Praw SS, Gigliotti BJ, Tessnow A, Kang H, Margulies DJ. Executive summary of the 2025 American Thyroid Association management guidelines for adult patients with differentiated thyroid cancer. Thyroid. 2025;35(11):1214-1220. doi:10.1177/10507256251390877. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026."
     }
   ]
 }
