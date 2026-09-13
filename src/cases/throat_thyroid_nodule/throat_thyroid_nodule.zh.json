@@ -171,29 +171,29 @@
     },
     {
       "title": "Step 7/7：接下來呢",
-      "scenario": "她已經完成右側甲狀腺切除加峽部切除，左葉完整保留。她問接下來會怎麼樣。",
+      "scenario": "她已經做完右側甲狀腺切除加峽部切除，左葉還在。病理報告是 tall cell subtype，兩個病灶。她問接下來要做什麼。",
       "media": "",
-      "question": "你會建議什麼？",
+      "question": "下一步是什麼？",
       "options": [
         {
           "id": "A",
-          "text": "(A) 現在就進行放射碘治療"
+          "text": "(A) 現在就做放射碘"
         },
         {
           "id": "B",
-          "text": "(B) 開始 levothyroxine，把 TSH 壓到 0.1 uIU/mL 以下"
+          "text": "(B) 開 levothyroxine，把 TSH 壓到 0.1 以下"
         },
         {
           "id": "C",
-          "text": "(C) 只做年度超音波追蹤，因為小於 2 cm 的腫瘤做葉切除就夠了"
+          "text": "(C) 只做年度超音波追蹤"
         },
         {
           "id": "D",
-          "text": "(D) 討論 completion thyroidectomy，因為中高風險的特徵可能需要放射碘，而留著一葉就不能做",
+          "text": "(D) 討論 completion thyroidectomy，因為可能需要放射碘，而左葉還在就不能做",
           "correct": true
         }
       ],
-      "feedback": "正確答案：D\n\n她這份報告上有兩件事，讓再開一次刀值得拿出來討論：tall cell、兩個病灶。而且只要左葉還留著，Tg 就驗不出有沒有殘存病灶，碘治療也不能做——碘會被正常的左葉吃掉。所以要不要做碘治療之前，得先決定甲狀腺到底要不要拿乾淨。\n\n2025 ATA 指引把 tall cell 列在「葉切除後可以考慮再做 completion」的較高風險亞型裡，而且對 low-intermediate 和 intermediate-high 這兩級，碘治療的決定改成更個人化。另外 2025 新增了一條正好是我們的事：決定 completion 之前要考慮喉返神經的狀態（R16）。如果開過那一側的神經已經不動了，去開另一側的風險完全不一樣——這也是為什麼她術前做喉鏡是有意義的。NCCN 對切緣陽性、淋巴管侵犯、高惡性度組織型，走的也是同一條路。\n\n其他選項為什麼不對：\n(A) 左葉還在的時候碘治療根本排不了，順序是先決定手術範圍。而且 2015 年之後碘治療已經改成有需要才做，不是每個開完刀的人都給。\n(B) 這是以前的做法。2015 年以前甲狀腺癌開完幾乎每個人都壓 TSH。2025 把目標簡化成二選一：維持在正常參考範圍內，或壓到正常範圍以下。壓到正常以下只留給生化或結構上反應不完全的人。她葉切除後沒有疾病證據，目標就是正常範圍。長期壓 TSH 還會增加心房顫動的風險、讓骨密度下降，她才 44 歲，這個代價要背幾十年。\n(C) 決定葉切除夠不夠的不是大小。低風險、局限在甲狀腺內、小於 2 cm 的確實可以就這樣追蹤，但她身上有兩個特徵把她移出那一群：tall cell 和兩個病灶。切緣近但陰性，不算。只做超音波追蹤，等於是把「要不要做 completion」這個問題擱著，而不是回答了它。\n\nKeypoint：先決定甲狀腺要拿多少，再決定要不要做碘治療——因為留著一葉，碘治療這個選項就沒了。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. Praw SS, Gigliotti BJ, Tessnow A, Kang H, Margulies DJ. Executive summary of the 2025 American Thyroid Association management guidelines for adult patients with differentiated thyroid cancer. Thyroid. 2025;35(11):1214-1220. doi:10.1177/10507256251390877. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026."
+      "feedback": "正確答案：D\n\n她報告上有兩項發現讓第二次手術值得討論：tall cell subtype、兩個病灶。這兩項都提高了她需要放射碘的可能性。而左葉還在的時候放射碘不能做，因為碘會被正常的左葉吸收，而不是去找殘存的病灶。所以第一個要決定的是左葉要不要拿掉，而這是要跟病人討論的，不是自動要做的步驟。\n\n2025 ATA 指引把 tall cell 列為葉切除後可以考慮 completion thyroidectomy 的亞型之一。指引還新增了一條建議：要開對側之前，先確認開過那一側的喉返神經功能正常（R16）。這也是為什麼她術前的喉鏡有意義。NCCN 對切緣陽性、淋巴管侵犯、高惡性度組織型也給同樣的建議。\n\n其他選項為什麼不對：\n(A) 放射碘現在還不能做，因為左葉還在。而且 2015 年之後放射碘是選擇性使用，不是術後常規。\n(B) 這是舊的做法。2015 年以前甲狀腺癌術後常規壓 TSH。2025 指引把目標簡化成兩種：維持在正常參考範圍內，或壓到正常範圍以下；壓到正常以下只留給生化或結構上反應不完全的病人。她沒有疾病證據，目標就是正常範圍。長期抑制也會增加心房顫動風險、降低骨密度。\n(C) 低風險、小於 2 cm 的腫瘤，葉切除加超音波追蹤就足夠。但她不是低風險：tall cell 和多發性讓她落在 intermediate-high。切緣近但陰性，不改變分級。只做超音波等於把「需不需要進一步治療」這個問題擱著。\n\nKeypoint：先決定左葉要不要拿，因為左葉還在，放射碘就不是選項。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. Praw SS, Gigliotti BJ, Tessnow A, Kang H, Margulies DJ. Executive summary of the 2025 American Thyroid Association management guidelines for adult patients with differentiated thyroid cancer. Thyroid. 2025;35(11):1214-1220. doi:10.1177/10507256251390877. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026."
     }
   ]
 }
