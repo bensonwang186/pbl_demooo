@@ -41,7 +41,7 @@
     },
     {
       "title": "Step 2/7：要夠長才搆得到",
-      "scenario": "你自己幫她做超音波。右葉有一顆 0.81 x 0.71 x 0.61 cm 的結節：實質性、明顯低回音、邊界不清且不規則、halo 不完整。\n\n它貼在右葉的後緣，位在腺體主體的深部。\n\n你在自己的超音波導引下做穿刺。",
+      "scenario": "你自己幫她做超音波。右葉有一顆 0.51 x 0.63 x 0.58 cm 的結節：實質性、明顯低回音、邊界不清且不規則、halo 不完整。\n\n它貼在右葉的後緣，位在腺體主體的深部。\n\n你在自己的超音波導引下做穿刺。",
       "media": "載入圖片 1：右葉橫切超音波，顯示結節位在後緣。圖說：「右葉，橫切」\n載入圖片 2：22G 和 25G 針並排靠著尺規。圖說：「針號」",
       "question": "你會用哪一種針？",
       "options": [
@@ -89,7 +89,7 @@
           "correct": true
         }
       ],
-      "feedback": "正確答案：D\n\n增大情形（growth）和位置（location）兩個條件她都達到了。\n\n增大情形（growth）：Kuma 的定義是任一軸向增加 3 mm 以上。她的縱徑從 0.58 長到 0.90，是 3.2 mm。NCCN 用同樣的 3 mm 門檻，另外加上體積增加 50% 以上；她的體積從 0.098 變成 0.317 mL，超過兩倍。\n\n位置（location）：病灶現在貼到後被膜，離喉返神經很近。位置不理想本來就是一開始不該收進追蹤的理由，也是為什麼那條放寬條款對她不適用——Kuma 可以觀察到 13 mm 的前提是位置不危險，而她的位置危險。\n\n其他選項為什麼不對：\n(A) 拿最大徑來比是 0.63 到 0.90，只有 2.7 mm，還不到門檻。3 mm 是在縱軸上達成的，不是這一個。\n(B) 0.90 確實快到 1 cm 了，但光是變大並不是結束追蹤的理由。條件寫的是成長幅度、轉移、和甲狀腺外侵犯這幾項。\n(C) 追蹤本來就預期它會長一點。整套追蹤是圍繞著明確的門檻設計的，不是一有變化就要開刀。\n\nKeypoint：每一個軸都要量；而且腫瘤一旦貼到後被膜，不管數字怎麼算，追蹤就該結束。\n\nReference: National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026. Miyauchi A, Ito Y, Fujishima M, et al. Long-term outcomes of active surveillance and immediate surgery for adult patients with low-risk papillary thyroid microcarcinoma: 30-year experience. Thyroid. 2023;33(7):817-825. doi:10.1089/thy.2023.0076. Tuttle RM, Fagin JA, Minkowitz G, et al. Natural history and tumor volume kinetics of papillary thyroid cancers during active surveillance. JAMA Otolaryngol Head Neck Surg. 2017;143(10):1015-1020."
+      "feedback": "正確答案：D\n\n成長和位置兩個條件她都達到了。\n\n成長：Kuma 的定義是任一軸向增加 3 mm 以上。她的縱徑從 0.58 長到 0.90，是 3.2 mm。NCCN 用同樣的 3 mm 門檻，另外加上體積增加 50% 以上；她的體積從 0.098 變成 0.317 mL，超過兩倍。\n\n位置：病灶現在貼到後被膜，離喉返神經很近。位置不理想本來就是一開始不該收進追蹤的理由，也是為什麼那條放寬條款對她不適用——Kuma 可以觀察到 13 mm 的前提是位置不危險，而她的位置危險。\n\n其他選項為什麼不對：\n(A) 拿最大徑來比是 0.63 到 0.90，只有 2.7 mm，還不到門檻。3 mm 是在縱軸上達成的，不是這一個。\n(B) 0.90 確實快到 1 cm 了，但光是變大並不是結束追蹤的理由。條件寫的是成長幅度、轉移、和甲狀腺外侵犯這幾項。\n(C) 追蹤本來就預期它會長一點。整套追蹤是圍繞著明確的門檻設計的，不是一有變化就要開刀。\n\nKeypoint：每一個軸都要量；而且腫瘤一旦貼到後被膜，不管數字怎麼算，追蹤就該結束。\n\nReference: National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026. Miyauchi A, Ito Y, Fujishima M, et al. Long-term outcomes of active surveillance and immediate surgery for adult patients with low-risk papillary thyroid microcarcinoma: 30-year experience. Thyroid. 2023;33(7):817-825. doi:10.1089/thy.2023.0076. Tuttle RM, Fagin JA, Minkowitz G, et al. Natural history and tumor volume kinetics of papillary thyroid cancers during active surveillance. JAMA Otolaryngol Head Neck Surg. 2017;143(10):1015-1020."
     },
     {
       "title": "Step 4/7：手術之前",
@@ -115,7 +115,7 @@
           "text": "(D) 不需要再做什麼；她沒有聲音主訴，而且術中神經監測會找到神經"
         }
       ],
-      "feedback": "正確答案：A\n\n做喉鏡是為了在開刀前留下聲帶活動度的紀錄。聲音聽起來正常，不代表兩側聲帶都動得好。萬一術後發現一側不動，而術前沒有任何紀錄，就沒有人能說得清楚是不是手術造成的——這對病人和對你都不利。\n\n這次抽 Tg 的理由和 Step 1 完全不同。這次不是要診斷、也不是要分期，而是要留一個她自己的起始值。Tg 要等甲狀腺都拿掉之後才開始有意義，到那個時候，拿她後續的數值跟這個起始值比、再看當時的 TSH 是多少，才能判斷有沒有殘存或復發。抗體要一起抽，是因為沒有抗體的數據，之後那些 Tg 數值根本沒辦法解讀。\n\n其他選項為什麼不對：\n(B) 這個選項對了一半。Tg 確實不能用來診斷，但它現在抽不是要拿來診斷，是要留起始值。\n(C) 只拿掉一葉，副甲狀腺低下並不常見，而且術前先驗鈣也不會改變手術怎麼做。\n(D) 神經監測是在術中幫你找神經、開完給你一個參考，但它沒辦法告訴你開刀前一天她的聲帶是什麼狀態。\n\nKeypoint：聲帶要在開刀前記錄，Tg 要在開刀前留起始值——這兩件事都只有「術前」這個時間點做得到。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. Giovanella L, D'Aurizio F, Petranovic Ovcaricek P, Gorges R. J Clin Med. 2024;13(9):2463. doi:10.3390/jcm13092463."
+      "feedback": "正確答案：A\n\n做喉鏡是為了在開刀前留下聲帶活動度的紀錄。聲音聽起來正常，不代表兩側聲帶都動得好。萬一術後發現一側不動，而術前沒有任何紀錄，就沒有人能說得清楚是不是手術造成的——這對病人和對你都不利。2025 指引也支持術中神經監測來改善術後聲音。\n\n至於 Tg：她一直在 active surveillance，而 2025 指引建議 AS 期間要測 Tg 和 TgAb，所以她本來就有一系列數值在檔案裡。術前再抽一次，是留一個乾淨的起始值。葉切除之後，指引建議測一次 Tg 確認沒有異常升高，但不建議連續追蹤，因為剩下那一葉會一直製造 Tg。抗體要一起看，因為 TgAb 陽性的話，任何 Tg 數值都沒辦法判讀。\n\n其他選項為什麼不對：\n(B) 這個選項對了一半：Tg 確實不能診斷、也不能分期，但說它任何階段都沒用是錯的。AS 期間要測，葉切除後也要測一次。\n(C) 只拿掉一葉，副甲狀腺低下並不常見，而且術前先驗鈣也不會改變手術怎麼做。\n(D) 神經監測是在術中幫你找神經、開完給你一個參考，但它沒辦法告訴你開刀前一天她的聲帶是什麼狀態。\n\nKeypoint：聲帶要在開刀前記錄下來；Tg 則要知道它在每個階段各是拿來做什麼的。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. Praw SS, Gigliotti BJ, Tessnow A, Kang H, Margulies DJ. Executive summary of the 2025 American Thyroid Association management guidelines for adult patients with differentiated thyroid cancer. Thyroid. 2025;35(11):1214-1220. doi:10.1177/10507256251390877. Giovanella L, D'Aurizio F, Petranovic Ovcaricek P, Gorges R. J Clin Med. 2024;13(9):2463. doi:10.3390/jcm13092463."
     },
     {
       "title": "Step 5/7：要做哪一種影像",
@@ -141,33 +141,33 @@
           "text": "(D) 重做側頸超音波，因為超音波是偵測頸部淋巴結最敏感的檢查"
         }
       ],
-      "feedback": "正確答案：C\n\n2025 ATA 指引建議，遇到明顯的甲狀腺外侵犯、大顆或範圍廣的淋巴結、或懷疑侵犯到呼吸道、食道、胸腔的時候，術前要安排頸部加胸部的 CT 或 MRI，而且要打顯影劑（強建議，中等證據強度）。她的結節已經貼到被膜，就是「懷疑侵犯到甲狀腺外」，所以符合這個條件。\n\n其他選項為什麼不對：\n(A) 不打顯影劑，就看不出腫瘤有沒有包住血管、淋巴結有沒有增強或壞死，而這些正好是會改變手術做法的東西。至於碘會不會影響之後的碘治療，這個顧慮被講得太嚴重了：顯影劑的碘四到六週就排掉了，ATA 的立場是影像看清楚比較重要，晚幾週做碘治療沒關係。真的不放心可以驗個尿碘。\n(B) 超音波照不到咽後、咽旁、鎖骨下和縱膈這些地方，也看不出病灶往下延伸到哪裡。\n(D) 超音波看側頸確實很準，她被判定 N0 就是靠超音波。問題不在超音波準不準，而是有些地方它照不到。\n\nKeypoint：這裡非打顯影劑不可，因為會影響手術怎麼開的那些東西，不打就看不見。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985, Recommendation 8."
+      "feedback": "正確答案：C\n\n2025 ATA 指引的 R8 建議：有 bulky 淋巴結、或懷疑侵犯到 aerodigestive tract 或縱膈時，術前要做頸部加縱膈的 CT 或 MRI，而且要打顯影劑。她的病灶貼到後被膜，等於貼著氣管食道溝，這張 CT 就是要回答「有沒有碰到氣管食道」這個問題。PET/CT 不建議常規使用。\n\n其他選項為什麼不對：\n(A) 不打顯影劑，就看不出腫瘤有沒有包住血管、淋巴結有沒有增強或壞死，而這些正好是會改變手術做法的東西。至於碘會不會影響之後的碘治療，這個顧慮被講得太嚴重了：顯影劑的碘四到六週就排掉了，ATA 的立場是影像看清楚比較重要，晚幾週做碘治療沒關係。真的不放心可以驗個尿碘。\n(B) 超音波照不到咽後、咽旁、鎖骨下和縱膈這些地方，也看不出病灶往下延伸到哪裡。\n(D) 超音波看側頸確實很準，她被判定 N0 就是靠超音波。問題不在超音波準不準，而是有些地方它照不到。\n\nKeypoint：這裡非打顯影劑不可，因為會影響手術怎麼開的那些東西，不打就看不見。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985, Recommendation 8. Praw SS, Gigliotti BJ, Tessnow A, Kang H, Margulies DJ. Executive summary of the 2025 American Thyroid Association management guidelines for adult patients with differentiated thyroid cancer. Thyroid. 2025;35(11):1214-1220. doi:10.1177/10507256251390877."
     },
     {
       "title": "Step 6/7：判讀這份報告",
       "scenario": "最終病理報告：\n\n    Papillary thyroid carcinoma，tall cell subtype，well differentiated\n    右葉兩個病灶：1.1 cm 與 0.3 cm\n    Extrathyroidal extension：未發現\n    血管與淋巴管侵犯：未發現\n    切緣：腫瘤接近周邊切緣，距離小於 0.1 mm\n    淋巴結：perithyroid 0/1，level VI 0/2\n    pT1b(m) pN0",
       "media": "載入圖片：最終病理報告，所有病人與機構識別資料已塗銷。圖說：「最終病理」",
-      "question": "依 ATA 復發風險分層，她落在哪一級？",
+      "question": "依 2025 ATA 的復發風險分層，她落在哪一級？",
       "options": [
         {
           "id": "A",
-          "text": "(A) 低風險，因為腫瘤局限在甲狀腺內、淋巴結陰性、且小於 2 cm"
+          "text": "(A) 低風險，因為腫瘤小於 2 cm 且淋巴結陰性"
         },
         {
           "id": "B",
-          "text": "(B) 中風險，因為是 tall cell subtype",
+          "text": "(B) 中高風險（intermediate-high），因為是 tall cell subtype",
           "correct": true
         },
         {
           "id": "C",
-          "text": "(C) 中風險，因為腫瘤是多發性的"
+          "text": "(C) 低中風險（low-intermediate），因為是單側多發"
         },
         {
           "id": "D",
           "text": "(D) 高風險，因為切緣距離小於 0.1 mm"
         }
       ],
-      "feedback": "正確答案：B\n\nATA 把復發風險分成低、中、高三級。\n\n會被歸到中風險的條件包括：顯微鏡下的甲狀腺外侵犯、淋巴結轉移、頸部有會攝碘的病灶、血管侵犯，還有侵襲性的組織亞型。Tall cell 就是被點名的侵襲性亞型之一，另外還有 hobnail 和 columnar cell。她這份報告上其他每一項看起來都很漂亮，就是這一項把她拉到中風險。\n\n其他選項為什麼不對：\n(A) 要算低風險，除了腫瘤局限在甲狀腺內、沒有血管侵犯、沒有甲狀腺外侵犯、沒有淋巴結轉移之外，組織亞型也不能是侵襲性的。前面幾項她都符合，就差最後這一項。\n(C) 多發但都局限在甲狀腺內、又沒有其他不利因素的乳突癌，還是算低風險。光是多發不會改變分級。\n(D) 要算高風險得有明顯的甲狀腺外侵犯、開完還有腫瘤殘留、遠端轉移、或是 3 cm 以上的淋巴結。切緣很近但邊緣沒有腫瘤細胞，這幾項一個都不符合。\n\nKeypoint：分級之前先看組織亞型，因為它可以壓過大小、分期和淋巴結這三項加起來的結果。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985."
+      "feedback": "正確答案：B\n\n2025 ATA 把結構性復發風險分成四級：low（<10%）、low-intermediate（10 到 15%）、intermediate-high（16 到 30%）、high（>30%）。\n\nT1 或 T2 的腫瘤只要有侵襲性組織亞型，單憑這一項就落到 intermediate-high，而 tall cell 就是被列名的侵襲性亞型之一。她另外還有單側多發，這一項自己只會到 low-intermediate，但分級是由組織型決定的。\n\n其他選項為什麼不對：\n(A) 要算低風險，腫瘤要是單一病灶的 T1 或 T2、淋巴結陰性、而且沒有侵襲性組織型。她有兩點不符：兩個病灶，以及 tall cell。\n(C) 單側多發是 low-intermediate 的因子，如果她只有這一項，就會落在這一級。但 tall cell 蓋過它。\n(D) 切緣很近但邊緣沒有腫瘤細胞，就是陰性切緣，也就是 R0。2025 的系統只分陰性、顯微鏡下陽性（R1）、肉眼有殘留（R2）三種。距離不到 0.1 mm 完全不會改變她的分級。\n\nKeypoint：光是侵襲性組織型就能把一顆小的、淋巴結陰性的腫瘤拉到 intermediate-high；而切緣近但陰性，仍然是陰性。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. 2025 American Thyroid Association Management Guidelines for Adult Patients with Differentiated Thyroid Cancer. Thyroid. 2025;35(8):841-985, Figure 2."
     },
     {
       "title": "Step 7/7：接下來呢",
@@ -189,11 +189,11 @@
         },
         {
           "id": "D",
-          "text": "(D) 討論 completion thyroidectomy，因為中風險的特徵可能需要放射碘，而留著一葉就不能做",
+          "text": "(D) 討論 completion thyroidectomy，因為中高風險的特徵可能需要放射碘，而留著一葉就不能做",
           "correct": true
         }
       ],
-      "feedback": "正確答案：D\n\n她這份報告上有三件事，讓再開一次刀值得拿出來討論：tall cell、兩個病灶、切緣不到 0.1 mm。而且只要左葉還留著，Tg 就驗不出有沒有殘存病灶，碘治療也不能做——碘會被正常的左葉吃掉。所以要不要做碘治療之前，得先決定甲狀腺到底要不要拿乾淨。\n\n2025 ATA 指引把 tall cell 列在「葉切除後可以考慮再做 completion」的較高風險亞型裡。NCCN 對切緣接近或陽性、淋巴管侵犯、高惡性度組織型，走的也是同一條路。\n\n其他選項為什麼不對：\n(A) 左葉還在的時候碘治療根本排不了，順序是先決定手術範圍。而且 2015 年之後碘治療已經改成有需要才做，不是每個開完刀的人都給。\n(B) 這是以前的做法。2015 年以前甲狀腺癌開完幾乎每個人都壓 TSH。現在是看風險分級和治療反應來定目標：壓到 0.1 以下只留給高風險、或還有結構性病灶的人。她是中風險而且沒有疾病證據，目標大概落在 0.1 到 0.5；如果最後就只做葉切除，一般是把 TSH 維持在正常範圍就好。長期壓 TSH 還會增加心房顫動的風險、讓骨密度下降，她才 44 歲，這個代價要背幾十年。\n(C) 決定葉切除夠不夠的不是大小。低風險、局限在甲狀腺內、小於 2 cm 的確實可以就這樣追蹤，但她身上有三個特徵把她移出那一群。只做超音波追蹤，等於是把「要不要做 completion」這個問題擱著，而不是回答了它。\n\nKeypoint：先決定甲狀腺要拿多少，再決定要不要做碘治療——因為留著一葉，碘治療這個選項就沒了。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026."
+      "feedback": "正確答案：D\n\n她這份報告上有兩件事，讓再開一次刀值得拿出來討論：tall cell、兩個病灶。而且只要左葉還留著，Tg 就驗不出有沒有殘存病灶，碘治療也不能做——碘會被正常的左葉吃掉。所以要不要做碘治療之前，得先決定甲狀腺到底要不要拿乾淨。\n\n2025 ATA 指引把 tall cell 列在「葉切除後可以考慮再做 completion」的較高風險亞型裡，而且對 low-intermediate 和 intermediate-high 這兩級，碘治療的決定改成更個人化。另外 2025 新增了一條正好是我們的事：決定 completion 之前要考慮喉返神經的狀態（R16）。如果開過那一側的神經已經不動了，去開另一側的風險完全不一樣——這也是為什麼她術前做喉鏡是有意義的。NCCN 對切緣陽性、淋巴管侵犯、高惡性度組織型，走的也是同一條路。\n\n其他選項為什麼不對：\n(A) 左葉還在的時候碘治療根本排不了，順序是先決定手術範圍。而且 2015 年之後碘治療已經改成有需要才做，不是每個開完刀的人都給。\n(B) 這是以前的做法。2015 年以前甲狀腺癌開完幾乎每個人都壓 TSH。2025 把目標簡化成二選一：維持在正常參考範圍內，或壓到正常範圍以下。壓到正常以下只留給生化或結構上反應不完全的人。她葉切除後沒有疾病證據，目標就是正常範圍。長期壓 TSH 還會增加心房顫動的風險、讓骨密度下降，她才 44 歲，這個代價要背幾十年。\n(C) 決定葉切除夠不夠的不是大小。低風險、局限在甲狀腺內、小於 2 cm 的確實可以就這樣追蹤，但她身上有兩個特徵把她移出那一群：tall cell 和兩個病灶。切緣近但陰性，不算。只做超音波追蹤，等於是把「要不要做 completion」這個問題擱著，而不是回答了它。\n\nKeypoint：先決定甲狀腺要拿多少，再決定要不要做碘治療——因為留著一葉，碘治療這個選項就沒了。\n\nReference: Ringel MD, Sosa JA, Baloch Z, et al. Thyroid. 2025;35(8):841-985. Praw SS, Gigliotti BJ, Tessnow A, Kang H, Margulies DJ. Executive summary of the 2025 American Thyroid Association management guidelines for adult patients with differentiated thyroid cancer. Thyroid. 2025;35(11):1214-1220. doi:10.1177/10507256251390877. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma. Version 2.2026, June 2, 2026."
     }
   ]
 }
