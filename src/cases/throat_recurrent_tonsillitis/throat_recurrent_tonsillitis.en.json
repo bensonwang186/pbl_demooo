@@ -2,7 +2,7 @@
   "id": "throat_tonsillitis",
   "title": "Sore Throat, Again",
   "subtitle": "A young man with repeated sore throats, from the first visit to six weeks after surgery",
-  "description": "The frequency criteria, what counts as a documented episode, reading a neck CT, what to tell an adult about recovery, discharge analgesia, and what the largest adult trial says about the benefit.",
+  "description": "The frequency criteria, what counts as a documented episode, what to tell an adult about recovery, what goes in at induction, discharge analgesia, and what the largest adult trial says about the benefit.",
   "estimatedTime": "15-20 min",
   "difficulty": "Intermediate",
   "tags": [
@@ -16,7 +16,7 @@
     {
       "title": "Step 1/6: The Criteria",
       "scenario": "A 25-year-old man comes to clinic with recurrent tonsillitis. For the past two years he has had repeated episodes of severe sore throat with fever and pus on the tonsils, and courses of antibiotics from several clinics have not stopped them coming back.\n\nOn examination both tonsils are grade III.",
-      "media": "",
+      "media": "Load image: Oropharyngeal photograph showing grade III tonsils. Caption: 'Oropharynx.'",
       "question": "When you discuss surgery with him, you refer to the Paradise criteria. Which frequency of episodes meets the criteria for tonsillectomy?",
       "options": [
         {
@@ -66,33 +66,7 @@
       "feedback": "Correct answer: C\n\nAn episode counts only when the note from that visit records a sore throat plus at least one of four findings: temperature above 38.3 C (101 F), cervical adenopathy, tonsillar exudate, or a positive test for group A streptococcus.\n\nHis chart has nine visits for sore throat this year. Seven have one of those findings recorded. Two say only \"sore throat, antibiotic prescribed.\" So he has seven documented episodes, which meets the first threshold.\n\nWhy the others fail:\n(A) Nothing was examined or measured, so nothing can be counted.\n(B) Recall is not documentation. The requirement exists because the trials that showed benefit enrolled patients whose episodes had these recorded features.\n(D) A sore throat with a normal examination is most likely viral, and it is not one of the episodes the trials counted.\n\nKeypoint: count what the chart recorded at the time, not what the patient remembers.\n\nReference: Paradise JL, Bluestone CD, Bachman RZ, et al. Efficacy of tonsillectomy for recurrent throat infection in severely affected children: results of parallel randomized and nonrandomized clinical trials. N Engl J Med. 1984;310(11):674-683. doi:10.1056/NEJM198403153101102. Scottish Intercollegiate Guidelines Network. Management of Sore Throat and Indications for Tonsillectomy. SIGN publication no. 117. Edinburgh: SIGN; 2010."
     },
     {
-      "title": "Step 3/6: The CT",
-      "scenario": "Two months ago, during his worst episode, he went to the emergency department with a muffled voice, difficulty opening his mouth, and swelling on the left side of the throat. The emergency physician obtained a contrast-enhanced CT of the neck.\n\nYou pull up the scan.",
-      "media": "Load image: Axial contrast-enhanced CT of the neck at the level of the oropharynx, unannotated. Caption: 'Axial, post-contrast.'",
-      "question": "What does the CT show, and what was the right treatment at that visit?",
-      "options": [
-        {
-          "id": "A",
-          "text": "(A) Peritonsillar cellulitis without a collection; intravenous antibiotics alone"
-        },
-        {
-          "id": "B",
-          "text": "(B) Retropharyngeal abscess; drainage through the neck under general anesthesia"
-        },
-        {
-          "id": "C",
-          "text": "(C) Parapharyngeal abscess; drainage through the neck under general anesthesia"
-        },
-        {
-          "id": "D",
-          "text": "(D) Peritonsillar abscess; needle aspiration or incision and drainage, plus antibiotics",
-          "correct": true
-        }
-      ],
-      "feedback": "Correct answer: D\n\nThe CT shows a rim-enhancing fluid collection between the tonsil and the superior constrictor muscle, with the tonsil pushed medially. That is a peritonsillar abscess. Once a collection has formed, antibiotics alone are not enough: it has to be drained. Needle aspiration and incision and drainage give similar results, and both are done in the emergency department or clinic under local anesthesia in a cooperative adult.\n\nWhy the others fail:\n(A) Cellulitis and abscess look similar from the outside. The CT is what separates them. A rim-enhancing collection means pus, and pus is drained.\n(B) A retropharyngeal abscess sits behind the pharynx, in front of the prevertebral fascia, and is a different picture on CT. It is also uncommon in adults.\n(C) A parapharyngeal abscess sits lateral to the constrictor muscle, near the carotid sheath, and needs drainage through the neck. This collection is medial to the constrictor.\n\nOne peritonsillar abscess on top of recurrent tonsillitis is an additional reason to offer tonsillectomy, and after two abscesses the case for surgery is strong on its own.\n\nKeypoint: a rim-enhancing collection is drained; where it sits decides how.\n\nReference: Powell J, Wilson JA. An evidence-based review of peritonsillar abscess. Clin Otolaryngol. 2012;37(2):136-145."
-    },
-    {
-      "title": "Step 4/6: What Recovery Looks Like",
+      "title": "Step 3/6: What Recovery Looks Like",
       "scenario": "Seven documented episodes in one year meets the criteria, and he wants surgery. Before booking it you talk about recovery.\n\nHe works full time and asks how long he will be off.",
       "media": "",
       "question": "What do you tell him about recovery in an adult?",
@@ -118,8 +92,34 @@
       "feedback": "Correct answer: A\n\nAdults have more pain after tonsillectomy than children and it lasts longer, usually about two weeks. In NATTINA, 39 percent of participants had an adverse event related to the surgery, and the most common was bleeding, reported by 19 percent. That is higher than older reports of 5 to 10 percent, partly because the trial contacted patients proactively to ask. Plan two weeks off work and tell him what a bleed looks like and where to go.\n\nWhy the others fail:\n(B) This is the child's course, and adults do worse on every measure: pain, time to eating normally, and days off.\n(C) The opposite of the evidence. Adult bleeding rates are higher than children's, not lower.\n(D) Uncomplicated adult tonsillectomy is a day case or overnight stay. Several days is not expected.\n\nKeypoint: two weeks of significant pain, and a real bleeding risk he needs to be told about before he agrees.\n\nReference: Wilson JA, O'Hara J, Fouweather T, et al. Conservative management versus tonsillectomy in adults with recurrent acute tonsillitis in the UK (NATTINA). Lancet. 2023;401(10393):2051-2059. doi:10.1016/S0140-6736(23)00519-6."
     },
     {
+      "title": "Step 4/6: At Induction",
+      "scenario": "He is on the operating table. The anesthesiologist asks what you want given.",
+      "media": "",
+      "question": "What do you give intraoperatively?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) A single dose of intravenous antibiotic, and no steroid"
+        },
+        {
+          "id": "B",
+          "text": "(B) Neither, since both have been linked to postoperative bleeding"
+        },
+        {
+          "id": "C",
+          "text": "(C) Both a single dose of dexamethasone and a single dose of intravenous antibiotic"
+        },
+        {
+          "id": "D",
+          "text": "(D) A single dose of intravenous dexamethasone, and no antibiotic",
+          "correct": true
+        }
+      ],
+      "feedback": "Correct answer: D\n\nA single intraoperative dose of dexamethasone reduces postoperative nausea and vomiting and helps early oral intake. Perioperative antibiotics do not: a Cochrane review found they do not reduce pain, bleeding, or time to normal diet, and they carry the usual costs of adverse effects and resistance.\n\nWhy the others fail:\n(A) Reverses both. The antibiotic has no benefit and the steroid does.\n(B) A single steroid dose has not been shown to increase bleeding that requires intervention, and withholding it gives up a real benefit.\n(C) The steroid half is right. The antibiotic half is the routine that persisted for years without evidence.\n\nKeypoint: give the steroid, withhold the antibiotic.\n\nReference: Dhiwakar M, Clement WA, Supriya M, McKerrow W. Antibiotics to reduce post-tonsillectomy morbidity. Cochrane Database Syst Rev. 2012;12(12):CD005607. doi:10.1002/14651858.CD005607.pub4."
+    },
+    {
       "title": "Step 5/6: Going Home",
-      "scenario": "The operation is uncomplicated. He received a single intraoperative dose of dexamethasone and no perioperative antibiotics. He is ready to go home the same evening and asks what to take for the pain.",
+      "scenario": "The operation is uncomplicated. He is ready to go home the same evening and asks what to take for the pain.",
       "media": "",
       "question": "What do you prescribe?",
       "options": [
@@ -146,7 +146,7 @@
     {
       "title": "Step 6/6: Six Weeks Later",
       "scenario": "The fossae are healed and there was no bleeding. He is back at work.\n\nHe asks whether this means the sore throats are over.",
-      "media": "",
+      "media": "Load image: Oropharyngeal photograph showing healed tonsillar fossae. Caption: 'Six weeks.'",
       "question": "What do you tell him?",
       "options": [
         {
