@@ -68,7 +68,7 @@
     {
       "title": "Step 3/7: Which Test",
       "scenario": "You want to know whether this is allergic and, if so, to what. He mentions that his nose was itchy yesterday, so he took an antihistamine tablet.",
-      "media": "",
+      "media": "media",
       "question": "Which test do you order today?",
       "options": [
         {
