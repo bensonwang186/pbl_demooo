@@ -69,27 +69,27 @@
       "title": "Step 3/7: What Kind of Inflammation",
       "scenario": "You send blood before starting treatment:\n\n    Blood eosinophils       420 cells/uL\n    Total IgE               180 kU/L\n    Specific IgE, mite      class 3\n\nHe had a sinus surgery elsewhere eight years ago; the pathology report is not available.",
       "media": "",
-      "question": "Which of these defines his inflammation as type 2?",
+      "question": "Is this type 2 inflammation, and on what basis?",
       "options": [
         {
           "id": "A",
-          "text": "(A) The positive specific IgE to mite; that proves it is allergic and therefore type 2"
+          "text": "(A) It cannot be determined without polyp tissue"
         },
         {
           "id": "B",
-          "text": "(B) Only the blood eosinophil count; total IgE has no role"
+          "text": "(B) Yes, because the specific IgE to mite is positive"
         },
         {
           "id": "C",
-          "text": "(C) Neither, because type 2 inflammation can only be proven on polyp tissue"
+          "text": "(C) No, because the blood eosinophil count is below 500"
         },
         {
           "id": "D",
-          "text": "(D) Either the blood eosinophils of 150 or more, or the total IgE of 100 or more; each is accepted on its own",
+          "text": "(D) Yes. Blood eosinophils of 150 or more, or total IgE of 100 or more, each count on their own, and he clears both",
           "correct": true
         }
       ],
-      "feedback": "Correct answer: D\n\nType 2 inflammation is the endotype behind most nasal polyps in Western populations, driven by IL-4, IL-5 and IL-13, with eosinophils in the tissue and IgE produced locally in the polyp. EPOS/EUFOREA 2023 accepts any one of three markers as evidence: tissue eosinophils of 10 or more per high-power field, blood eosinophils of 150 or more per microliter, or total serum IgE of 100 kU/L or more. He clears two of them.\n\nThis is the second place in your training where total IgE appears, and it means something different here than it did in allergic rhinitis. In rhinitis, total IgE was useless: it did not diagnose allergy and did not change treatment. In polyps, total IgE is a marker of the inflammation type, and it is one of the numbers that decides whether a biologic is on the table. Same test, different disease, different job.\n\nWhy the others fail:\n(A) The mite result proves he is sensitized to mite. It says nothing about the endotype of his polyps. Type 2 polyps occur in non-allergic patients, and allergic patients can have non-type 2 polyps. Specific IgE is the allergic rhinitis question, not the polyp question.\n(B) Blood eosinophils do most of the work in practice, and total IgE is a weak discriminator on its own, but the criteria accept it. He qualifies on either.\n(C) Tissue eosinophils are the reference standard and worth getting at his next surgery, but blood markers are accepted precisely because tissue is not always available. It is not available here.\n\nKeypoint: blood eosinophils 150 or more, or total IgE 100 or more, or tissue eosinophils 10 or more per field: any one marks type 2; the mite result is a different question.\n\nReference: Fokkens WJ, Viskens AS, Backer V, et al. EPOS/EUFOREA update on indication and evaluation of biologics in chronic rhinosinusitis with nasal polyps 2023. Rhinology. 2023;61(3):194-202. Cho A, Cho HJ, Kim CH, Kwak K, Rha MS. Eur Arch Otorhinolaryngol. 2026."
+      "feedback": "Correct answer: D\n\nYes. Type 2 inflammation is the endotype behind most nasal polyps in Western populations, driven by IL-4, IL-5 and IL-13, with eosinophils in the tissue and IgE produced locally in the polyp. EPOS/EUFOREA 2023 accepts any one of three markers as evidence: tissue eosinophils of 10 or more per high-power field, blood eosinophils of 150 or more per microliter, or total serum IgE of 100 kU/L or more. He clears two of the three without any tissue.\n\nThis is the second place in your training where total IgE appears, and it means something different here than it did in allergic rhinitis. In rhinitis, total IgE was useless: it did not diagnose allergy and did not change treatment. In polyps, total IgE is a marker of the inflammation type, and it is one of the numbers that decides whether a biologic is on the table. Same test, different disease, different job.\n\nWhy the others fail:\n(A) Tissue eosinophils are the reference standard and worth getting at his next surgery, but the criteria accept blood markers precisely because tissue is not always available. It is not available here, and you can still answer the question.\n(B) The mite result proves he is sensitized to mite. It says nothing about the endotype of his polyps. Type 2 polyps occur in non-allergic patients, and allergic patients can have non-type 2 polyps. Specific IgE is the allergic rhinitis question, not the polyp question.\n(C) The threshold is 150, not 500. His 420 is well above it. Five hundred is not a cutoff anywhere in the polyp criteria.\n\nKeypoint: blood eosinophils 150 or more, or total IgE 100 or more, or tissue eosinophils 10 or more per field: any one marks type 2; the mite result is a different question.\n\nReference: Fokkens WJ, Viskens AS, Backer V, et al. EPOS/EUFOREA update on indication and evaluation of biologics in chronic rhinosinusitis with nasal polyps 2023. Rhinology. 2023;61(3):194-202. Cho A, Cho HJ, Kim CH, Kwak K, Rha MS. Eur Arch Otorhinolaryngol. 2026."
     },
     {
       "title": "Step 4/7: Appropriate Medical Therapy",
