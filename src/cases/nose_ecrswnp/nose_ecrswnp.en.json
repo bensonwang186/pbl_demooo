@@ -67,7 +67,7 @@
     },
     {
       "title": "Step 3/7: What Kind of Inflammation",
-      "scenario": "You send blood before starting treatment:\n\n    Blood eosinophils       420 cells/uL\n    Total IgE               180 kU/L\n    Specific IgE, mite      class 3\n\nHe had a sinus surgery elsewhere eight years ago; the pathology report is not available.",
+      "scenario": "You send blood before starting treatment:\n\n    Blood eosinophils       420 cells/uL\n    Total IgE               180 kU/L\n    Specific IgE, mite      class 3\n\nHe has never had sinus surgery, so there is no polyp tissue to look at.",
       "media": "",
       "question": "Is this type 2 inflammation, and on what basis?",
       "options": [
@@ -93,13 +93,13 @@
     },
     {
       "title": "Step 4/7: Appropriate Medical Therapy",
-      "scenario": "Type 2 chronic rhinosinusitis with nasal polyps, comorbid asthma, one sinus surgery eight years ago. He has been using his steroid spray as a single squirt in each nostril most mornings.",
+      "scenario": "Type 2 chronic rhinosinusitis with nasal polyps, comorbid asthma, no previous surgery. He has been using his steroid spray as a single squirt in each nostril most mornings.",
       "media": "",
       "question": "What do you start?",
       "options": [
         {
           "id": "A",
-          "text": "(A) A biologic now, since he has type 2 inflammation and has already had surgery"
+          "text": "(A) A biologic now, since he has type 2 inflammation"
         },
         {
           "id": "B",
@@ -112,10 +112,10 @@
         },
         {
           "id": "D",
-          "text": "(D) Book him for revision surgery"
+          "text": "(D) Book him for surgery"
         }
       ],
-      "feedback": "Correct answer: C\n\nEvery pathway to surgery or a biologic runs through appropriate medical therapy first. That means an intranasal corticosteroid used every day at the labeled dose, not a squirt when he remembers; high-volume saline irrigation, which clears secretion and delivers the steroid better; and one short course of oral corticosteroid, which shrinks polyps quickly and restores smell for a while. Reassess in three months with endoscopy and a SNOT-22. If he is controlled, keep going. If not, he has failed medical therapy, and that is what opens the next door.\n\nWhy the others fail:\n(A) EPOS/EUFOREA requires failed medical therapy and prior surgery before a biologic. His surgery was eight years ago and his spray use has been half-hearted. He has not yet failed anything.\n(B) Macrolides have their supporters in non-type 2 disease, where neutrophils dominate. His disease is eosinophilic. Long-term macrolides are not effective in type 2 polyps, and he carries the resistance and cardiac risks for nothing.\n(D) Revision surgery is an option after medical therapy fails, not before it has been tried properly.\n\nKeypoint: intranasal steroid every day, saline every day, one oral steroid burst, three months, then decide.\n\nReference: Fokkens WJ, Lund VJ, Hopkins C, et al. Rhinology. 2020;58(Suppl S29):1-464. Rank MA, Chu DK, Bognanni A, et al. The Joint Task Force on Practice Parameters GRADE guidelines for the medical management of chronic rhinosinusitis with nasal polyposis. J Allergy Clin Immunol. 2023;151(2):386-398."
+      "feedback": "Correct answer: C\n\nEvery pathway to surgery or a biologic runs through appropriate medical therapy first. That means an intranasal corticosteroid used every day at the labeled dose, not a squirt when he remembers; high-volume saline irrigation, which clears secretion and delivers the steroid better; and one short course of oral corticosteroid, which shrinks polyps quickly and restores smell for a while. Reassess in three months with endoscopy and a SNOT-22. If he is controlled, keep going. If not, he has failed medical therapy, and that is what opens the next door.\n\nWhy the others fail:\n(A) EPOS/EUFOREA requires failed medical therapy and prior sinus surgery before a biologic. He has had neither. His spray use has been half-hearted, so he has not yet failed medical therapy, and he has never been operated on.\n(B) Macrolides have their supporters in non-type 2 disease, where neutrophils dominate. His disease is eosinophilic. Long-term macrolides are not effective in type 2 polyps, and he carries the resistance and cardiac risks for nothing.\n(D) Surgery is the next step after medical therapy fails, not before it has been tried properly.\n\nKeypoint: intranasal steroid every day, saline every day, one oral steroid burst, three months, then decide.\n\nReference: Fokkens WJ, Lund VJ, Hopkins C, et al. Rhinology. 2020;58(Suppl S29):1-464. Rank MA, Chu DK, Bognanni A, et al. The Joint Task Force on Practice Parameters GRADE guidelines for the medical management of chronic rhinosinusitis with nasal polyposis. J Allergy Clin Immunol. 2023;151(2):386-398."
     },
     {
       "title": "Step 5/7: Three Months Later",
@@ -141,7 +141,7 @@
           "text": "(D) Continue the spray and irrigation for another six months"
         }
       ],
-      "feedback": "Correct answer: A\n\nHe has failed appropriate medical therapy: full-dose spray, irrigation, an oral steroid burst, three months, and his polyps score 6, his SNOT-22 is 62, and he cannot smell. Surgery is the next step. It removes the polyps, opens the sinuses so that topical steroid reaches the mucosa, and gives you tissue for eosinophil counting, which you did not have. His previous surgery was eight years ago; a further operation is not disqualified by the first.\n\nWhy the others fail:\n(B) EPOS/EUFOREA 2023 requires prior sinus surgery as a condition for a biologic, unless the patient is unfit for surgery. His operation was eight years ago and he has not had one on current, full medical therapy. Surgery also gives you the tissue eosinophil count that makes the type 2 case airtight.\n(C) Repeated oral steroid courses are the problem biologics were designed to replace. Each burst carries harm, the effect wears off in weeks, and two or more courses a year is itself one of the criteria that says the disease is out of control.\n(D) More of what has already failed. Six more months of anosmia for no expected gain.\n\nKeypoint: failed medical therapy means surgery; the surgery is also where you collect the tissue that defines the endotype.\n\nReference: Fokkens WJ, Lund VJ, Hopkins C, et al. Rhinology. 2020;58(Suppl S29):1-464. Fokkens WJ, Viskens AS, Backer V, et al. Rhinology. 2023;61(3):194-202."
+      "feedback": "Correct answer: A\n\nHe has failed appropriate medical therapy: full-dose spray, irrigation, an oral steroid burst, three months, and his polyps score 6, his SNOT-22 is 62, and he cannot smell. Surgery is the next step. It removes the polyps, opens the sinuses so that topical steroid reaches the mucosa, and gives you tissue for eosinophil counting, which you did not have.\n\nWhy the others fail:\n(B) EPOS/EUFOREA 2023 requires prior sinus surgery as a condition for a biologic, unless the patient is unfit for surgery. He has never been operated on. Surgery also gives you the tissue eosinophil count that makes the type 2 case airtight.\n(C) Repeated oral steroid courses are the problem biologics were designed to replace. Each burst carries harm, the effect wears off in weeks, and two or more courses a year is itself one of the criteria that says the disease is out of control.\n(D) More of what has already failed. Six more months of anosmia for no expected gain.\n\nKeypoint: failed medical therapy means surgery; the surgery is also where you collect the tissue that defines the endotype.\n\nReference: Fokkens WJ, Lund VJ, Hopkins C, et al. Rhinology. 2020;58(Suppl S29):1-464. Fokkens WJ, Viskens AS, Backer V, et al. Rhinology. 2023;61(3):194-202."
     },
     {
       "title": "Step 6/7: Fourteen Months After Surgery",
