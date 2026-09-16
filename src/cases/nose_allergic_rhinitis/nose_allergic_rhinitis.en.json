@@ -171,29 +171,23 @@
     },
     {
       "title": "Step 7/7: Three Months Later",
-      "scenario": "He returns after three months. Rhinorrhea and itch are much better. But he says the blockage is no better at all. You watch him use the spray: head neutral, nozzle angled away from the septum, gentle sniff. Technique is correct.\n\nYou perform nasal endoscopy. The septum is deviated posteriorly to the right, and both inferior turbinates are enlarged with no mucosal response to decongestant.",
-      "media": "Load image: Nasal endoscopy, unannotated, showing the posterior septal deviation to the right and the enlarged inferior turbinates. Caption: 'Three months later.'",
-      "question": "What do you recommend?",
+      "scenario": "He returns after three months on the combination spray. Rhinorrhea and itch are much better. The blockage is no better at all. You watch him use the spray: head neutral, nozzle angled away from the septum, gentle sniff. Technique is correct.\n\nYou perform nasal endoscopy.",
+      "media": "Load interactive image: Nasal endoscopy at three months, unannotated, with two hotspot click areas set in the app: (1) the posterior septum where it deviates to the right, (2) the enlarged inferior turbinate. Caption: 'Three months later.'",
+      "question": "On the image, mark the two structural findings that explain why the medication has not relieved his obstruction.",
+      "constructionNote": "Interactive hotspot step. Both targets must be hit. Set the two click areas on the image in the app; the option ids below label the targets and both carry correct: true.",
       "options": [
         {
           "id": "A",
-          "text": "(A) Septoplasty with inferior turbinate reduction, and continue the intranasal treatment afterward",
+          "text": "Hit 1: Posterior septal deviation to the right",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Double the dose of the combination spray and review in another three months"
-        },
-        {
-          "id": "C",
-          "text": "(C) A short course of oral corticosteroid to break the cycle"
-        },
-        {
-          "id": "D",
-          "text": "(D) Surgery, after which the allergy treatment can stop"
+          "text": "Hit 2: Hypertrophic inferior turbinate, no shrinkage after topical decongestant",
+          "correct": true
         }
       ],
-      "feedback": "Correct answer: A\n\nThe medication has done what medication can do: the itch and the running have settled. What is left is a fixed obstruction that no spray will change. A deviated septum is bone and cartilage. Inferior turbinates that do not shrink with a decongestant have submucosal hypertrophy rather than reversible swelling. Both are surgical problems. Septoplasty and turbinate reduction relieve the obstruction and, by opening the nose, also let the spray reach the mucosa it is meant to treat.\n\nThe operation does not remove the allergy. He still has house dust mite sensitization and he will still have inflammation. The spray continues after surgery.\n\nOne thing to check before any of this: technique. The ARIA guidelines assume correct use of intranasal sprays, and poor technique is a common reason for apparent failure. Here you watched him and it was fine, which is why the next step is endoscopy rather than another round of coaching.\n\nWhy the others fail:\n(B) More of the same drug will not move a deviated septum. Three more months is three months of a blocked nose for nothing.\n(C) Oral steroids may briefly shrink mucosa, but they do nothing for the septum, the turbinates return as soon as the course ends, and repeated courses carry real harm.\n(D) Surgery corrects the anatomy, not the immunology. Stopping the spray afterward brings back the rhinorrhea and itch that it had controlled.\n\nKeypoint: when the itch and the running are controlled but the blockage is not, look inside; medication does not treat anatomy.\n\nReference: Bousquet J, Khaltaev N, Cruz AA, et al. Allergy. 2008;63(Suppl 86):8-160. Sousa-Pinto B, Bousquet J, Vieira RJ, et al. Allergy. 2026;81:954-976. doi:10.1111/all.70131."
+      "feedback": "Hit 1: Posterior septal deviation to the right.\nHit 2: Hypertrophic inferior turbinate, no shrinkage after topical decongestant.\n\nThe medication has done what medication can do. Compare this scope with the first visit: the mucosa is no longer pale and boggy, and the watery secretion is gone. The itch and the running have settled because the allergic inflammation is controlled. What is left is a fixed obstruction that no spray will change. A deviated septum is bone and cartilage. An inferior turbinate that does not shrink after a decongestant is enlarged by submucosal tissue, not by reversible swelling. Both are surgical problems.\n\nWhat you recommend: septoplasty with inferior turbinate reduction, and continue the intranasal treatment afterward. Surgery relieves the obstruction and, by opening the nose, also lets the spray reach the mucosa it is meant to treat. It does not remove the allergy. He still has house dust mite sensitization and he will still have inflammation; the spray continues.\n\nTwo things to check before deciding on surgery. Technique, because the ARIA guidelines assume correct use of intranasal sprays and poor technique is a common reason for apparent failure; here you watched him and it was fine. And the decongestant test, because a turbinate that shrinks with a decongestant is still swelling, and swelling is treated with medication, not a knife.\n\nKeypoint: when the itch and the running are controlled but the blockage is not, look inside; medication does not treat anatomy, and surgery does not treat allergy.\n\nReference: Bousquet J, Khaltaev N, Cruz AA, et al. Allergy. 2008;63(Suppl 86):8-160. doi:10.1111/j.1398-9995.2007.01620.x. Seidman MD, Gurgel RK, Lin SY, et al. Otolaryngol Head Neck Surg. 2015;152(1 Suppl):S1-S43. Sousa-Pinto B, Bousquet J, Vieira RJ, et al. Allergy. 2026;81:954-976. doi:10.1111/all.70131."
     }
   ]
 }
