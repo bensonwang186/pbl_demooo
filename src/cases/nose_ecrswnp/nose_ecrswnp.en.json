@@ -67,7 +67,7 @@
     },
     {
       "title": "Step 3/7: What Kind of Inflammation",
-      "scenario": "You send blood before starting treatment:\n\n    Blood eosinophils       420 cells/uL\n    Total IgE               180 kU/L\n    Specific IgE, mite      class 3\n\nHe has never had sinus surgery, so there is no polyp tissue to look at.",
+      "scenario": "Before starting treatment you send blood:\n\n    Blood eosinophils       420 cells/uL\n    Total IgE               180 kU/L\n    Specific IgE, mite      class 3",
       "media": "",
       "question": "Is this type 2 inflammation, and on what basis?",
       "options": [
