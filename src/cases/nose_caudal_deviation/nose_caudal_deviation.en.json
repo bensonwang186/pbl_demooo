@@ -2,7 +2,7 @@
   "id": "nose_caudal_deviation",
   "title": "Not Just the Lining",
   "subtitle": "A blocked nose that a spray cannot fix, from the first visit to the splints coming out",
-  "description": "Telling mucosal from structural obstruction in clinic, the anatomy of the internal nasal valve, the Cottle maneuver, choosing the graft, protecting the inferior turbinate, and closing without packing, and why a caudal septum comes back when it is not fixed to the spine.",
+  "description": "Taking a history that separates lining from structure, the Cottle maneuver, confirming the deviation on endoscopy, choosing the graft, protecting the inferior turbinate, closing without packing, and why a caudal septum comes back when it is not fixed to the spine.",
   "estimatedTime": "20-25 min",
   "difficulty": "Intermediate",
   "tags": [
@@ -13,60 +13,34 @@
   ],
   "steps": [
     {
-      "title": "Step 1/7: Lining or Structure",
-      "scenario": "A 50-year-old man comes to clinic with years of nasal obstruction, worse on the left, and watery rhinorrhea. On anterior rhinoscopy the mucosa over both inferior turbinates is swollen and pale. He denies facial pressure or loss of smell.\n\nYou are about to prescribe an intranasal corticosteroid.",
-      "media": "Load image: Two endoscopic views of the same nasal cavity, before and ten minutes after a topical decongestant, unannotated. Caption: 'Before and after decongestant.'",
-      "question": "Before you write the prescription, what one clinic maneuver tells you whether the block is reversible mucosa or fixed structure?",
+      "title": "Step 1/7: The History",
+      "scenario": "A 50-year-old man comes to clinic with years of nasal obstruction. You take the history before you touch him.\n\nThe block is on the left, it is there every day, and it does not move from side to side. He used an intranasal corticosteroid correctly for four months on his family doctor's advice and noticed almost no change. He also gets a watery nose some mornings. No facial pressure, no loss of smell.",
+      "media": "",
+      "question": "Which feature of the history points to a fixed structural cause rather than swollen lining?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Rinne and Weber tuning fork tests"
+          "text": "(A) The watery rhinorrhea in the mornings"
         },
         {
           "id": "B",
-          "text": "(B) Apply a topical decongestant and re-examine the airway ten minutes later",
+          "text": "(B) A constant block on one side that does not switch sides and did not change after four months of a correctly used steroid spray",
           "correct": true
         },
         {
           "id": "C",
-          "text": "(C) Order a sinus CT today"
+          "text": "(C) Symptoms lasting for years"
         },
         {
           "id": "D",
-          "text": "(D) Skin prick testing before any treatment"
+          "text": "(D) The absence of facial pressure"
         }
       ],
-      "feedback": "Correct answer: B\n\nA swollen turbinate and a deviated septum can look the same to the patient and feel the same on breathing. The decongestant separates them in ten minutes. If the airway opens up after the spray, the swelling was doing the blocking, and mucosal treatment has something to work on. If the airway barely changes, the block is fixed: a deviated septum, a narrow valve, or both. That patient will not be fixed by a steroid spray, and it is better to know that now than after four months.\n\nWhy the others fail:\n(A) Tuning forks test hearing. They have nothing to say about the nose.\n(C) CT shows sinuses well and the septum poorly. The consensus statement on septoplasty says outright that CT may not accurately show the degree of septal deviation. It is not the first step for an obstruction complaint.\n(D) Allergy testing tells you what he is sensitized to, not whether the block is mucosal or structural. It can come later if the history suggests allergy.\n\nKeypoint: decongest and look again; a nose that does not open is a structural problem, not a mucosal one.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Clinical consensus statement: septoplasty with or without inferior turbinate reduction. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Clement PA, Gordts F; Standardisation Committee on Objective Assessment of the Nasal Airway, IRS, and ERS. Consensus report on acoustic rhinometry and rhinomanometry. Rhinology. 2005;43(3):169-179."
+      "feedback": "Correct answer: B\n\nSwollen lining behaves in a recognizable way. It follows the nasal cycle, so the block moves from side to side through the day. It fluctuates with the season, with lying down, with exercise. And it responds to a steroid spray. A block that sits on one side, every day, and ignores four months of correct treatment is behaving like something that does not move: a deviated septum, a narrow valve, or both. That is the history of a structural obstruction, and it tells you what to look for when you examine him.\n\nWhy the others fail:\n(A) A watery nose in the morning is a mucosal symptom, and he may well have some rhinitis alongside. But rhinitis alternates and responds to treatment. It does not explain a fixed left-sided block.\n(C) Duration alone does not distinguish. Allergic rhinitis also lasts for years.\n(D) No facial pressure argues against sinusitis, which is useful, but it does not tell you whether the remaining obstruction is lining or structure.\n\nKeypoint: a one-sided block that never moves and never responds to a spray is structural until proven otherwise.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Clinical consensus statement: septoplasty with or without inferior turbinate reduction. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Clement PA, Gordts F; Standardisation Committee on Objective Assessment of the Nasal Airway, IRS, and ERS. Consensus report on acoustic rhinometry and rhinomanometry. Rhinology. 2005;43(3):169-179."
     },
     {
-      "title": "Step 2/7: The Narrowest Point",
-      "scenario": "He used the spray correctly for four months and improved only a little. On endoscopy the caudal septum deviates to the left, there is a high dorsal deviation, and the angle between the septum and the upper lateral cartilage looks narrow on both sides.\n\nYou want to explain to him where the block is.",
-      "media": "Load image: Your own line drawing of a coronal cross-section through the internal nasal valve, unannotated: septum medially, upper lateral cartilage superolaterally, nasal floor below, head of the inferior turbinate posteriorly. Caption: 'Internal nasal valve.'",
-      "question": "Which structure forms the superolateral boundary of the internal nasal valve?",
-      "options": [
-        {
-          "id": "A",
-          "text": "(A) The medial crus of the lower lateral cartilage"
-        },
-        {
-          "id": "B",
-          "text": "(B) The perpendicular plate of the ethmoid"
-        },
-        {
-          "id": "C",
-          "text": "(C) The head of the inferior turbinate"
-        },
-        {
-          "id": "D",
-          "text": "(D) The caudal edge of the upper lateral cartilage",
-          "correct": true
-        }
-      ],
-      "feedback": "Correct answer: D\n\nThe internal nasal valve is the narrowest part of the whole airway, and small changes there make big changes in resistance. Its boundaries are the septum medially, the caudal edge of the upper lateral cartilage superolaterally, the nasal floor below, and the head of the inferior turbinate behind. The angle between the septum and the upper lateral cartilage is normally 10 to 15 degrees. Narrow that angle, whether by a deviated septum pushing in from the medial side or a weak upper lateral cartilage falling in from the lateral side, and the patient feels blocked whatever the rest of the nose looks like.\n\nWhy the others fail:\n(A) The medial crura sit in the columella, in front of and below the valve. They belong to the external valve.\n(B) The perpendicular plate is bone, posterior and superior to the valve. It can deviate, but it is not a valve boundary.\n(C) The turbinate head is the posterior boundary, not the superolateral one. It matters, and it is why turbinate reduction changes valve area, but it is the wrong wall for this question.\n\nKeypoint: septum medially, upper lateral cartilage superolaterally, floor below, turbinate head behind; the angle between the first two is the valve.\n\nReference: Rhee JS, Poetker DM, Smith TL, et al. Nasal valve surgery improves disease-specific quality of life. Laryngoscope. 2005;115(3):437-440. Kasperbauer JL, Kern EB. Nasal valve physiology: implications in nasal surgery. Otolaryngol Clin North Am. 1987;20(4):699-719."
-    },
-    {
-      "title": "Step 3/7: Showing Him Where It Is",
-      "scenario": "Before recommending surgery you want to demonstrate the valve problem to him at the bedside, with your hands.",
+      "title": "Step 2/7: At the Bedside",
+      "scenario": "Before the endoscope, you want to localize the block with your hands. His history says the left side is fixed.",
       "media": "",
       "question": "Which maneuver pulls the cheek laterally to open the valve, and what does a negative result mean?",
       "options": [
@@ -91,8 +65,34 @@
       "feedback": "Correct answer: A\n\nThe Cottle maneuver draws the cheek laterally, which pulls the lateral nasal wall outward and opens the valve angle. If he breathes better while you hold it, the valve is at least part of the problem. If nothing changes, the block is elsewhere: the septum, the turbinate, or further back. Either answer is useful, and a negative Cottle is often the more informative one because it takes the lateral wall off the list.\n\nThe modified Cottle is the more precise version: a cotton-tipped probe lifts the upper lateral cartilage from inside, or supports the ala, and he reports the change. It tells you which part of the lateral wall is at fault. His caudal septum is in the way on the left, so expect a weak response on that side.\n\nWhy the others fail:\n(B) Valsalva tests the middle ear and eustachian tube. It does not examine the nasal valve.\n(C) The modified Cottle uses a probe inside the nose, not traction on the cheek, and a negative result says nothing about the septum. It means the lateral wall is not the problem.\n(D) Toynbee is swallowing against a pinched nose, another eustachian tube test.\n\nKeypoint: pull the cheek; if it helps, the valve is at fault; if it does not, look at the septum.\n\nReference: Rhee JS, Poetker DM, Smith TL, et al. Laryngoscope. 2005;115(3):437-440. Cottle MH. Rhino-sphygmo-manometry: an aid in physical diagnosis. Int Rhinol. 1968;6:7-26."
     },
     {
+      "title": "Step 3/7: The Endoscopy",
+      "scenario": "You pass a rigid endoscope. The caudal septum is deviated to the left and sits off the anterior nasal spine in the left vestibule. Higher up, the dorsal septum also curves left. On both sides the angle between the septum and the upper lateral cartilage looks narrow. Both inferior turbinates are enlarged.\n\nYou spray a topical decongestant and look again ten minutes later. The turbinates have shrunk. The septum and the valve angle have not changed.",
+      "media": "Load image: Two endoscopic views of the left nasal cavity, before and after decongestant, unannotated: turbinate smaller in the second, caudal septum and valve angle unchanged. Caption: 'Before and after decongestant.'",
+      "question": "What has the endoscopy established?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) The block is mucosal; increase the steroid spray to double dose"
+        },
+        {
+          "id": "B",
+          "text": "(B) The block is turbinate hypertrophy; plan turbinate reduction alone"
+        },
+        {
+          "id": "C",
+          "text": "(C) Nothing can be concluded without a CT"
+        },
+        {
+          "id": "D",
+          "text": "(D) A structural block: caudal septal deviation with internal valve narrowing, neither of which moved with decongestant",
+          "correct": true
+        }
+      ],
+      "feedback": "Correct answer: D\n\nThe decongestant is the confirmation, and it belongs here, after the history and the Cottle have told you what to expect. It shrinks anything that is swollen and leaves anything that is fixed. His turbinates shrank, so they are part of the picture but not the part that blocks him. His caudal septum and his valve angle did not move, so they are.\n\nThe internal nasal valve is the narrowest point of the whole airway. Its walls are the septum medially, the caudal edge of the upper lateral cartilage superolaterally, the nasal floor below, and the head of the inferior turbinate behind. The angle between septum and upper lateral cartilage is normally 10 to 15 degrees, and because resistance rises steeply as that angle closes, a septum pushing in from the medial side or an upper lateral cartilage falling in from the lateral side is felt out of all proportion to its size. That is why his block is so much worse than the deviation looks.\n\nWhy the others fail:\n(A) The lining already shrank with decongestant and the block stayed. More steroid treats lining that is not the problem.\n(B) The turbinates are enlarged and will be reduced in the same operation, but they responded to decongestant. Reducing them alone leaves the septum and the valve, which is where he is blocked.\n(C) The consensus statement is clear that CT may not accurately show the degree of septal deviation. You have just seen the deviation directly. CT would add nothing to the septal diagnosis, though it can be useful later for graft planning or if sinus disease is suspected.\n\nKeypoint: history says structure, Cottle points to the valve, endoscopy with decongestant proves it; the septum and the valve angle are what did not move.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Clinical consensus statement: septoplasty with or without inferior turbinate reduction. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Kasperbauer JL, Kern EB. Nasal valve physiology: implications in nasal surgery. Otolaryngol Clin North Am. 1987;20(4):699-719. Rhee JS, Poetker DM, Smith TL, et al. Nasal valve surgery improves disease-specific quality of life. Laryngoscope. 2005;115(3):437-440."
+    },
+    {
       "title": "Step 4/7: Which Graft",
-      "scenario": "The caudal and high dorsal deviations are severe enough that a standard submucous resection will not straighten the dorsum or open the valves. You plan an open functional rhinoplasty.",
+      "scenario": "The caudal and high dorsal deviations are severe enough that a standard submucous resection will not straighten the dorsum or open the valves. You plan an open functional rhinoplasty and turbinate reduction.",
       "media": "Load image: Intraoperative photograph, open approach, unannotated: bilateral spreader grafts sutured between the dorsal septum and the upper lateral cartilages. Caption: 'Spreader grafts.'",
       "question": "Which graft straightens a high dorsal deviation and widens the internal valve angle at the same time?",
       "options": [
@@ -118,7 +118,7 @@
     },
     {
       "title": "Step 5/7: The Turbinate",
-      "scenario": "His inferior turbinates are enlarged and did not shrink with the decongestant in Step 1. You will reduce them in the same operation.\n\nYou choose a submucosal technique with a microdebrider rather than removing the turbinate.",
+      "scenario": "His inferior turbinates are enlarged. They shrank with decongestant in Step 3, so they are part mucosal, but they are still large and you will reduce them in the same operation.\n\nYou choose a submucosal technique with a microdebrider rather than removing the turbinate.",
       "media": "Load image: Endoscopic view of submucosal inferior turbinate reduction with a microdebrider, mucosa preserved, unannotated. Caption: 'Submucosal reduction.'",
       "question": "Which complication are you avoiding by preserving the mucosa?",
       "options": [
