@@ -14,7 +14,7 @@
   "steps": [
     {
       "title": "Step 1/7: The History",
-      "scenario": "A 50-year-old man comes to clinic with years of nasal obstruction. You take the history before you touch him.\n\nThe block is worse on the left, it is there every day, and it does not move from side to side, though the right is not fully clear either. He used an intranasal corticosteroid correctly for four months on his family doctor's advice and noticed almost no change. He also gets a watery nose some mornings. No facial pressure, no loss of smell.",
+      "scenario": "A 50-year-old man comes to clinic with years of nasal obstruction. You start with the history.\n\nThe block is worse on the left, it is there every day, and it does not move from side to side, though the right is not fully clear either. He used an intranasal corticosteroid correctly for four months on his family doctor's advice and noticed almost no change. He also gets a watery nose some mornings. No facial pressure, no loss of smell.",
       "media": "",
       "question": "Which feature of the history points to a fixed structural cause rather than swollen lining?",
       "options": [
