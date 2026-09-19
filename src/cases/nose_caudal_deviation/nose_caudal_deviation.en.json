@@ -1,199 +1,198 @@
 {
-  "id": "nose_caudal_septal_deviation",
-  "title": "Off Center",
-  "subtitle": "A crooked nose that will not breathe, from the basal view to the last suture",
-  "description": "Reading the caudal septum on examination, choosing the right facial midline, deciding what imaging adds, repositioning the caudal septum, the bony vault, the cartilaginous dorsum, and the tip and columella.",
+  "id": "nose_caudal_deviation",
+  "title": "Not Just the Lining",
+  "subtitle": "A blocked nose that a spray cannot fix, from the first visit to the splints coming out",
+  "description": "Telling mucosal from structural obstruction in clinic, the anatomy of the internal nasal valve, the Cottle maneuver, choosing the graft, protecting the inferior turbinate, and closing without packing, and why a caudal septum comes back when it is not fixed to the spine.",
   "estimatedTime": "20-25 min",
-  "difficulty": "Advanced",
+  "difficulty": "Intermediate",
   "tags": [
     "Rhinology",
-    "Facial plastics",
-    "Septorhinoplasty",
-    "Deviated nose",
-    "Structural grafting"
+    "Nasal obstruction",
+    "Functional rhinoplasty",
+    "Internal nasal valve"
   ],
   "steps": [
     {
-      "title": "Step 1/7: The Basal View",
-      "scenario": "A 27-year-old woman comes in for a nose that is blocked on the right and, she says, has never looked straight. No trauma she remembers. No prior nasal surgery. Intranasal steroid for three months did nothing.\n\nOn anterior rhinoscopy the caudal end of the septum sits in the right vestibule, well off the midline. The columella leans right and the right nostril is narrower than the left. Pressing the right cheek laterally opens the airway a little; lifting the right ala opens it a lot.",
-      "media": "Load image: Basal view photograph, consented, unannotated: caudal septum dislocated into the right vestibule, columella tilted right, asymmetric nostrils. Caption: 'Basal view.'",
-      "question": "What is the primary cause of her right-sided obstruction?",
+      "title": "Step 1/7: Lining or Structure",
+      "scenario": "A 50-year-old man comes to clinic with years of nasal obstruction, worse on the left, and watery rhinorrhea. On anterior rhinoscopy the mucosa over both inferior turbinates is swollen and pale. He denies facial pressure or loss of smell.\n\nYou are about to prescribe an intranasal corticosteroid.",
+      "media": "Load image: Two endoscopic views of the same nasal cavity, before and ten minutes after a topical decongestant, unannotated. Caption: 'Before and after decongestant.'",
+      "question": "Before you write the prescription, what one clinic maneuver tells you whether the block is reversible mucosa or fixed structure?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Right inferior turbinate hypertrophy"
+          "text": "(A) Rinne and Weber tuning fork tests"
         },
         {
           "id": "B",
-          "text": "(B) Caudal septal deviation, with the septum dislocated off the anterior nasal spine into the right vestibule",
+          "text": "(B) Apply a topical decongestant and re-examine the airway ten minutes later",
           "correct": true
         },
         {
           "id": "C",
-          "text": "(C) Internal nasal valve collapse from a narrow angle between the upper lateral cartilage and the septum"
+          "text": "(C) Order a sinus CT today"
         },
         {
           "id": "D",
-          "text": "(D) External valve collapse from a weak lateral crus"
+          "text": "(D) Skin prick testing before any treatment"
         }
       ],
-      "feedback": "Correct answer: B\n\nThe caudal septum is the part you can see without an endoscope, and here it is sitting in the right vestibule instead of on the anterior nasal spine. That is a dislocation, not a bend. It narrows the right nostril directly, pushes the columella to the right, and because the medial crura sit on it, it drags the tip off center too. The intranasal steroid was never going to move cartilage.\n\nThe two maneuvers tell you where the block is. A modified Cottle, lifting the ala with a probe, opens the vestibule and the caudal septum: a large improvement means the problem is at the front. A classic Cottle, pulling the cheek laterally, opens the internal valve: a small improvement means the internal valve is not the main issue.\n\nWhy the others fail:\n(A) The turbinate on the wider left side may be compensating, but you can see the caudal septum filling the right vestibule. The turbinate is not what she feels.\n(C) The internal valve is further back, at the angle between the upper lateral cartilage and the dorsal septum. A weak response to the classic Cottle argues against it. It may need attention later, but it is not the primary cause.\n(D) External valve collapse means the ala falls in on inspiration. Hers does not. The vestibule is narrowed by septal cartilage, not by a floppy lateral crus.\n\nKeypoint: a caudal septum you can see in the vestibule is a structural problem, and a big response to lifting the ala tells you the block is at the front.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Clinical consensus statement: septoplasty with or without inferior turbinate reduction. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Rhee JS, Poetker DM, Smith TL, et al. Nasal valve surgery improves disease-specific quality of life. Laryngoscope. 2005;115(3):437-440."
+      "feedback": "Correct answer: B\n\nA swollen turbinate and a deviated septum can look the same to the patient and feel the same on breathing. The decongestant separates them in ten minutes. If the airway opens up after the spray, the swelling was doing the blocking, and mucosal treatment has something to work on. If the airway barely changes, the block is fixed: a deviated septum, a narrow valve, or both. That patient will not be fixed by a steroid spray, and it is better to know that now than after four months.\n\nWhy the others fail:\n(A) Tuning forks test hearing. They have nothing to say about the nose.\n(C) CT shows sinuses well and the septum poorly. The consensus statement on septoplasty says outright that CT may not accurately show the degree of septal deviation. It is not the first step for an obstruction complaint.\n(D) Allergy testing tells you what he is sensitized to, not whether the block is mucosal or structural. It can come later if the history suggests allergy.\n\nKeypoint: decongest and look again; a nose that does not open is a structural problem, not a mucosal one.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Clinical consensus statement: septoplasty with or without inferior turbinate reduction. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Clement PA, Gordts F; Standardisation Committee on Objective Assessment of the Nasal Airway, IRS, and ERS. Consensus report on acoustic rhinometry and rhinomanometry. Rhinology. 2005;43(3):169-179."
     },
     {
-      "title": "Step 2/7: Which Midline",
-      "scenario": "On the frontal photograph the whole nose leans to the right. But her chin also sits to the left of center, and her right midface is shorter than her left.\n\nYou are planning how far to move the nose.",
-      "media": "Load image: Frontal photograph, consented, with three lines drawn in your own software: mid-glabella to mid-Cupid's bow, mid-glabella to chin point, and the current nasal axis. Caption: 'Which line.'",
-      "question": "Which line do you align the nose to?",
+      "title": "Step 2/7: The Narrowest Point",
+      "scenario": "He used the spray correctly for four months and improved only a little. On endoscopy the caudal septum deviates to the left, there is a high dorsal deviation, and the angle between the septum and the upper lateral cartilage looks narrow on both sides.\n\nYou want to explain to him where the block is.",
+      "media": "Load image: Your own line drawing of a coronal cross-section through the internal nasal valve, unannotated: septum medially, upper lateral cartilage superolaterally, nasal floor below, head of the inferior turbinate posteriorly. Caption: 'Internal nasal valve.'",
+      "question": "Which structure forms the superolateral boundary of the internal nasal valve?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Mid-glabella to the chin point"
+          "text": "(A) The medial crus of the lower lateral cartilage"
         },
         {
           "id": "B",
-          "text": "(B) Halfway between the chin line and the Cupid's bow line, as a compromise"
+          "text": "(B) The perpendicular plate of the ethmoid"
         },
         {
           "id": "C",
-          "text": "(C) The current nasal axis, moved only enough to straighten the dorsum on itself"
+          "text": "(C) The head of the inferior turbinate"
         },
         {
           "id": "D",
-          "text": "(D) Mid-glabella to mid-Cupid's bow, ignoring the chin",
+          "text": "(D) The caudal edge of the upper lateral cartilage",
           "correct": true
         }
       ],
-      "feedback": "Correct answer: D\n\nIn a patient with facial asymmetry, the chin is not a reliable midline landmark. In a prospective series of 100 rhinoplasty patients, nasal deviation had no correlation with chin deviation, and aligning the nose to a deviated chin produced a nose that looked wrong on an otherwise centered upper face. The line that works is mid-glabella to mid-Cupid's bow, which stays close to the true facial midline even when the chin and lower face are off. The same series found the nasal bones most often deviated toward the shorter side of the midface, which fits her: right midface short, nose to the right.\n\nWhy the others fail:\n(A) The chin is deviated. Aligning to it moves the nose to a line that is itself off center.\n(B) A compromise between a correct reference and a wrong one is still partly wrong. Pick the landmark that is reliable.\n(C) Straightening the dorsum on its own axis leaves the whole nose leaning. Her complaint is that it has never looked straight, and that means the axis, not just the dorsum.\n\nKeypoint: in an asymmetric face, align the nose from mid-glabella to mid-Cupid's bow, and expect the nasal bones to have drifted toward the short side.\n\nReference: Farkas LG, Hreczko TA, Kolar JC, Munro IR. Vertical and horizontal proportions of the face in young adult North American Caucasians. Plast Reconstr Surg. 1985;75(3):328-338. Facial asymmetry and nasal axis series (prospective, N=100) and nasal bone deviation pattern study (N=76), as presented in the 2025-07-03 rhinoplasty journal reading; complete both citations from the reading list."
+      "feedback": "Correct answer: D\n\nThe internal nasal valve is the narrowest part of the whole airway, and small changes there make big changes in resistance. Its boundaries are the septum medially, the caudal edge of the upper lateral cartilage superolaterally, the nasal floor below, and the head of the inferior turbinate behind. The angle between the septum and the upper lateral cartilage is normally 10 to 15 degrees. Narrow that angle, whether by a deviated septum pushing in from the medial side or a weak upper lateral cartilage falling in from the lateral side, and the patient feels blocked whatever the rest of the nose looks like.\n\nWhy the others fail:\n(A) The medial crura sit in the columella, in front of and below the valve. They belong to the external valve.\n(B) The perpendicular plate is bone, posterior and superior to the valve. It can deviate, but it is not a valve boundary.\n(C) The turbinate head is the posterior boundary, not the superolateral one. It matters, and it is why turbinate reduction changes valve area, but it is the wrong wall for this question.\n\nKeypoint: septum medially, upper lateral cartilage superolaterally, floor below, turbinate head behind; the angle between the first two is the valve.\n\nReference: Rhee JS, Poetker DM, Smith TL, et al. Nasal valve surgery improves disease-specific quality of life. Laryngoscope. 2005;115(3):437-440. Kasperbauer JL, Kern EB. Nasal valve physiology: implications in nasal surgery. Otolaryngol Clin North Am. 1987;20(4):699-719."
     },
     {
-      "title": "Step 3/7: What Imaging Adds",
-      "scenario": "You are planning an open septorhinoplasty. The septum will need strong support once it is repositioned, and you are considering a bony batten from the perpendicular plate of the ethmoid.\n\nShe asks whether she needs a CT.",
+      "title": "Step 3/7: Showing Him Where It Is",
+      "scenario": "Before recommending surgery you want to demonstrate the valve problem to him at the bedside, with your hands.",
       "media": "",
-      "question": "What do you tell her about imaging?",
+      "question": "Which maneuver pulls the cheek laterally to open the valve, and what does a negative result mean?",
       "options": [
         {
           "id": "A",
-          "text": "(A) CT is not needed for the septal diagnosis; it may help here to check ethmoid plate thickness for a bony batten and to rule out sinus disease",
+          "text": "(A) Cottle maneuver; a negative result means the cause is not in the lateral nasal wall",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) CT is required to confirm and grade the septal deviation before surgery"
+          "text": "(B) Valsalva maneuver; a negative result means the eustachian tube is blocked"
         },
         {
           "id": "C",
-          "text": "(C) No imaging of any kind is ever indicated before septorhinoplasty"
+          "text": "(C) Modified Cottle maneuver; a negative result proves the septum is straight"
         },
         {
           "id": "D",
-          "text": "(D) MRI, to assess the cartilage"
+          "text": "(D) Toynbee maneuver; a negative result means the valve is collapsing"
         }
       ],
-      "feedback": "Correct answer: A\n\nThe AAO-HNSF consensus statement on septoplasty is explicit: CT may not accurately demonstrate the degree of septal deviation. The diagnosis is made on anterior rhinoscopy and endoscopy, and she already has it. Where CT earns a place is for what it shows that the examination cannot. If you plan to harvest a bony batten from the perpendicular plate, the plate needs to be thick enough to survive the harvest: the PPE split series used a threshold of 3 mm on preoperative CT, and even then about one graft in eight fractured. And if there is any suggestion of chronic sinus disease, the scan answers that before you commit to an airway operation.\n\nWhy the others fail:\n(B) The consensus statement says the opposite. A CT can under-read or over-read a caudal deviation, and it adds nothing to what you saw in the vestibule.\n(C) Too absolute. Imaging is not required for the septum, but it can be useful for graft planning and sinus assessment.\n(D) MRI does not show bone, which is what you are planning to harvest, and it has no role in assessing septal cartilage for surgery.\n\nKeypoint: the septum is diagnosed by looking; CT is for planning bone grafts and excluding sinus disease.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Clinical consensus statement: septoplasty with or without inferior turbinate reduction. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Kim D, Nam SH, Al-harethy S, et al. Surgical outcomes of bony batten to correct caudal septal deviation in septoplasty. JAMA Facial Plast Surg. 2017;19(6):470-475. PPE split technique series (36 patients, PPE thickness over 3 mm on CT, 12 percent graft breakage): PMID 39138596; complete the citation."
+      "feedback": "Correct answer: A\n\nThe Cottle maneuver draws the cheek laterally, which pulls the lateral nasal wall outward and opens the valve angle. If he breathes better while you hold it, the valve is at least part of the problem. If nothing changes, the block is elsewhere: the septum, the turbinate, or further back. Either answer is useful, and a negative Cottle is often the more informative one because it takes the lateral wall off the list.\n\nThe modified Cottle is the more precise version: a cotton-tipped probe lifts the upper lateral cartilage from inside, or supports the ala, and he reports the change. It tells you which part of the lateral wall is at fault. His caudal septum is in the way on the left, so expect a weak response on that side.\n\nWhy the others fail:\n(B) Valsalva tests the middle ear and eustachian tube. It does not examine the nasal valve.\n(C) The modified Cottle uses a probe inside the nose, not traction on the cheek, and a negative result says nothing about the septum. It means the lateral wall is not the problem.\n(D) Toynbee is swallowing against a pinched nose, another eustachian tube test.\n\nKeypoint: pull the cheek; if it helps, the valve is at fault; if it does not, look at the septum.\n\nReference: Rhee JS, Poetker DM, Smith TL, et al. Laryngoscope. 2005;115(3):437-440. Cottle MH. Rhino-sphygmo-manometry: an aid in physical diagnosis. Int Rhinol. 1968;6:7-26."
     },
     {
-      "title": "Step 4/7: The Caudal Septum",
-      "scenario": "Open approach. The caudal septum is dislocated to the right of the anterior nasal spine, and the cartilage is thin. You have a 1.5 cm dorsal and caudal L-strut to preserve.",
-      "media": "Load image: Intraoperative photograph, open approach, unannotated: caudal septum seen lying to the right of the anterior nasal spine. Caption: 'Caudal septum, open.'",
-      "question": "How do you correct it?",
+      "title": "Step 4/7: Which Graft",
+      "scenario": "The caudal and high dorsal deviations are severe enough that a standard submucous resection will not straighten the dorsum or open the valves. You plan an open functional rhinoplasty.",
+      "media": "Load image: Intraoperative photograph, open approach, unannotated: bilateral spreader grafts sutured between the dorsal septum and the upper lateral cartilages. Caption: 'Spreader grafts.'",
+      "question": "Which graft straightens a high dorsal deviation and widens the internal valve angle at the same time?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Resect the dislocated caudal centimeter and close"
+          "text": "(A) Columellar strut graft"
         },
         {
           "id": "B",
-          "text": "(B) Score the concave side of the caudal septum until it straightens"
+          "text": "(B) Alar batten graft"
         },
         {
           "id": "C",
-          "text": "(C) Free the caudal septum from the spine, swing it back to the midline, fix it to the periosteum of the spine, and splint it with a batten or an extension graft",
+          "text": "(C) Spreader grafts",
           "correct": true
         },
         {
           "id": "D",
-          "text": "(D) Leave the caudal septum and reduce the right inferior turbinate instead"
+          "text": "(D) Caudal septal extension graft"
         }
       ],
-      "feedback": "Correct answer: C\n\nThe caudal septum is the foundation. It holds the tip up, it sets the columella, and the medial crura rest on it. The correction is to release it from its wrong position, reposition it over the anterior nasal spine on the side you chose in Step 2, suture it down to the periosteum so it cannot swing back, and then give it something rigid to lean on. In a thin Asian septum that support comes from a batten, and a bony batten from the perpendicular plate is the strongest option when the plate is thick enough. When septal cartilage is short, folded cymba concha is a reliable alternative for a caudal extension graft. If the septum still needs length or the tip needs projection, a caudal septal extension graft does both jobs at once, and it does not matter which side you put it on: in 122 patients, graft laterality made no difference to postoperative tip symmetry.\n\nWhy the others fail:\n(A) Resecting the caudal septum removes the tip's support. The tip drops, the columella retracts, and you have created a saddle and a revision. The caudal strut is preserved, not resected.\n(B) Scoring weakens cartilage that is already thin, and cartilage memory pulls it back over months. The move is to redirect and splint, not to force.\n(D) The turbinate is on the other side and is not what she feels. Reducing it does nothing for a septum sitting in the right vestibule.\n\nKeypoint: release, reposition to the spine, suture to periosteum, splint with bone or a graft; never resect the caudal strut.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Clinical consensus statement: septoplasty with or without inferior turbinate reduction. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Gubisch W. Twenty-five years experience with extracorporeal septoplasty. Facial Plast Surg. 2006;22(4):230-239. Chung YS, Seol JH, Choi JM, et al. How to resolve the caudal septal deviation? Clinical outcomes after septoplasty with bony batten grafting. Laryngoscope. 2014;124(8):1771-1776. Kim D, Nam SH, Al-harethy S, et al. Surgical outcomes of bony batten to correct caudal septal deviation in septoplasty. JAMA Facial Plast Surg. 2017;19(6):470-475. CSEG laterality and tip symmetry series (122 patients) and folded cymba concha as a CSEG alternative, as presented in the 2025-04-09 structural grafting journal reading; complete the citations."
+      "feedback": "Correct answer: C\n\nSpreader grafts are strips of septal cartilage placed in a pocket between the dorsal septum and the upper lateral cartilage, then sutured through all three. They do two jobs. They splint the dorsal septum straight, and by holding the upper lateral cartilage away from the septum they widen the valve angle. They rebuild the T-shaped junction of the middle vault that a deviation has collapsed. They are the standard answer to a high dorsal deviation with valve narrowing.\n\nA step further, for the surgeon rather than the student. Bilateral symmetric spreaders assume the septum is roughly central. When the septum itself is off center, as his caudal septum is, symmetric grafts widen the vault around the wrong midline. The alternative is to set a new midline with a caudal septal extension graft and splint the dorsal septum to it with a single extended spreader graft on the concave side. In the original series that corrected the dorsal deviation angle by 3.7 degrees and reduced nostril axis inclination by 11.7 degrees. It is the technique for a deviated cartilaginous vault when the midline has moved.\n\nWhy the others fail:\n(A) A columellar strut supports the tip. It does not touch the dorsum or the internal valve.\n(B) Alar battens reinforce the external valve, the ala and lateral crus, against collapse on inspiration. His problem is the internal valve.\n(D) A caudal septal extension graft lengthens and supports the caudal septum and sets tip position. On its own it does nothing for the dorsum or the valve angle, though combined with a unilateral spreader it becomes the advanced answer above.\n\nKeypoint: spreader grafts straighten the dorsal septum and open the internal valve; if the midline itself is displaced, build a new one first.\n\nReference: Rhee JS, Poetker DM, Smith TL, et al. Laryngoscope. 2005;115(3):437-440. Chen YY, Kim SA, Jang YJ. Centering a deviated nose by caudal septal extension graft and unilaterally extended spreader grafts. Ann Otol Rhinol Laryngol. 2020;129(5):448-455. doi:10.1177/0003489419894617. Sheen JH. Spreader graft: a method of reconstructing the roof of the middle nasal vault following rhinoplasty. Plast Reconstr Surg. 1984;73(2):230-239."
     },
     {
-      "title": "Step 5/7: The Bony Vault",
-      "scenario": "The nasal bones lean to the right. On the frontal photograph the rhinion sits 3 mm to the right of the midline you chose. The right sidewall is concave, the left convex. Her nasal bones are short and thin, and you plan to augment the dorsum afterward.",
-      "media": "",
-      "question": "What do you do to the bony vault?",
+      "title": "Step 5/7: The Turbinate",
+      "scenario": "His inferior turbinates are enlarged and did not shrink with the decongestant in Step 1. You will reduce them in the same operation.\n\nYou choose a submucosal technique with a microdebrider rather than removing the turbinate.",
+      "media": "Load image: Endoscopic view of submucosal inferior turbinate reduction with a microdebrider, mucosa preserved, unannotated. Caption: 'Submucosal reduction.'",
+      "question": "Which complication are you avoiding by preserving the mucosa?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Bilateral medial and lateral osteotomies, as for a hump reduction"
+          "text": "(A) Cerebrospinal fluid leak"
         },
         {
           "id": "B",
-          "text": "(B) No osteotomy; the bony deviation is too small to matter"
+          "text": "(B) Toxic shock syndrome"
         },
         {
           "id": "C",
-          "text": "(C) A one-unit osteotomy, mobilizing the whole pyramid to rotate it to the midline"
+          "text": "(C) Anosmia"
         },
         {
           "id": "D",
-          "text": "(D) A selective osteotomy on the concave side with rasping, preserving the keystone and a wide dorsal platform",
+          "text": "(D) Empty nose syndrome",
           "correct": true
         }
       ],
-      "feedback": "Correct answer: D\n\nThe selective osteotomy protocol starts with one number: rhinion displacement, the distance from the rhinion to the midline. Five millimeters or less, and the bony vault can be corrected with a unilateral osteotomy on the concave side, with or without rasping of the convex side, without opening the keystone. More than 5 mm needs bilateral or conventional osteotomies. Hers is 3 mm. In the original series this approach achieved objective correction in 88 percent and satisfaction in 98 percent, with no collapse or revision.\n\nThe reason to be conservative is her anatomy and her plan. Asian nasal bones are short, thin and low, and they do not tolerate aggressive mobilization. And you are going to augment the dorsum: a slightly wider, stronger bony platform supports the graft and keeps the dorsal lines. That is the opposite of the Western hump-reduction habit of narrowing the vault as much as possible.\n\nWhy the others fail:\n(A) Bilateral medial and lateral osteotomies are the hump-reduction toolkit for a high dorsum with strong bones. On her bones they risk collapse, irregularity, and a vault too narrow to carry the augmentation.\n(B) Three millimeters of rhinion displacement is visible, and she came because the nose looks crooked. Leaving it means the dorsum you build on top will lean too.\n(C) The one-unit osteotomy mobilizes the whole pyramid as a block and is designed for asymmetric bone length, an oblique or rotated pyramid, or facial asymmetry with axis deviation beyond what a selective cut can fix. It works, and in 20 patients it improved deviation from 6.9 to 2.1 degrees, but it is more than she needs.\n\nKeypoint: measure the rhinion displacement; 5 mm or less, selective unilateral osteotomy and keep the keystone.\n\nReference: Selective osteotomy protocol (Kang, 2018; rhinion displacement 5 mm cutoff, 88 percent objective correction, 98 percent satisfaction) and one-unit osteotomy series (Kim, 2022; 20 patients, deviation 6.9 to 2.1 degrees), as presented in the 2025-07-03 rhinoplasty journal reading. Verify both against the original papers before use; the figures here are taken from the slides."
+      "feedback": "Correct answer: D\n\nThe inferior turbinate is not just a lump in the airway. Its mucosa warms and humidifies air and, more importantly, senses it: the feeling of breathing through the nose comes from receptors in that lining. Remove too much and you get a paradox. The airway is wide open on the scope, and the patient says he cannot breathe. That is empty nose syndrome, and there is no good treatment for it. So the turbinate is reduced from underneath, taking bone and submucosal tissue and leaving the surface intact. The consensus statement says the same: when the turbinate is reduced, the mucosa should be preserved.\n\nWhy the others fail:\n(A) A CSF leak comes from the skull base, well above the inferior turbinate. It is not a turbinate surgery complication.\n(B) Toxic shock is a complication of prolonged nasal packing, not of how much turbinate is removed. It is one of the reasons packing is avoided in Step 6.\n(C) Smell lives on the olfactory cleft, high in the nose. The inferior turbinate does not carry it.\n\nKeypoint: reduce the turbinate from underneath and keep the lining; a wide nose that cannot feel air is worse than the block you started with.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Coste A, Dessi P, Serrano E. Empty nose syndrome. Eur Ann Otorhinolaryngol Head Neck Dis. 2012;129(2):93-97."
     },
     {
-      "title": "Step 6/7: The Cartilaginous Dorsum",
-      "scenario": "With the caudal septum reset and the bones moved, the cartilaginous dorsum still curves to the right. The dorsal septum is off center at the anterior septal angle, and the upper lateral cartilage on the right is narrower than the left.",
-      "media": "Load image: Intraoperative photograph, open approach, unannotated: a unilateral extended spreader graft on the concave side alongside a caudal septal extension graft. Caption: 'New center.'",
-      "question": "How do you straighten it?",
+      "title": "Step 6/7: Closing Without Packing",
+      "scenario": "The septum is straightened and grafted, the valves are open, both turbinates are reduced. You want the septal flaps to stay down, no hematoma, and no adhesion between the septum and the raw turbinate, without the misery of nasal packing.",
+      "media": "Load image: Endoscopic view at the end of the case showing a septal quilting suture, or a Doyle splint in place, unannotated. Caption: 'Closing.'",
+      "question": "How do you close?",
       "options": [
         {
           "id": "A",
-          "text": "(A) A unilateral extended spreader graft on the concave side, fixed to a caudal septal extension graft that sets a new midline",
-          "correct": true
+          "text": "(A) Tight bilateral nasal packing for five days"
         },
         {
           "id": "B",
-          "text": "(B) Bilateral symmetric spreader grafts"
+          "text": "(B) A septal quilting suture, or soft silicone septal splints, and no packing",
+          "correct": true
         },
         {
           "id": "C",
-          "text": "(C) Cross-hatch the dorsal septum on the convex side until it lies flat"
+          "text": "(C) Four weeks of high-dose systemic corticosteroid"
         },
         {
           "id": "D",
-          "text": "(D) Reduce the dorsal hump to take the curve out"
+          "text": "(D) Leave the mucoperichondrial flaps open to drain"
         }
       ],
-      "feedback": "Correct answer: A\n\nSymmetric techniques assume the septum is already central. Hers is not. The approach that works when the structural midline is displaced is to build a new one: a caudal septal extension graft is fixed where the midline should be, and a single extended spreader graft on the concave side splints the dorsal septum to it. The graft does not force the cartilage straight; it redirects the load so that cartilage memory works with you instead of against you. The L-strut stays intact, which keeps the revision options open. In the original series this corrected the dorsal deviation angle by 3.7 degrees toward the midline, increased tip projection by 7 percent, and reduced nostril axis inclination by 11.7 degrees, all significant.\n\nWhy the others fail:\n(B) Bilateral spreaders widen the middle vault symmetrically around whatever midline the septum already has. If that midline is to the right, the dorsum stays to the right, only wider.\n(C) Cross-hatching weakens the dorsal strut, the part of the L-strut you most need, and thin Asian cartilage weakened on one side tends to warp again. It also does nothing to relocate the midline.\n(D) There is no hump. Reducing the dorsum on a curved septum removes height and leaves the curve.\n\nKeypoint: when the midline itself is displaced, build a new one with an extension graft and splint to it with a unilateral spreader; do not force symmetric grafts onto an asymmetric septum.\n\nReference: Chen YY, Kim SA, Jang YJ. Centering a deviated nose by caudal septal extension graft and unilaterally extended spreader grafts. Ann Otol Rhinol Laryngol. 2020;129(5):448-455. doi:10.1177/0003489419894617."
+      "feedback": "Correct answer: B\n\nA septal hematoma forms when blood collects between the cartilage and the flap. The traditional answer was to pack both nostrils and press the flaps down from outside, which is painful, obstructs completely, and carries the small but real risk of toxic shock. The modern answer presses from inside. A running quilting suture through both flaps and the septum closes the dead space, and the consensus statement says it directly: quilting sutures can obviate the need for packing. Soft silicone splints do the same job, and they also keep the septum away from the raw surface of the reduced turbinate so the two cannot scar together. He goes home breathing through his nose.\n\nWhy the others fail:\n(A) Packing works, but at a cost the patient does not need to pay: pain, complete obstruction, mouth breathing, and a toxic shock risk that rises with every day it stays in.\n(C) Steroids do not close a dead space. A month of high-dose steroid after septal surgery adds harm and no benefit.\n(D) Flaps left off the cartilage are exactly where the hematoma forms. Dead space is the enemy.\n\nKeypoint: close the dead space from inside with a quilting suture or splints, and let him leave without packing.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435."
     },
     {
-      "title": "Step 7/7: The Tip and the Columella",
-      "scenario": "The dorsum is now straight on the line you chose. But looking from below, the columella still leans right, the right medial crus sits lower than the left, and the right nostril is still narrower.",
-      "media": "Load image: Intraoperative basal view, unannotated, before tip work: straight dorsum, columella still deviated, asymmetric nostrils. Caption: 'Before the tip.'",
-      "question": "What do you do?",
+      "title": "Step 7/7: Six Months Later",
+      "scenario": "He is back at six months. Breathing is much better and his NOSE score has fallen from 16 to 5. The dorsum is straight and both valves are open on endoscopy.\n\nBut on the basal view the columella has drifted back to the left, and the caudal septum is once again sitting to the left of the anterior nasal spine. At the first operation the caudal septum was straightened by scoring and repositioned, but it was not fixed to the spine.",
+      "media": "Load image: Basal view at six months, consented, unannotated: columella tilted left, caudal septum visible in the left vestibule. Caption: 'Six months.'",
+      "question": "Why did it come back, and what does a revision have to do differently?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Accept it; the dorsum is straight and the airway is open, which is what she came for"
+          "text": "(A) The turbinate regrew; reduce it again"
         },
         {
           "id": "B",
-          "text": "(B) Another osteotomy to bring the columella across"
+          "text": "(B) The spreader grafts were too short; add longer ones"
         },
         {
           "id": "C",
-          "text": "(C) Straighten the medial crura on a columellar strut or the extension graft, equalize their height, and correct the lateral crura where they differ",
+          "text": "(C) Cartilage memory pulled the scored caudal septum back. The revision must release it from the spine, reposition it onto the midline, suture it to the periosteum, and splint it with a bony batten or an extension graft",
           "correct": true
         },
         {
           "id": "D",
-          "text": "(D) Alar base reduction on the wider side"
+          "text": "(D) Resect the dislocated caudal centimeter so there is nothing left to deviate"
         }
       ],
-      "feedback": "Correct answer: C\n\nThis is the part that gets skipped, and it is the part patients look at. A crooked nose operation that leaves the columella leaning and the nostrils uneven feels wrong to the patient even when the dorsum is perfect, because people judge a nose from the front and from below by the tip and the nostrils. The dislocated caudal septum has pushed the medial crura apart and twisted them; the deviated upper lateral cartilage has pushed one lateral crus out. So you fix the lower third on its own terms. Suture the medial crura to a columellar strut or to the extension graft so they sit side by side at the same height. Where a lateral crus is longer, shorten it with a cut-and-overlap suture; where it buckles, a concavity control suture. Clocking sutures rotate the tip complex onto the new midline. A rim graft supports a retracted ala.\n\nAt six months her NOSE score fell from 16 to 4, and the basal view shows a centered columella and matching nostrils.\n\nWhy the others fail:\n(A) The airway is only half the complaint. She said the nose has never looked straight, and a leaning columella is what she will see in the mirror. Correcting the bone and septum alone produces high dissatisfaction rates.\n(B) The bones are done. The columella is held by the medial crura, not by the nasal bones, and another osteotomy would only destabilize the vault.\n(D) Alar base reduction changes nostril width at the sill. It does not straighten a columella or level the medial crura, and doing it before the crura are fixed sets the asymmetry in place.\n\nKeypoint: a straight dorsum is not a finished nose; fix the medial crura, the lateral crura, and the columella, because that is what the patient sees.\n\nReference: Gruber RP, Nahai F, Bogdan MA, Friedman GD. Changing the convexity and concavity of nasal cartilages and cartilage grafts with horizontal mattress sutures. Plast Reconstr Surg. 2005;115(2):595-606. Stewart MG, Smith TL, Weaver EM, et al. Outcomes after nasal septoplasty: results from the Nasal Obstruction Septoplasty Effectiveness (NOSE) study. Otolaryngol Head Neck Surg. 2004;130(3):283-290. Lower nasal vault correction series (Suh MK, 2020), as presented in the 2025-07-03 rhinoplasty journal reading; complete the citation."
+      "feedback": "Correct answer: C\n\nThe caudal septum is the one part of the septum that scoring and repositioning alone will not hold. Cartilage remembers its shape, and a caudal end that has been bent straight without being anchored drifts back over months. Anterior deviations are the ones that recur after septoplasty, and this is why. The spreader grafts held the dorsum; nothing was holding the caudal end.\n\nThe revision does four things. Release the caudal septum from its false position on the spine. Reposition it onto the midline over the anterior nasal spine. Suture it down to the periosteum of the spine, so it is fixed and not merely placed. Then splint it, because a thin repositioned septum needs something rigid alongside it: a bony batten harvested from the perpendicular plate of the ethmoid, which is the strongest option and has good outcome data for exactly this problem, or a caudal septal extension graft when the septum also needs length. Fixation plus splinting is what turns a repositioned septum into a stable one.\n\nWhy the others fail:\n(A) The turbinate is not what you see in the vestibule. The block has moved back to the caudal septum, and reducing the turbinate again would leave it there.\n(B) The dorsum is straight. The spreaders did their job. They sit in the middle vault and have no hold on the caudal septum.\n(D) Resecting the caudal septum removes the tip's support. The tip drops, the columella retracts, and you trade a deviation for a saddle. The caudal strut is repositioned and reinforced, never resected.\n\nKeypoint: a repositioned caudal septum without fixation and a splint will come back; fix it to the spine and give it a batten.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Gubisch W. Twenty-five years experience with extracorporeal septoplasty. Facial Plast Surg. 2006;22(4):230-239. Chung YS, Seol JH, Choi JM, et al. How to resolve the caudal septal deviation? Clinical outcomes after septoplasty with bony batten grafting. Laryngoscope. 2014;124(8):1771-1776. Kim D, Nam SH, Al-harethy S, et al. Surgical outcomes of bony batten to correct caudal septal deviation in septoplasty. JAMA Facial Plast Surg. 2017;19(6):470-475."
     }
   ]
 }
