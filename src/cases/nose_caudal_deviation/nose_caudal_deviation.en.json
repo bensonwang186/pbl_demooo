@@ -2,7 +2,7 @@
   "id": "nose_caudal_deviation",
   "title": "Not Just the Lining",
   "subtitle": "A blocked nose that a spray cannot fix, from the first visit to the splints coming out",
-  "description": "Taking a history that separates lining from structure, the Cottle maneuver, confirming the deviation on endoscopy, choosing the graft, protecting the inferior turbinate, closing without packing, and why a caudal septum comes back when it is not fixed to the spine.",
+  "description": "Taking a history that separates lining from structure, the Cottle maneuver, relating the endoscopic findings to the internal nasal valve, choosing the graft, protecting the inferior turbinate, closing without packing, and why a caudal septum comes back when it is not fixed to the spine.",
   "estimatedTime": "20-25 min",
   "difficulty": "Intermediate",
   "tags": [
@@ -66,29 +66,29 @@
     },
     {
       "title": "Step 3/7: The Endoscopy",
-      "scenario": "You pass a rigid endoscope. The caudal septum is deviated to the left and sits off the anterior nasal spine in the left vestibule. Higher up, the dorsal septum also curves left. On both sides the angle between the septum and the upper lateral cartilage looks narrow. Both inferior turbinates are enlarged.\n\nYou spray a topical decongestant and look again ten minutes later. The turbinates have shrunk. The septum and the valve angle have not changed.",
-      "media": "Load image: Two endoscopic views of the left nasal cavity, before and after decongestant, unannotated: turbinate smaller in the second, caudal septum and valve angle unchanged. Caption: 'Before and after decongestant.'",
-      "question": "What has the endoscopy established?",
+      "scenario": "You pass a rigid endoscope. The caudal septum is deviated to the left and sits off the anterior nasal spine in the left vestibule. Higher up, the dorsal septum also curves left. On the left the angle between the septum and the upper lateral cartilage is visibly narrowed. Both inferior turbinates are moderately enlarged.\n\nHis complaint is a fixed left-sided block, and the Cottle maneuver helped a little on that side.",
+      "media": "Load image: Endoscopic view of the left nasal cavity, unannotated: caudal septum in the vestibule, narrow angle between septum and upper lateral cartilage. Caption: 'Left nasal cavity.'",
+      "question": "Where is the narrowest point of his airway, and which of the endoscopic findings is closing it?",
       "options": [
         {
           "id": "A",
-          "text": "(A) The block is mucosal; increase the steroid spray to double dose"
+          "text": "(A) The nasopharynx; the enlarged turbinates are pushing air back"
         },
         {
           "id": "B",
-          "text": "(B) The block is turbinate hypertrophy; plan turbinate reduction alone"
+          "text": "(B) The external nasal valve at the nostril; the deviated caudal septum is blocking the opening"
         },
         {
           "id": "C",
-          "text": "(C) Nothing can be concluded without a CT"
+          "text": "(C) The olfactory cleft; the high dorsal deviation is closing it"
         },
         {
           "id": "D",
-          "text": "(D) A structural block: caudal septal deviation with internal valve narrowing, neither of which moved with decongestant",
+          "text": "(D) The internal nasal valve; the deviated septum is narrowing the angle with the upper lateral cartilage from the medial side",
           "correct": true
         }
       ],
-      "feedback": "Correct answer: D\n\nThe decongestant is the confirmation, and it belongs here, after the history and the Cottle have told you what to expect. It shrinks anything that is swollen and leaves anything that is fixed. His turbinates shrank, so they are part of the picture but not the part that blocks him. His caudal septum and his valve angle did not move, so they are.\n\nThe internal nasal valve is the narrowest point of the whole airway. Its walls are the septum medially, the caudal edge of the upper lateral cartilage superolaterally, the nasal floor below, and the head of the inferior turbinate behind. The angle between septum and upper lateral cartilage is normally 10 to 15 degrees, and because resistance rises steeply as that angle closes, a septum pushing in from the medial side or an upper lateral cartilage falling in from the lateral side is felt out of all proportion to its size. That is why his block is so much worse than the deviation looks.\n\nWhy the others fail:\n(A) The lining already shrank with decongestant and the block stayed. More steroid treats lining that is not the problem.\n(B) The turbinates are enlarged and will be reduced in the same operation, but they responded to decongestant. Reducing them alone leaves the septum and the valve, which is where he is blocked.\n(C) The consensus statement is clear that CT may not accurately show the degree of septal deviation. You have just seen the deviation directly. CT would add nothing to the septal diagnosis, though it can be useful later for graft planning or if sinus disease is suspected.\n\nKeypoint: history says structure, Cottle points to the valve, endoscopy with decongestant proves it; the septum and the valve angle are what did not move.\n\nReference: Han JK, Stringer SP, Rosenfeld RM, et al. Clinical consensus statement: septoplasty with or without inferior turbinate reduction. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435. Kasperbauer JL, Kern EB. Nasal valve physiology: implications in nasal surgery. Otolaryngol Clin North Am. 1987;20(4):699-719. Rhee JS, Poetker DM, Smith TL, et al. Nasal valve surgery improves disease-specific quality of life. Laryngoscope. 2005;115(3):437-440."
+      "feedback": "Correct answer: D\n\nThe narrowest point of the nasal airway is the internal nasal valve, and it is where most of the resistance to breathing lives. Its walls are the septum medially, the caudal edge of the upper lateral cartilage superolaterally, the nasal floor below, and the head of the inferior turbinate behind. The angle between the septum and the upper lateral cartilage is normally 10 to 15 degrees. Because airflow resistance rises steeply as a passage narrows, a small loss of that angle produces a large increase in the effort of breathing.\n\nNow put his findings on that anatomy. His septum deviates left, both at the caudal end and higher on the dorsum. On the left side the septum is therefore pushing into the valve from the medial wall, closing the angle with the upper lateral cartilage. That is the narrowing you saw, and it is the reason he feels blocked far more than the deviation looks. The Cottle maneuver pulled the lateral wall outward and opened the angle a little, which is why it helped a little. The turbinates are enlarged and will be dealt with, but they sit behind the valve and are not what is closing it.\n\nWhy the others fail:\n(A) The nasopharynx is the widest part of the airway, not the narrowest, and turbinates do not push air backward.\n(B) The external valve is the nostril opening, framed by the ala and the columella. His caudal septum does narrow the vestibule, but the fixed block he describes and the narrowing you saw are at the internal valve, one step further in.\n(C) The olfactory cleft is high and narrow, but it is not a breathing passage. A high dorsal deviation affects the valve below it, not smell, and he has no smell complaint.\n\nKeypoint: the internal valve is the narrowest point; a deviated septum closes it from the medial side, and that is where his block is.\n\nReference: Kasperbauer JL, Kern EB. Nasal valve physiology: implications in nasal surgery. Otolaryngol Clin North Am. 1987;20(4):699-719. Rhee JS, Poetker DM, Smith TL, et al. Nasal valve surgery improves disease-specific quality of life. Laryngoscope. 2005;115(3):437-440. Han JK, Stringer SP, Rosenfeld RM, et al. Otolaryngol Head Neck Surg. 2015;153(5):708-720. doi:10.1177/0194599815606435."
     },
     {
       "title": "Step 4/7: Which Graft",
@@ -118,7 +118,7 @@
     },
     {
       "title": "Step 5/7: The Turbinate",
-      "scenario": "His inferior turbinates are enlarged. They shrank with decongestant in Step 3, so they are part mucosal, but they are still large and you will reduce them in the same operation.\n\nYou choose a submucosal technique with a microdebrider rather than removing the turbinate.",
+      "scenario": "His inferior turbinates are enlarged and are part of the picture. You will reduce them in the same operation as the septum and the valve.\n\nYou choose a submucosal technique with a microdebrider rather than removing the turbinate.",
       "media": "Load image: Endoscopic view of submucosal inferior turbinate reduction with a microdebrider, mucosa preserved, unannotated. Caption: 'Submucosal reduction.'",
       "question": "Which complication are you avoiding by preserving the mucosa?",
       "options": [
