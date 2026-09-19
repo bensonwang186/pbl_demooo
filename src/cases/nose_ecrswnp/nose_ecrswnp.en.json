@@ -171,7 +171,7 @@
     },
     {
       "title": "Step 7/7: Which One",
-      "scenario": "He qualifies. Four biologics are approved for chronic rhinosinusitis with nasal polyps: dupilumab (anti-IL-4 receptor alpha), mepolizumab (anti-IL-5), omalizumab (anti-IgE), and, since October 2025, tezepelumab (anti-TSLP).\n\nHe has asthma on inhaled corticosteroid, blood eosinophils of 420, and no history of anaphylaxis.",
+      "scenario": "He qualifies. Four biologics are approved for chronic rhinosinusitis with nasal polyps:\n\n    Dupilumab       anti-IL-4 receptor alpha\n    Mepolizumab     anti-IL-5\n    Omalizumab      anti-IgE\n    Tezepelumab     anti-TSLP, approved October 2025\n\nHis profile:\n\n    Asthma                  on daily inhaled corticosteroid\n    Blood eosinophils       420 cells/uL\n    Anaphylaxis history     none",
       "media": "",
       "question": "Which statement about choosing his biologic is correct?",
       "options": [
