@@ -92,35 +92,35 @@
     },
     {
       "title": "Step 4/7: Reading the MRI",
-      "scenario": "MRI of the nasopharynx and neck with contrast is the standard for local staging, because the T category is decided by soft tissue and marrow: the parapharyngeal fat plane, the pterygoid muscles, the marrow signal of the clivus and petrous apex, and the foramina at the skull base.\n\nHis axial and coronal images are shown. The tumor fills the right nasopharynx and extends across the midline to the left. The parapharyngeal fat planes are preserved on both sides. The pterygoid muscles are normal. The clivus and petrous apices show normal marrow signal. No perineural or intracranial extension.",
-      "media": "Load image: Axial and coronal T1 post-contrast MRI of the nasopharynx from this patient, de-identified, unannotated. Caption: 'MRI, axial and coronal.'",
-      "question": "What is the T category?",
+      "scenario": "MRI of the nasopharynx and neck with contrast is the standard for local staging, because the T category is decided by soft tissue and marrow: the parapharyngeal fat plane, the pterygoid muscles, the marrow signal of the clivus and petrous apex, and the foramina at the skull base.\n\nHis axial and coronal images are shown. Enhancing tumor fills the right nasopharynx. The parapharyngeal fat planes are preserved on both sides. The pterygoid muscles are normal. The clivus and petrous apices show normal marrow signal. No perineural or intracranial extension.",
+      "media": "Load image: Contrast-enhanced, fat-suppressed T1-weighted MRI of the nasopharynx from this patient, axial and coronal, de-identified, unannotated. Caption: 'MRI, T1 post-contrast with fat suppression, axial and coronal.'",
+      "question": "Which finding on this MRI decides that he is T1 and not T2?",
       "options": [
         {
           "id": "A",
-          "text": "(A) T1: confined to the nasopharynx; crossing the midline does not change the T category",
+          "text": "(A) The parapharyngeal fat plane is preserved on both sides",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) T2: it crosses the midline, so it is bilateral"
+          "text": "(B) The tumor enhances after contrast"
         },
         {
           "id": "C",
-          "text": "(C) T2: it reaches the parapharyngeal space"
+          "text": "(C) The clivus shows normal marrow signal"
         },
         {
           "id": "D",
-          "text": "(D) T3: it abuts the clivus"
+          "text": "(D) The tumor is on the right side only"
         }
       ],
-      "feedback": "Correct answer: A\n\nThe T category asks one question: how far beyond the nasopharynx has the tumor gone? T1 is confined to the nasopharynx, or extending only into the oropharynx or nasal cavity without parapharyngeal involvement. T2 is extension into the parapharyngeal space, the medial or lateral pterygoid, or the prevertebral muscle. T3 is bone: skull base, pterygoid plates, cervical vertebra, paranasal sinus, and the 9th edition requires unequivocal involvement. T4 is intracranial, cranial nerve, hypopharynx, orbit, parotid, or beyond the lateral pterygoid.\n\nNow read his scan against that list. The parapharyngeal fat is intact on both sides, so he is not T2. The pterygoids are normal. The clivus and petrous marrow are normal, so he is not T3. Nothing goes through the foramina. What is left is a tumor that fills the nasopharynx and reaches across to the othis side, and that is T1. Laterality is recorded on the report, and it matters for the radiotherapy target, but it is not a T criterion. A tumor can fill the whole nasopharynx and still be T1 as long as it has not left it.\n\nThis is what MRI is for. CT shows bone cortex and little else; it misses parapharyngeal extension, perineural spread and early marrow change. A bone scan is sensitive and not specific, and the 9th edition does not accept it as evidence of T3 without MRI or PET. PET/CT stages the neck and the body and settles equivocal nodes; it does not draw the margin of the primary. MRI defines the primary and, fused with the planning CT, draws the target.\n\nWhy the others fail:\n(B) Crossing the midline makes the tumor bilateral. It does not make it T2. The T2 criteria are the parapharyngeal space, the pterygoids and the prevertebral muscle, and none of them are involved.\n(C) The parapharyngeal fat plane is preserved on both sides. This is the finding that would make T2, and the scan says it is absent.\n(D) A tumor next to the clivus is not a tumor in the clivus. T3 needs marrow replacement on MRI, and his is normal. Proximity is not invasion.\n\nKeypoint: T1 means it has not left the nasopharynx, however much of the nasopharynx it fills; T2 is the parapharyngeal fat, T3 is marrow signal, and MRI is what shows both.\n\nReference: Pan JJ, Mai HQ, Ng WT, et al. Ninth version of the AJCC and UICC nasopharyngeal cancer TNM staging classification. JAMA Oncol. 2024;10(12):1627-1635. doi:10.1001/jamaoncol.2024.4354. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Head and Neck Cancers. Updated May 12, 2026. https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf"
+      "feedback": "Correct answer: A\n\nThe T category asks one question: how far beyond the nasopharynx has the tumor gone? T1 is confined to the nasopharynx, or extending only into the oropharynx or nasal cavity without parapharyngeal involvement. T2 is extension into the parapharyngeal space, the medial or lateral pterygoid, or the prevertebral muscle. T3 is bone: skull base, pterygoid plates, cervical vertebra, paranasal sinus, and the 9th edition requires unequivocal involvement. T4 is intracranial, cranial nerve, hypopharynx, orbit, parotid, or beyond the lateral pterygoid.\n\nThe line between T1 and T2 is the parapharyngeal fat. On a fat-suppressed post-contrast T1 image, normal fat is dark and tumor is bright, so a tumor that has crossed the pharyngobasilar fascia into the parapharyngeal space shows as enhancing tissue replacing the dark fat lateral to the nasopharynx. On his scan the dark fat is intact on both sides. That single finding is what keeps him at T1. Everything else on the report confirms that he is not higher than T2: normal pterygoids, normal marrow, no perineural spread.\n\nThis is what MRI is for. CT shows bone cortex and little else and misses the fat plane, perineural spread and early marrow change. A bone scan is sensitive and not specific, and the 9th edition does not accept it as evidence of T3 without MRI or PET. PET/CT stages the neck and the body; it does not draw the margin of the primary. MRI defines the primary and, fused with the planning CT, draws the target.\n\nWhy the others fail:\n(B) All nasopharyngeal carcinomas enhance. Enhancement tells you where the tumor is, not how far it has gone.\n(C) Normal clivus marrow rules out T3. It says nothing about T2, which is a soft tissue question one step closer to the nasopharynx.\n(D) Laterality is recorded and it matters for the radiotherapy target, but it is not a T criterion. A tumor on one side, or on both, or across the midline, is T1 as long as it has not left the nasopharynx.\n\nKeypoint: the parapharyngeal fat plane decides T1 versus T2; marrow signal decides T3; and fat-suppressed post-contrast T1 is the sequence that shows both.\n\nReference: Pan JJ, Mai HQ, Ng WT, et al. Ninth version of the AJCC and UICC nasopharyngeal cancer TNM staging classification. JAMA Oncol. 2024;10(12):1627-1635. doi:10.1001/jamaoncol.2024.4354. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Head and Neck Cancers. Updated May 12, 2026. https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf"
     },
     {
       "title": "Step 5/7: The Stage",
       "scenario": "Final TNM: cT1 N2 M0. A primary confined to the nasopharynx, bilateral level II nodes under 6 cm and above the cricoid, no extranodal extension, no distant disease.\n\nA colleague trained on the 8th edition calls him stage III.",
-      "media": "",
-      "question": "What is his stage group under the 9th edition, in use since 2025, and why does it differ?",
+      "media": "Load image: Your own table of the AJCC 9th edition nasopharyngeal carcinoma stage groups, redrawn, not reproduced: IA T1-2 N0; IB T1-2 N1; II T3 or N2; III T4 or N3; IVA M1 with three or fewer lesions; IVB M1 with more than three. No cell highlighted. Caption: 'AJCC 9th edition stage groups.'",
+      "question": "Using the 9th edition grouping shown, what is his stage, and why does it differ from what your colleague said?",
       "options": [
         {
           "id": "A",
