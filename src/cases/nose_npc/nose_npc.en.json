@@ -16,27 +16,27 @@
       "title": "Step 1/7: Symptoms & Anatomy",
       "scenario": "A 58-year-old man comes to the ENT clinic with a painless lump on the right side of his neck that he has noticed for two to three months. He feels it when he swallows. On questioning he admits to mild fullness in the right ear for about the same period, which he had put down to a cold. He denies epistaxis, nasal obstruction, hearing change, night sweats or weight loss. He smoked for ten years and stopped six months ago; no betel nut, no alcohol.\n\nOn examination: a 2 cm firm, non-tender mass at right level II. The oral cavity and oropharynx look normal. The right tympanic membrane is dull with a fluid level.",
       "media": "Load image: Your own line drawing of the nasopharynx in axial section, unannotated, with the eustachian tube orifice, torus tubarius, lateral recess, posterior wall and roof drawn but not labeled. Caption: 'Nasopharynx.'",
-      "question": "A painless level II node with mild fullness in the same-side ear. You scope the nasopharynx. Which subsite must you look at most carefully, because it is where most nasopharyngeal carcinomas arise and where a tumor blocks the ear?",
+      "question": "You pass the flexible scope into the nasopharynx. Where do you look most carefully?",
       "options": [
         {
           "id": "A",
-          "text": "(A) The nasopharyngeal roof, where the adenoid pad sits"
+          "text": "(A) The roof, where the adenoid sits"
         },
         {
           "id": "B",
-          "text": "(B) The fossa of Rosenmüller, the lateral recess behind the torus tubarius",
+          "text": "(B) The fossa of Rosenmüller, behind the torus tubarius",
           "correct": true
         },
         {
           "id": "C",
-          "text": "(C) The posterior pharyngeal wall over the prevertebral fascia"
+          "text": "(C) The eustachian tube orifice, in front of the torus"
         },
         {
           "id": "D",
-          "text": "(D) The eustachian tube orifice itself, in front of the torus"
+          "text": "(D) The posterior wall"
         }
       ],
-      "feedback": "Correct answer: B\n\nThe nasopharynx has a roof, a posterior wall, and two lateral walls, and each lateral wall has a landmark: the torus tubarius, the cartilage bulge of the eustachian tube. In front of the torus is the tube orifice. Behind it is a deep recess, the fossa of Rosenmuller, and that recess is where most nasopharyngeal carcinomas start. It is also the easiest place to miss on a quick pass with the scope, because it lies behind the torus and can be hidden by it. A tumor growing there pushes forward against the torus and the tube orifice, blocks the tube, and fills the middle ear with fluid: his right ear. It also drains first to the retropharyngeal and level II nodes: his right neck. Both of his signs point to the same recess.\n\nWhy the others fail:\n(A) The roof carries the adenoid, and lymphoid tissue there is the commonest normal finding on a scope. Carcinoma can arise there but it is uncommon, and a roof tumor does not sit against the tube.\n(C) The posterior wall is a site for carcinoma but a less common one, and a posterior wall tumor is midline, far from the tube, and would not explain a one-sided ear.\n(D) The orifice is what gets blocked, not where the tumor starts. Looking only at the orifice and seeing it swollen tells you something is pressing on it; the thing pressing on it is behind the torus, in the fossa.\n\nKeypoint: look behind the torus tubarius; the fossa of Rosenmuller is where the tumor is, and its two neighbors, the tube and the level II nodes, are why he has an ear and a neck.\n\nReference: Chen YP, Chan ATC, Le QT, Blanchard P, Sun Y, Ma J. Nasopharyngeal carcinoma. Lancet. 2019;394(10192):64-80. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Head and Neck Cancers. Updated May 12, 2026. https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf"
+      "feedback": "Correct answer: B\n\nTwo findings on the same side, and each one points somewhere. A painless, firm level II node in an adult is a metastasis until proven otherwise, and level II is the first echelon for the nasopharynx. A unilateral middle ear effusion in an adult with no infection means something is blocking the eustachian tube, and the tube opens into the nasopharynx. One site explains both: the fossa of Rosenmuller, the lateral recess behind the torus tubarius. It is where most nasopharyngeal carcinomas start, it sits directly behind the tube orifice, and it is the easiest place to miss on a quick pass with the scope because the torus hides it. Angle the scope behind the torus on the right. It shows a bulging mass, and the biopsy is done in clinic through it.\n\nWhy the others fail:\n(A) The roof is where the adenoid sits, and lymphoid tissue there is the commonest normal finding on a scope. Carcinoma can arise there but it is uncommon, and a roof tumor does not sit against the tube, so it would not explain a one-sided ear.\n(C) This is the trap. The orifice is what is blocked, so it is where the eye goes first, and it may look swollen or pushed forward. But the orifice is the victim, not the source. The thing pressing on it is behind the torus, and a scope that stops at the orifice misses it.\n(D) The posterior wall is a site for carcinoma but a less common one. A posterior wall tumor is midline, far from either tube, and would not explain a block on one side only.\n\nKeypoint: a level II node plus a one-sided middle ear effusion means look behind the torus tubarius; the orifice shows the effect, the fossa holds the cause.\n\nReference: Chen YP, Chan ATC, Le QT, Blanchard P, Sun Y, Ma J. Nasopharyngeal carcinoma. Lancet. 2019;394(10192):64-80. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Head and Neck Cancers. Updated May 12, 2026. https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf"
     },
     {
       "title": "Step 2/7: Pathology & WHO Classification",
