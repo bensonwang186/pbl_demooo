@@ -17,27 +17,27 @@
       "title": "Step 1/6: What Kind of Dizzy",
       "scenario": "A 45-year-old man is brought to the emergency department by his wife. Two days ago he woke with the room spinning. It has not stopped. He has vomited several times, cannot walk without holding the wall, and every head movement makes it worse. He has no headache, no hearing change, no ringing, no weakness or numbness, no double vision. He had a cold last week.\n\nHe says the world moves; he does not feel faint.",
       "media": "",
-      "question": "How do you classify his presentation?",
+      "question": "What is this, and what do you need to find out next?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Presyncope"
+          "text": "(A) Presyncope; the next question is cardiac, so check orthostatic blood pressure and an ECG"
         },
         {
           "id": "B",
-          "text": "(B) Acute vestibular syndrome",
+          "text": "(B) Acute vestibular syndrome; the next question is peripheral or central, and you answer it by examining his eyes, not by imaging",
           "correct": true
         },
         {
           "id": "C",
-          "text": "(C) Episodic vestibular syndrome"
+          "text": "(C) Episodic vestibular syndrome; the next question is which ear, so do a Dix-Hallpike"
         },
         {
           "id": "D",
-          "text": "(D) Chronic vestibular syndrome"
+          "text": "(D) Acute vestibular syndrome; the next question is stroke or not, so send him for an urgent MRI before you examine him"
         }
       ],
-      "feedback": "Correct answer: B\n\nThe first job with a dizzy patient is to sort the word.\n• Vertigo is an illusion of motion: the room spins, the ground tilts, or the world bounces with each step (oscillopsia). His is vertigo.\n• Presyncope is lightheadedness or the feeling of fainting. It belongs to the heart and circulation, not the ear.\n\nThe second job is the time course.\n• Acute vestibular syndrome: sudden vertigo, continuous for days, with nausea, vomiting, unsteadiness, intolerance of head movement, and nystagmus. That is him. Its two main causes are vestibular neuritis and posterior circulation stroke, and Step 2 is about telling them apart.\n• Episodic vestibular syndrome: attacks that come and go with normal periods between, minutes to hours each. BPPV, Meniere's disease, vestibular migraine.\n• Chronic vestibular syndrome: weeks to months of imbalance without discrete attacks.\n\nWhy the others fail:\n(A) He does not feel faint; he feels the world move. Presyncope does not cause nystagmus or vomiting with head turning.\n(C) Episodes have gaps. He has had two days without one.\n(D) Two days is not chronic, and chronic syndromes do not start with vomiting.\n\nKeypoint: vertigo means the world moves; continuous for days with nausea and unsteadiness is acute vestibular syndrome, and the next question is neuritis or stroke.\n\nReference: Strupp M, Bisdorff A, Furman J, et al. Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res. 2022;32(5):389-406."
+      "feedback": "Correct answer: B\n\nThree sorting questions, in order.\n\n1. Is it vertigo?\n• Vertigo is an illusion of motion: the room spins, the ground tilts, the world bounces with each step (oscillopsia). The vestibular system, ear or brain, is the source.\n• Dizziness that is lightheadedness or near-fainting is presyncope. It belongs to the heart and circulation, not the ear.\nHis is vertigo.\n\n2. What is the time course?\n• Acute vestibular syndrome: sudden vertigo, continuous for days, with nausea, vomiting, unsteadiness, intolerance of head movement, and nystagmus. That is him.\n• Episodic vestibular syndrome: attacks with normal periods between, minutes to hours each. BPPV, Meniere's disease, vestibular migraine.\n• Chronic vestibular syndrome: weeks to months of imbalance without discrete attacks.\n\n3. Peripheral or central?\nThis is the question that matters most, and it starts now. Acute vestibular syndrome has two families of cause:\n• Peripheral: the labyrinth or the vestibular nerve. Vestibular neuritis and labyrinthitis. Miserable but benign.\n• Central: the brainstem or cerebellum. Posterior circulation stroke, occasionally demyelination. Can look identical at first glance and can kill.\n\nFrom the history, the features that push toward central are a headache or neck pain of sudden onset, any focal neurological symptom, inability to stand at all even with support, and vascular risk factors in an older patient. He has none of them, and he had a cold last week, which favors a peripheral cause. But the history only raises or lowers suspicion; it cannot settle it. The bedside examination in Step 2 is what separates the two, and it is more reliable in the first two days than an MRI.\n\nWhy the others fail:\n(A) He does not feel faint; he feels the world move. Presyncope does not cause nystagmus or vomiting with head turning, and the cardiac workup answers a question he is not asking.\n(C) Episodes have gaps. He has had two days without one, and a Dix-Hallpike tests for a positional vertigo he does not have.\n(D) The framing is right and the reflex is wrong. Stroke is the central cause to fear, but an MRI in the first 48 hours misses a proportion of posterior fossa infarcts, and a normal early scan can falsely reassure. The bedside examination is more sensitive than early imaging at this stage. Examine first; image if the examination says central, or if it cannot be interpreted.\n\nKeypoint: vertigo, continuous for days, is acute vestibular syndrome; its causes are peripheral or central, and the bedside examination, not the scanner, is what decides which.\n\nReference: Strupp M, Bisdorff A, Furman J, et al. Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res. 2022;32(5):389-406. Kattah JC, Talkad AV, Wang DZ, Hsieh YH, Newman-Toker DE. HINTS to diagnose stroke in the acute vestibular syndrome. Stroke. 2009;40(11):3504-3510."
     },
     {
       "title": "Step 2/6: Three Things at the Bedside",
