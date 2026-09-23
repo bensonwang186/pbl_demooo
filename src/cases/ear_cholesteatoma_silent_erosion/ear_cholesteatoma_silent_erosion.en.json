@@ -2,7 +2,7 @@
   "id": "ear_cholesteatoma",
   "title": "The Ear That Kept Running",
   "subtitle": "A teenager with six months of a wet, deaf ear, from the first otoscopy to the follow-up plan",
-  "description": "Reading the drum, what the audiogram says about the ossicles, what CT decides and what it cannot, congenital or acquired, choosing the operation, rebuilding the hearing, and watching for what comes back.",
+  "description": "Reading the drum, what the audiogram says about the ossicles, what CT decides and what it cannot, choosing the operation, rebuilding the hearing, congenital or acquired once the pathology is back, and watching for what comes back.",
   "estimatedTime": "20-25 min",
   "difficulty": "Intermediate",
   "tags": [
@@ -91,34 +91,8 @@
       "feedback": "Correct answer: D\n\nThe radiologist's question mark is honest. On CT, cholesteatoma, granulation tissue, mucus and fluid all look the same: soft tissue density. CT does not make the diagnosis. The otoscope made the diagnosis in Step 1. What CT does is answer the questions the surgeon needs before opening the ear.\n\nWhere is it?\n• Prussak's space, the attic, the aditus and the antrum: the classic route of an attic cholesteatoma spreading backward into the mastoid.\n\nWhat has it eroded?\n• The ossicles, which matches the 46 dB gap.\n• The scutum and the superior canal wall, which the surgeon confirmed.\n\nWhat must the surgeon not hit?\n• The tegmen: is there a dehiscence into the middle fossa?\n• The lateral semicircular canal: is there a fistula? A fistula changes the operation.\n• The facial nerve canal: is it dehiscent in the tympanic segment?\n• The sigmoid sinus and jugular bulb: are they high or forward?\nHere all of these are intact, which is what lets you plan a standard operation.\n\nIf the question were whether soft tissue is cholesteatoma at all, the test is non-echo-planar diffusion-weighted MRI, where cholesteatoma restricts diffusion and granulation does not. That is the tool for follow-up in Step 7.\n\nWhy the others fail:\n(A) Soft tissue in the attic is consistent with cholesteatoma, not diagnostic of it. Granulation looks identical.\n(B) The diagnosis is clinical, but the map is not. Operating without knowing whether the tegmen or the lateral canal is open is how complications happen.\n(C) The report describes ossicular erosion and loss of aeration, and even an ear with no erosion on CT can harbor cholesteatoma. CT cannot rule it out.\n\nKeypoint: CT does not diagnose cholesteatoma; it maps its extent and the four structures you must not enter.\n\nReference: Yung M, Tono T, Olszewska E, et al. J Int Adv Otol. 2017;13(1):1-8. Lingam RK, Bassett P. A meta-analysis on the diagnostic performance of non-echoplanar diffusion-weighted imaging in detecting middle ear cholesteatoma. Otol Neurotol. 2017;38(4):521-528."
     },
     {
-      "title": "Step 4/7: Congenital or Acquired",
-      "scenario": "The referral says congenital cholesteatoma: a white mass seen behind the drum in a teenager.\n\nIn the operating room the surgeon finds:\n\n    Perforation           small, in the pars flaccida at the attic\n    Disease               cholesteatoma and granulation in the attic and mastoid\n    Bone                  erosion of the superior wall of the ear canal\n    Ossicles              incus eroded, malleus and stapes intact\n    Mucosa                granular and adhesive",
-      "media": "",
-      "question": "Which type of cholesteatoma is this?",
-      "options": [
-        {
-          "id": "A",
-          "text": "(A) Acquired, primary: a retraction of the pars flaccida into the attic",
-          "correct": true
-        },
-        {
-          "id": "B",
-          "text": "(B) Congenital: a white mass in a young patient is congenital by definition"
-        },
-        {
-          "id": "C",
-          "text": "(C) Acquired, secondary: skin migrated in through a perforation of the pars tensa"
-        },
-        {
-          "id": "D",
-          "text": "(D) Iatrogenic: from the earlier treatment with otic drops"
-        }
-      ],
-      "feedback": "Correct answer: A\n\nThe consensus classification separates cholesteatoma by how the skin got in.\n\nCongenital:\n• a pearl behind an intact drum, classically in the anterior-superior quadrant,\n• no history of otorrhea, perforation or ear surgery,\n• usually found in a young child, often by chance.\n\nAcquired, primary:\n• the pars flaccida retracts into the attic, keratin collects in the pocket, and the pocket erodes its way backward through Prussak's space toward the antrum,\n• the drum is retracted or has an attic perforation, and there is a history of otorrhea.\n\nAcquired, secondary:\n• squamous epithelium migrates in through a pars tensa perforation, usually posterior-superior.\n\nHis findings are primary acquired disease: an attic perforation, Prussak's space full on the CT, disease tracking from attic to mastoid, the superior canal wall eroded, six months of discharge. The referral diagnosis was reasonable from a white mass alone, but the location, the perforation and the history all say retraction pocket. The label changed in the operating room, and it matters, because congenital and acquired disease behave differently and are staged differently.\n\nBy the consensus staging: sites are the tympanic cavity (T), attic (A), mastoid (M), and the difficult-access sites S1 (supratubal recess) and S2 (sinus tympani). He has attic plus mastoid: stage II, two or more sites, no complication.\n\nWhy the others fail:\n(B) Age does not decide. Congenital disease needs an intact drum and no history of discharge; he has an attic perforation and six months of otorrhea.\n(C) Secondary acquired means a pars tensa perforation. His is in the pars flaccida, which is the primary route.\n(D) Drops do not cause cholesteatoma. Iatrogenic disease follows surgery or a ventilation tube.\n\nKeypoint: pars flaccida retraction or attic perforation with a history of discharge is primary acquired cholesteatoma; congenital means an intact drum and no history.\n\nReference: Yung M, Tono T, Olszewska E, et al. EAONO/JOS joint consensus statements on the definitions, classification and staging of middle ear cholesteatoma. J Int Adv Otol. 2017;13(1):1-8. Derlacki EL, Clemis JD. Congenital cholesteatoma of the middle ear and mastoid. Ann Otol Rhinol Laryngol. 1965;74(3):706-727."
-    },
-    {
-      "title": "Step 5/7: The Operation",
-      "scenario": "Sixteen years old. Attic and mastoid disease, stage II. Well-pneumatized mastoid on CT, tegmen and lateral canal intact, facial nerve canal intact. Incus eroded, stapes present.\n\nYou plan surgery.",
+      "title": "Step 4/7: The Operation",
+      "scenario": "Sixteen years old. Six months of painless otorrhea and a 46 dB conductive loss.\n\nCT: soft tissue in the attic, aditus and antrum with suspicious ossicular erosion; well-pneumatized mastoid; tegmen, lateral semicircular canal and facial nerve canal intact.\n\nThe referral diagnosis is congenital cholesteatoma. You plan surgery.",
       "media": "",
       "question": "Which operation, and why?",
       "options": [
@@ -140,11 +114,11 @@
           "text": "(D) Ossiculoplasty alone through the canal, without a mastoidectomy"
         }
       ],
-      "feedback": "Correct answer: C\n\nCholesteatoma has one treatment: take it out. Drops control the infection around it; they do not remove keratinizing skin from the mastoid, and every month it stays it erodes more. The question is not whether to operate but how.\n\nThe choice is the posterior canal wall.\n\nCanal wall-up:\n• the bony ear canal is preserved, the mastoid is opened behind it, and the attic is reached through the mastoid and the canal,\n• the ear looks and works like a normal ear afterward: no cavity, no lifelong cleaning, no water restriction, easier hearing-aid use,\n• the cost is that residual disease can hide behind the intact wall and the pars flaccida can retract again, so recurrence is higher than after a canal wall-down procedure, and it must be watched.\n\nCanal wall-down:\n• the posterior canal wall is removed, making the mastoid and the canal one cavity that can be inspected in clinic,\n• lower recurrence, at the price of a cavity that needs cleaning for life and often runs.\n\nFor a 16-year-old with a pneumatized mastoid, limited disease and intact danger areas, canal wall-up is the standard choice. Canal wall-down is reserved for extensive disease, a sclerotic mastoid, a lateral canal fistula, an only-hearing ear, or a patient who will not come back for surveillance. The recurrence cost of canal wall-up is paid in Step 7.\n\nWhy the others fail:\n(A) Drops treat the discharge, not the disease. Three more months is three months of bone erosion.\n(B) Recurrence is one outcome among several. In a teenager a lifelong cavity is a real cost, and his anatomy does not require it.\n(D) The disease is in the mastoid. Reconstructing the hearing without removing the cholesteatoma behind it is rebuilding a house on a fire.\n\nKeypoint: cholesteatoma is removed, not treated; canal wall-up preserves a normal ear in a young patient at the price of surveillance.\n\nReference: Tomlin J, Chang D, McCutcheon B, Harris J. Surgical technique and recurrence in cholesteatoma: a meta-analysis. Audiol Neurootol. 2013;18(3):135-142. Yung M, Tono T, Olszewska E, et al. J Int Adv Otol. 2017;13(1):1-8."
+      "feedback": "Correct answer: C\n\nCholesteatoma has one treatment: take it out. Drops control the infection around it; they do not remove keratinizing skin from the mastoid, and every month it stays it erodes more. The question is not whether to operate but how.\n\nThe choice is the posterior canal wall.\n\nCanal wall-up:\n• the bony ear canal is preserved, the mastoid is opened behind it, and the attic is reached through the mastoid and the canal,\n• the ear looks and works like a normal ear afterward: no cavity, no lifelong cleaning, no water restriction, easier hearing-aid use,\n• the cost is that residual disease can hide behind the intact wall and the pars flaccida can retract again, so recurrence is higher than after a canal wall-down procedure, and it must be watched.\n\nCanal wall-down:\n• the posterior canal wall is removed, making the mastoid and the canal one cavity that can be inspected in clinic,\n• lower recurrence, at the price of a cavity that needs cleaning for life and often runs.\n\nFor a 16-year-old with a pneumatized mastoid, disease limited to the attic and mastoid on CT, and intact danger areas, canal wall-up is the standard choice. Canal wall-down is reserved for extensive disease, a sclerotic mastoid, a lateral canal fistula, an only-hearing ear, or a patient who will not come back for surveillance. The recurrence cost of canal wall-up is paid in Step 7.\n\nWhy the others fail:\n(A) Drops treat the discharge, not the disease. Three more months is three months of bone erosion.\n(B) Recurrence is one outcome among several. In a teenager a lifelong cavity is a real cost, and his anatomy does not require it.\n(D) The disease is in the mastoid. Reconstructing the hearing without removing the cholesteatoma behind it is rebuilding a house on a fire.\n\nKeypoint: cholesteatoma is removed, not treated; canal wall-up preserves a normal ear in a young patient at the price of surveillance.\n\nReference: Tomlin J, Chang D, McCutcheon B, Harris J. Surgical technique and recurrence in cholesteatoma: a meta-analysis. Audiol Neurootol. 2013;18(3):135-142. Yung M, Tono T, Olszewska E, et al. J Int Adv Otol. 2017;13(1):1-8."
     },
     {
-      "title": "Step 6/7: Rebuilding the Hearing",
-      "scenario": "The mastoid and attic are clean. Now the middle ear.\n\n    Malleus     present, handle intact\n    Incus       long process eroded, chain interrupted\n    Stapes      present, superstructure intact, mobile\n    Drum        small attic perforation; the pars tensa needs a graft",
+      "title": "Step 5/7: Rebuilding the Hearing",
+      "scenario": "In the operating room. The mastoid and attic are opened and cleared of cholesteatoma and granulation. The superior canal wall is eroded. Now the middle ear:\n\n    Malleus     present, handle intact\n    Incus       long process eroded, chain interrupted\n    Stapes      present, superstructure intact, mobile\n    Drum        small perforation in the pars flaccida; the pars tensa needs a graft",
       "media": "Load image: Intraoperative photograph from this patient, de-identified, unannotated: the stapes with the prosthesis in place. Caption: 'Reconstruction.'",
       "question": "How do you reconstruct the chain and the drum?",
       "options": [
@@ -169,8 +143,34 @@
       "feedback": "Correct answer: B\n\nThe reconstruction is decided by what is left.\n\nThe stapes superstructure is present and mobile, so the sound has to get from the drum to the stapes head. That is a partial prosthesis: a PORP sits on the stapes head and reaches the drum. If the superstructure were gone and only the footplate remained, it would be a total prosthesis, a TORP, to the footplate. This is a modified type III tympanoplasty: drum onto stapes with something in between.\n\nTwo details make it last:\n• A cartilage cap between the prosthesis and the drum. A prosthesis touching the drum directly erodes through it and extrudes; a thin disc of cartilage between them stops that.\n• A cartilage-perichondrium composite graft for the drum rather than fascia alone. Cartilage resists retraction. The disease started as a retraction pocket, and a fascia graft in a poorly ventilated ear will retract again. Cartilage holds its shape.\n\nBoth cartilage pieces come from the conchal bowl through the same incision.\n\nWhy the others fail:\n(A) A TORP is for a missing superstructure. His stapes is intact and mobile; bypassing it wastes the best part of the chain and gives a less stable result.\n(C) An eroded incus that has been sitting in cholesteatoma is not reliable graft material: it may carry squamous epithelium, and its shape is already lost. Autologous incus interposition is for an intact incus removed for access, not for one the disease has eaten.\n(D) Staging the hearing to a second operation is reasonable when the mucosa is too diseased to expect a prosthesis to survive. His stapes is mobile and the mastoid is clean; there is no reason to send him home with a 46 dB gap.\n\nKeypoint: stapes present means PORP, footplate only means TORP; cap the prosthesis and graft the drum with cartilage, because the ear that retracted once will try to retract again.\n\nReference: Dornhoffer JL. Cartilage tympanoplasty: indications, techniques, and outcomes in a 1,000-patient series. Laryngoscope. 2003;113(11):1844-1856. Gulya AJ, Minor LB, Poe DS, eds. Glasscock-Shambaugh Surgery of the Ear. 6th ed. 2010."
     },
     {
+      "title": "Step 6/7: Congenital or Acquired",
+      "scenario": "One week after surgery. The pathology report is back: keratinizing squamous epithelium with keratin debris. Cholesteatoma confirmed.\n\nThe referral had said congenital cholesteatoma: a white mass behind the drum in a teenager.\n\nWhat the surgeon found:\n\n    Perforation     small, in the pars flaccida at the attic\n    Disease         attic and mastoid\n    Bone            superior wall of the ear canal eroded\n    Ossicles        incus eroded; malleus and stapes intact\n    Mucosa          granular and adhesive",
+      "media": "Load image: Intraoperative photograph from this patient, de-identified, unannotated: tympanomeatal flap raised, cholesteatoma in the attic with the eroded scutum, incus long process eroded. Caption: 'Attic, intraoperative.'",
+      "question": "Cholesteatoma is confirmed. What is the final diagnosis: congenital, primary acquired, or secondary acquired?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) Acquired, primary: a retraction of the pars flaccida into the attic",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "(B) Congenital: a white mass in a young patient is congenital by definition"
+        },
+        {
+          "id": "C",
+          "text": "(C) Acquired, secondary: skin migrated in through a perforation of the pars tensa"
+        },
+        {
+          "id": "D",
+          "text": "(D) Iatrogenic: from the earlier treatment with otic drops"
+        }
+      ],
+      "feedback": "Correct answer: A\n\nThe consensus classification separates cholesteatoma by how the skin got in.\n\nCongenital:\n• a pearl behind an intact drum, classically in the anterior-superior quadrant,\n• no history of otorrhea, perforation or ear surgery,\n• usually found in a young child, often by chance.\n\nAcquired, primary:\n• the pars flaccida retracts into the attic, keratin collects in the pocket, and the pocket erodes its way backward through Prussak's space toward the antrum,\n• the drum is retracted or has an attic perforation, and there is a history of otorrhea.\n\nAcquired, secondary:\n• squamous epithelium migrates in through a pars tensa perforation, usually posterior-superior.\n\nHis findings are primary acquired disease: an attic perforation, Prussak's space full on the CT, disease tracking from attic to mastoid, the superior canal wall eroded, six months of discharge. The referral diagnosis was reasonable from a white mass alone, but the location, the perforation and the history all say retraction pocket. The label changed in the operating room, and it matters, because congenital and acquired disease behave differently and are staged differently.\n\nBy the consensus staging: sites are the tympanic cavity (T), attic (A), mastoid (M), and the difficult-access sites S1 (supratubal recess) and S2 (sinus tympani). He has attic plus mastoid: stage II, two or more sites, no complication.\n\nWhy the others fail:\n(B) Age does not decide. Congenital disease needs an intact drum and no history of discharge; he has an attic perforation and six months of otorrhea.\n(C) Secondary acquired means a pars tensa perforation. His is in the pars flaccida, which is the primary route.\n(D) Drops do not cause cholesteatoma. Iatrogenic disease follows surgery or a ventilation tube.\n\nKeypoint: pars flaccida retraction or attic perforation with a history of discharge is primary acquired cholesteatoma; congenital means an intact drum and no history.\n\nReference: Yung M, Tono T, Olszewska E, et al. EAONO/JOS joint consensus statements on the definitions, classification and staging of middle ear cholesteatoma. J Int Adv Otol. 2017;13(1):1-8. Derlacki EL, Clemis JD. Congenital cholesteatoma of the middle ear and mastoid. Ann Otol Rhinol Laryngol. 1965;74(3):706-727."
+    },
+    {
       "title": "Step 7/7: Watching It",
-      "scenario": "He goes home on the third day. The ear is dry at the first visit and the graft takes.\n\nHis mother asks whether it is finished.",
+      "scenario": "The ear is dry at the first visit and the graft takes. Final diagnosis: primary acquired cholesteatoma, left, stage II, after canal wall-up tympanomastoidectomy.\n\nHis mother asks whether it is finished.",
       "media": "",
       "question": "How do you follow a canal wall-up ear?",
       "options": [
