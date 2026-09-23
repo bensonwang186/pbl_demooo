@@ -15,7 +15,7 @@
   "steps": [
     {
       "title": "Step 1/6: What Kind of Dizzy",
-      "scenario": "A 45-year-old woman is brought to the emergency department by her husband. Two days ago she woke with the room spinning. It has not stopped. Sshe has vomited several times, cannot walk without holding the wall, and every head movement makes it worse. Sshe has no headache, no hearing change, no ringing, no weakness or numbness, no double vision. She had a cold last week.\n\nShe says the world moves; she does not feel faint.",
+      "scenario": "A 45-year-old woman is brought to the emergency department by her husband.\n\nShe woke two days ago with the room spinning.\n\n    Onset             sudden, on waking\n    Duration          two days so far\n    Pattern           constant since it started, never stopped\n    Vomiting          several times\n    Walking           only with a hand on the wall\n    Head movement     makes it worse\n\nNo headache. No hearing change, no ringing.\nNo weakness, numbness or double vision.\nA cold last week.\n\nIn her words: \"The room moves. I don't feel faint.\"",
       "media": "",
       "question": "What is this, and what do you need to find out next?",
       "options": [
@@ -67,7 +67,7 @@
     },
     {
       "title": "Step 3/6: The Tuning Fork",
-      "scenario": "Before you leave the bedside you take out a 512 Hz tuning fork.\n\n    Weber    Midline\n    Rinne    Air conduction louder than bone, both ears\n\nA pure-tone audiogram the next morning is normal and symmetric.",
+      "scenario": "Before you leave the bedside you take out a 512 Hz tuning fork.\n\n    Weber     midline\n    Rinne     air conduction louder than bone, both ears\n\nThe next morning, a pure-tone audiogram.",
       "media": "Load image: Pure-tone audiogram from your own patient, de-identified: normal symmetric thresholds. Caption: 'Audiogram.'",
       "question": "Why did you check her hearing, and what does a normal result tell you?",
       "options": [
@@ -93,7 +93,7 @@
     },
     {
       "title": "Step 4/6: The Diagnosis",
-      "scenario": "Two days of continuous spinning vertigo with nausea and unsteadiness. Left-beating unidirectional nystagmus, abnormal head impulse to the right, no skew. Normal hearing. No headache, no neurological signs. A cold the week before.",
+      "scenario": "What you have so far:\n\n    Vertigo           continuous, two days\n    Nystagmus         left-beating, one direction only\n    Head impulse      catch-up saccade to the right\n    Skew              none\n    Hearing           normal, both ears\n    Neurology         no deficit, no headache\n\nA cold the week before.",
       "media": "",
       "question": "What is the diagnosis?",
       "options": [
@@ -145,7 +145,7 @@
     },
     {
       "title": "Step 6/6: Now and Later",
-      "scenario": "Right superior vestibular neuritis. Day four, sitting up, still nauseated with head movement, walking with a hand on the wall.\n\nShe asks what happens now, and whether she will get better.",
+      "scenario": "Day four. She can sit up.\nStill nauseated when she turns her head.\nWalking, but with a hand on the wall.\n\nShe asks: \"What happens now? Will I get better?\"",
       "media": "",
       "question": "What do you do now, and what do you plan for later?",
       "options": [
