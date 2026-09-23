@@ -1,173 +1,198 @@
 {
-  "id": "ear_vestibular_neuritis",
-  "title": "The Room Will Not Stop",
-  "subtitle": "Two days of spinning, from the emergency department to the rehabilitation plan",
-  "description": "Recognizing acute vestibular syndrome, the bedside HINTS examination, why hearing is checked, making the diagnosis, deciding which side, and what to do now and later.",
-  "estimatedTime": "15-20 min",
+  "id": "ear_cholesteatoma",
+  "title": "The Ear That Kept Running",
+  "subtitle": "A teenager with six months of a wet, deaf ear, from the first otoscopy to the follow-up plan",
+  "description": "Reading the drum, what the audiogram says about the ossicles, what CT decides and what it cannot, congenital or acquired, choosing the operation, rebuilding the hearing, and watching for what comes back.",
+  "estimatedTime": "20-25 min",
   "difficulty": "Intermediate",
   "tags": [
     "Otology",
-    "Vertigo",
-    "Acute vestibular syndrome",
-    "HINTS",
-    "Vestibular rehabilitation"
+    "Chronic otitis media",
+    "Tympanomastoidectomy",
+    "Ossiculoplasty"
   ],
   "steps": [
     {
-      "title": "Step 1/6: What Kind of Dizzy",
-      "scenario": "A 45-year-old woman is brought to the emergency department by her husband.\n\nShe woke two days ago with the room spinning.\n\n    Onset             sudden, on waking\n    Duration          two days so far\n    Pattern           constant since it started, never stopped\n    Vomiting          several times\n    Walking           only with a hand on the wall\n    Head movement     makes it worse\n\nNo headache. No hearing change, no ringing.\nNo weakness, numbness or double vision.\nA cold last week.\n\nIn her words: \"The room moves. I don't feel faint.\"",
+      "title": "Step 1/7: The Drum",
+      "scenario": "A 16-year-old boy comes to clinic with his mother.\n\n    Complaint       left ear feels blocked and sounds \"watery\"\n    Duration        six months\n    Discharge       on and off, not smelly, no blood\n    Pain            none\n    Fever           none\n    Hearing         worse on the left\n\nOtic drops from another clinic helped the discharge for a while.\n\nYou look in the left ear.",
+      "media": "Load image: Otoendoscopy of the left ear from this patient, de-identified, unannotated. Caption: 'Left ear.'",
+      "question": "What do you see, and what does it mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) A dull, retracted drum with a fluid level: otitis media with effusion, treat with a nasal steroid and review"
+        },
+        {
+          "id": "B",
+          "text": "(B) White plaques on the drum: myringosclerosis from old infection, no action needed"
+        },
+        {
+          "id": "C",
+          "text": "(C) A whitish mass behind the drum with crust and debris at the attic: cholesteatoma until proven otherwise",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "(D) A red pulsatile mass behind the drum: glomus tympanicum, image before touching it"
+        }
+      ],
+      "feedback": "Correct answer: C\n\nSix months of painless discharge that comes back after drops, a blocked ear, and hearing loss is the history of cholesteatoma. The drum confirms it:\n• a whitish mass behind the drum in the upper part of the middle ear,\n• crust or keratin debris at the attic, the pars flaccida above the short process of the malleus,\n• effusion around it.\n\nCholesteatoma is keratinizing squamous epithelium where it should not be, in the middle ear or mastoid. It is not a tumor, but it behaves like one locally: it grows, it erodes bone, and it does not go away. Painless is the point. Pain means acute infection; cholesteatoma is chronic and quiet until it has eroded something.\n\nWhy the others fail:\n(A) Effusion alone gives a dull drum, sometimes a fluid level, and no mass. The white mass and the attic debris are not effusion. And effusion in a 16-year-old on one side only should itself make you look harder.\n(B) Myringosclerosis is chalky white plaque in the drum, flat, not behind it, and it does not discharge.\n(D) A glomus is red or blue, behind an intact drum, often pulsatile, and the history is pulsatile tinnitus. This is white.\n\nKeypoint: painless chronic otorrhea plus a whitish attic mass is cholesteatoma until proven otherwise; look at the pars flaccida.\n\nReference: Yung M, Tono T, Olszewska E, et al. EAONO/JOS joint consensus statements on the definitions, classification and staging of middle ear cholesteatoma. J Int Adv Otol. 2017;13(1):1-8."
+    },
+    {
+      "title": "Step 2/7: The Numbers",
+      "scenario": "Hearing tests, both from the outside clinic:\n\n    Pure-tone audiogram, left    conductive hearing loss, air-bone gap 46 dB\n    Pure-tone audiogram, right   normal\n    Tympanogram, left            type B, normal canal volume\n    Tympanogram, right           type A",
+      "media": "Load image: Pure-tone audiogram and tympanogram from this patient, de-identified. Caption: 'Audiogram and tympanogram.'",
+      "question": "What does an air-bone gap of 46 dB tell you that a gap of 20 dB would not?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) Nothing extra; the size of the gap does not localize the problem"
+        },
+        {
+          "id": "B",
+          "text": "(B) That the ossicular chain is probably interrupted, not just dampened by fluid or a mass",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "(C) That the cochlea is also damaged"
+        },
+        {
+          "id": "D",
+          "text": "(D) That the eustachian tube is blocked"
+        }
+      ],
+      "feedback": "Correct answer: B\n\nA conductive loss is an air-bone gap: bone conduction, which bypasses the middle ear, is normal, and air conduction, which needs the drum and ossicles, is worse. The size of the gap says how badly the chain is working.\n• Fluid in the middle ear, or a mass pressing on the drum, dampens the chain: a gap of roughly 20 to 30 dB.\n• A drum perforation alone: usually under 30 dB.\n• A break in the chain, with the drum intact, can reach 50 to 60 dB, near the maximum a conductive loss can be.\n\nA 46 dB gap is too large for fluid or a small mass. It says the sound is not getting from the drum to the stapes, which means the cholesteatoma has eroded an ossicle, most often the long process of the incus. That is what the surgeon found.\n\nThe type B tympanogram with a normal canal volume adds that the drum is intact and the middle ear is filled with something, fluid or soft tissue. A type B with a large canal volume would mean a perforation.\n\nWhy the others fail:\n(A) The gap size is one of the most useful numbers in otology. It separates a wet ear from a broken chain before you have opened it.\n(C) Bone conduction is normal. The cochlea is fine. A sensorineural component would show as a drop in bone conduction.\n(D) A blocked tube gives effusion and a type B, but the effusion alone would not produce a 46 dB gap.\n\nKeypoint: air-bone gap over 40 dB with an intact drum means an ossicular discontinuity; plan to find an eroded incus.\n\nReference: Gulya AJ, Minor LB, Poe DS, eds. Glasscock-Shambaugh Surgery of the Ear. 6th ed. Shelton, CT: People's Medical Publishing House; 2010."
+    },
+    {
+      "title": "Step 3/7: What the CT Decides",
+      "scenario": "High-resolution CT of the temporal bone, 1 mm cuts, no contrast:\n\n    Left middle ear      soft tissue density, including Prussak's space\n    Left ossicles        suspicious erosion\n    Left aditus/antrum   opacified\n    Left canal           small soft tissue lesion\n    Right ear            normal, well aerated\n    Both sides           cochlea, semicircular canals, facial nerve canal, carotid canal, jugular foramen normal\n\nThe report ends: \"Related to otomastoiditis with cholesteatoma?\"",
+      "media": "Load image: Coronal HRCT of the left temporal bone from this patient, de-identified, unannotated. Caption: 'HRCT, coronal.'",
+      "question": "What does this CT decide, and what does it not?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) It confirms cholesteatoma; soft tissue in the attic is diagnostic"
+        },
+        {
+          "id": "B",
+          "text": "(B) It is unnecessary; the diagnosis is clinical and the surgeon will see what is there"
+        },
+        {
+          "id": "C",
+          "text": "(C) It rules cholesteatoma out; there is no bony erosion described"
+        },
+        {
+          "id": "D",
+          "text": "(D) It maps the extent and the danger areas for surgery, but it cannot tell cholesteatoma from granulation or fluid",
+          "correct": true
+        }
+      ],
+      "feedback": "Correct answer: D\n\nThe radiologist's question mark is honest. On CT, cholesteatoma, granulation tissue, mucus and fluid all look the same: soft tissue density. CT does not make the diagnosis. The otoscope made the diagnosis in Step 1. What CT does is answer the questions the surgeon needs before opening the ear.\n\nWhere is it?\n• Prussak's space, the attic, the aditus and the antrum: the classic route of an attic cholesteatoma spreading backward into the mastoid.\n\nWhat has it eroded?\n• The ossicles, which matches the 46 dB gap.\n• The scutum and the superior canal wall, which the surgeon confirmed.\n\nWhat must the surgeon not hit?\n• The tegmen: is there a dehiscence into the middle fossa?\n• The lateral semicircular canal: is there a fistula? A fistula changes the operation.\n• The facial nerve canal: is it dehiscent in the tympanic segment?\n• The sigmoid sinus and jugular bulb: are they high or forward?\nHere all of these are intact, which is what lets you plan a standard operation.\n\nIf the question were whether soft tissue is cholesteatoma at all, the test is non-echo-planar diffusion-weighted MRI, where cholesteatoma restricts diffusion and granulation does not. That is the tool for follow-up in Step 7.\n\nWhy the others fail:\n(A) Soft tissue in the attic is consistent with cholesteatoma, not diagnostic of it. Granulation looks identical.\n(B) The diagnosis is clinical, but the map is not. Operating without knowing whether the tegmen or the lateral canal is open is how complications happen.\n(C) The report describes ossicular erosion and loss of aeration, and even an ear with no erosion on CT can harbor cholesteatoma. CT cannot rule it out.\n\nKeypoint: CT does not diagnose cholesteatoma; it maps its extent and the four structures you must not enter.\n\nReference: Yung M, Tono T, Olszewska E, et al. J Int Adv Otol. 2017;13(1):1-8. Lingam RK, Bassett P. A meta-analysis on the diagnostic performance of non-echoplanar diffusion-weighted imaging in detecting middle ear cholesteatoma. Otol Neurotol. 2017;38(4):521-528."
+    },
+    {
+      "title": "Step 4/7: Congenital or Acquired",
+      "scenario": "The referral says congenital cholesteatoma: a white mass seen behind the drum in a teenager.\n\nIn the operating room the surgeon finds:\n\n    Perforation           small, in the pars flaccida at the attic\n    Disease               cholesteatoma and granulation in the attic and mastoid\n    Bone                  erosion of the superior wall of the ear canal\n    Ossicles              incus eroded, malleus and stapes intact\n    Mucosa                granular and adhesive",
       "media": "",
-      "question": "What is this, and what do you need to find out next?",
+      "question": "Which type of cholesteatoma is this?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Presyncope; the next question is cardiac, so check orthostatic blood pressure and an ECG"
-        },
-        {
-          "id": "B",
-          "text": "(B) Acute vestibular syndrome; the next question is peripheral or central, and you answer it by examining her eyes, not by imaging",
-          "correct": true
-        },
-        {
-          "id": "C",
-          "text": "(C) Episodic vestibular syndrome; the next question is which ear, so do a Dix-Hallpike"
-        },
-        {
-          "id": "D",
-          "text": "(D) Acute vestibular syndrome; the next question is stroke or not, so send her for an urgent MRI before you examine her"
-        }
-      ],
-      "feedback": "Correct answer: B\n\nThree sorting questions, in order.\n\n1. Is it vertigo?\n• Vertigo is an illusion of motion: the room spins, the ground tilts, the world bounces with each step (oscillopsia). The vestibular system, ear or brain, is the source.\n• Dizziness that is lightheadedness or near-fainting is presyncope. It belongs to the heart and circulation, not the ear.\nHers is vertigo.\n\n2. What is the time course?\n• Acute vestibular syndrome: sudden vertigo, continuous for days, with nausea, vomiting, unsteadiness, intolerance of head movement, and nystagmus. That is her.\n• Episodic vestibular syndrome: attacks with normal periods between, minutes to hours each. BPPV, Meniere's disease, vestibular migraine.\n• Chronic vestibular syndrome: weeks to months of imbalance without discrete attacks.\n\n3. Peripheral or central?\nThis is the question that matters most, and it starts now. Acute vestibular syndrome has two families of cause:\n• Peripheral: the labyrinth or the vestibular nerve. Vestibular neuritis and labyrinthitis. Miserable but benign.\n• Central: the brainstem or cerebellum. Posterior circulation stroke, occasionally demyelination. Can look identical at first glance and can kill.\n\nFrom the history, the features that push toward central are a headache or neck pain of sudden onset, any focal neurological symptom, inability to stand at all even with support, and vascular risk factors in an older patient. She has none of them, and she had a cold last week, which favors a peripheral cause. But the history only raises or lowers suspicion; it cannot settle it. The bedside examination in Step 2 is what separates the two, and it is more reliable in the first two days than an MRI.\n\nWhy the others fail:\n(A) She does not feel faint; she feels the world move. Presyncope does not cause nystagmus or vomiting with head turning, and the cardiac workup answers a question she is not asking.\n(C) Episodes have gaps. She has had two days without one, and a Dix-Hallpike tests for a positional vertigo she does not have.\n(D) The framing is right and the reflex is wrong. Stroke is the central cause to fear, but an MRI in the first 48 hours misses a proportion of posterior fossa infarcts, and a normal early scan can falsely reassure. The bedside examination is more sensitive than early imaging at this stage. Examine first; image if the examination says central, or if it cannot be interpreted.\n\nKeypoint: vertigo, continuous for days, is acute vestibular syndrome; its causes are peripheral or central, and the bedside examination, not the scanner, is what decides which.\n\nReference: Strupp M, Bisdorff A, Furman J, et al. Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res. 2022;32(5):389-406. Kattah JC, Talkad AV, Wang DZ, Hsieh YH, Newman-Toker DE. HINTS to diagnose stroke in the acute vestibular syndrome. Stroke. 2009;40(11):3504-3510."
-    },
-    {
-      "title": "Step 2/6: Three Things at the Bedside",
-      "scenario": "You examine her eyes.\n\nNystagmus\n    Horizontal with a torsional component, fast phase to the left in primary gaze.\n    Stronger on left gaze, weaker but still left-beating on right gaze.\n    Reduced when she fixates on your finger.\n\nHead impulse\n    Head turned quickly to the right: the eyes slip with the head, then a corrective saccade brings them back to your nose.\n    Head turned to the left: the eyes stay fixed on your nose.\n\nSkew\n    Alternate cover test: no vertical correction.",
-      "media": "Load video: Nystagmus under Frenzel goggles from your own patient, 10 seconds, muted, de-identified: left-beating horizontal nystagmus increasing on left gaze. Caption: 'Nystagmus, primary and left gaze.'",
-      "question": "What does the HINTS examination show?",
-      "options": [
-        {
-          "id": "A",
-          "text": "(A) A central pattern; she needs an urgent MRI before anything else"
-        },
-        {
-          "id": "B",
-          "text": "(B) The findings are contradictory and cannot be interpreted"
-        },
-        {
-          "id": "C",
-          "text": "(C) A normal examination; the vertigo is not vestibular"
-        },
-        {
-          "id": "D",
-          "text": "(D) A peripheral pattern: abnormal head impulse, unidirectional nystagmus that follows Alexander's law, no skew",
-          "correct": true
-        }
-      ],
-      "feedback": "Correct answer: D\n\nHINTS is three bedside tests, and all three point the same way here.\n\nHead impulse. A quick passive head turn tests the vestibulo-ocular reflex on that side.\n• Working side: the eyes stay locked on the target.\n• Weak side: the eyes go with the head, and a catch-up saccade brings them back.\nHer catch-up saccade is on rightward turns, so the right side is weak. Note the trap: a normal head impulse in acute vestibular syndrome is the dangerous result, because it means the periphery is intact and the cause is central.\n\nNystagmus. Peripheral nystagmus beats one way, away from the weak side, and obeys Alexander's law:\n• strongest looking toward the fast phase,\n• weaker looking the other way,\n• but it never reverses,\n• and it is suppressed by visual fixation, which is why you use Frenzel goggles.\nHers is left-beating in every gaze, stronger on left gaze, damped by fixation. Direction-changing, purely vertical, or purely torsional nystagmus would be central.\n\nSkew. A vertical misalignment on cover testing is a brainstem sign. She has none.\n\nPut together: abnormal head impulse, unidirectional nystagmus, no skew. This is the benign combination. In the original study HINTS identified stroke more accurately than early MRI, which misses some posterior fossa infarcts in the first 48 hours; so a central HINTS pattern is not reassured by a normal early scan.\n\nWhy the others fail:\n(A) The central pattern is the opposite: normal head impulse, direction-changing nystagmus, or a skew. She has none of these.\n(B) The three findings agree with each other and with Alexander's law.\n(C) Spontaneous nystagmus and a catch-up saccade are not normal; they are the signs of a damaged vestibular periphery.\n\nKeypoint: catch-up saccade on head turn, nystagmus that beats one way and grows toward its fast phase, no skew, is peripheral. A normal head impulse in acute vestibular syndrome is the finding that means stroke.\n\nReference: Kattah JC, Talkad AV, Wang DZ, Hsieh YH, Newman-Toker DE. HINTS to diagnose stroke in the acute vestibular syndrome: three-step bedside oculomotor examination more sensitive than early MRI diffusion-weighted imaging. Stroke. 2009;40(11):3504-3510."
-    },
-    {
-      "title": "Step 3/6: The Tuning Fork",
-      "scenario": "Before you leave the bedside you take out a 512 Hz tuning fork.\n\n    Weber     midline\n    Rinne     air conduction louder than bone, both ears\n\nThe next morning, a pure-tone audiogram.",
-      "media": "Load image: Pure-tone audiogram from your own patient, de-identified: normal symmetric thresholds. Caption: 'Audiogram.'",
-      "question": "Why did you check her hearing, and what does a normal result tell you?",
-      "options": [
-        {
-          "id": "A",
-          "text": "(A) To separate the labyrinth from the nerve: normal hearing means the cochlea is spared, which points to the vestibular nerve rather than the whole labyrinth",
+          "text": "(A) Acquired, primary: a retraction of the pars flaccida into the attic",
           "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Normal hearing rules out any inner ear cause and makes the vertigo central"
+          "text": "(B) Congenital: a white mass in a young patient is congenital by definition"
         },
         {
           "id": "C",
-          "text": "(C) Hearing is unrelated to vertigo; the fork test was unnecessary"
+          "text": "(C) Acquired, secondary: skin migrated in through a perforation of the pars tensa"
         },
         {
           "id": "D",
-          "text": "(D) Normal hearing today excludes Meniere's disease permanently"
+          "text": "(D) Iatrogenic: from the earlier treatment with otic drops"
         }
       ],
-      "feedback": "Correct answer: A\n\nThe cochlea and the vestibular labyrinth share a bony capsule, a blood supply, and part of a nerve. That shared anatomy is what the tuning fork exploits:\n• A process that hits the whole inner ear takes hearing with it: labyrinthitis, a labyrinthine infarct, a first Meniere's attack.\n• A process confined to the vestibular nerve leaves hearing alone.\n\nHer hearing is normal on both sides, so the cochlea is spared and the lesion is vestibular without the cochlea.\n\nThe laboratory tests add detail rather than change the diagnosis, and they come later, once she can tolerate them:\n• Caloric: reduced response on the weak side.\n• Video head impulse test: measures VOR gain per canal and records the catch-up saccades.\n• VEMPs: tell you whether the superior division, the inferior division, or both are involved.\n\nWhy the others fail:\n(B) Normal hearing does not make vertigo central. Vestibular neuritis, the commonest peripheral cause of acute vestibular syndrome, has normal hearing by definition.\n(C) Hearing is how you separate neuritis from labyrinthitis at the bedside. The fork takes thirty seconds and changes the diagnosis.\n(D) One normal audiogram does not exclude Meniere's, which is diagnosed on documented low-frequency loss during attacks over time; but a two-day continuous course does not fit Meniere's anyway.\n\nKeypoint: check hearing in every acute vertigo; spared hearing means the nerve, lost hearing means the whole labyrinth.\n\nReference: Strupp M, Bisdorff A, Furman J, et al. Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res. 2022;32(5):389-406."
+      "feedback": "Correct answer: A\n\nThe consensus classification separates cholesteatoma by how the skin got in.\n\nCongenital:\n• a pearl behind an intact drum, classically in the anterior-superior quadrant,\n• no history of otorrhea, perforation or ear surgery,\n• usually found in a young child, often by chance.\n\nAcquired, primary:\n• the pars flaccida retracts into the attic, keratin collects in the pocket, and the pocket erodes its way backward through Prussak's space toward the antrum,\n• the drum is retracted or has an attic perforation, and there is a history of otorrhea.\n\nAcquired, secondary:\n• squamous epithelium migrates in through a pars tensa perforation, usually posterior-superior.\n\nHis findings are primary acquired disease: an attic perforation, Prussak's space full on the CT, disease tracking from attic to mastoid, the superior canal wall eroded, six months of discharge. The referral diagnosis was reasonable from a white mass alone, but the location, the perforation and the history all say retraction pocket. The label changed in the operating room, and it matters, because congenital and acquired disease behave differently and are staged differently.\n\nBy the consensus staging: sites are the tympanic cavity (T), attic (A), mastoid (M), and the difficult-access sites S1 (supratubal recess) and S2 (sinus tympani). He has attic plus mastoid: stage II, two or more sites, no complication.\n\nWhy the others fail:\n(B) Age does not decide. Congenital disease needs an intact drum and no history of discharge; he has an attic perforation and six months of otorrhea.\n(C) Secondary acquired means a pars tensa perforation. His is in the pars flaccida, which is the primary route.\n(D) Drops do not cause cholesteatoma. Iatrogenic disease follows surgery or a ventilation tube.\n\nKeypoint: pars flaccida retraction or attic perforation with a history of discharge is primary acquired cholesteatoma; congenital means an intact drum and no history.\n\nReference: Yung M, Tono T, Olszewska E, et al. EAONO/JOS joint consensus statements on the definitions, classification and staging of middle ear cholesteatoma. J Int Adv Otol. 2017;13(1):1-8. Derlacki EL, Clemis JD. Congenital cholesteatoma of the middle ear and mastoid. Ann Otol Rhinol Laryngol. 1965;74(3):706-727."
     },
     {
-      "title": "Step 4/6: The Diagnosis",
-      "scenario": "What you have so far:\n\n    Vertigo           continuous, two days\n    Nystagmus         left-beating, one direction only\n    Head impulse      catch-up saccade to the right\n    Skew              none\n    Hearing           normal, both ears\n    Neurology         no deficit, no headache\n\nA cold the week before.",
+      "title": "Step 5/7: The Operation",
+      "scenario": "Sixteen years old. Attic and mastoid disease, stage II. Well-pneumatized mastoid on CT, tegmen and lateral canal intact, facial nerve canal intact. Incus eroded, stapes present.\n\nYou plan surgery.",
       "media": "",
-      "question": "What is the diagnosis?",
+      "question": "Which operation, and why?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Meniere's disease"
+          "text": "(A) Continue otic drops and review in three months; surgery only if the discharge persists"
         },
         {
           "id": "B",
-          "text": "(B) Benign paroxysmal positional vertigo"
+          "text": "(B) Canal wall-down mastoidectomy, because it gives the lowest recurrence and that is what matters most"
         },
         {
           "id": "C",
-          "text": "(C) Labyrinthitis"
-        },
-        {
-          "id": "D",
-          "text": "(D) Vestibular neuritis",
-          "correct": true
-        }
-      ],
-      "feedback": "Correct answer: D\n\nVestibular neuritis is an acute, sustained loss of one vestibular nerve, usually the superior division, with the cochlea spared. Her picture is the textbook one:\n• continuous vertigo for days, with nausea and vomiting,\n• unsteadiness toward the weak side,\n• spontaneous unidirectional nystagmus obeying Alexander's law,\n• abnormal head impulse on the weak side,\n• normal hearing,\n• no central signs,\n• a viral illness the week before.\n\nThe diagnosis is clinical; the vHIT and caloric confirm the side and severity.\n\nWhy the others fail:\n(A) Meniere's disease is episodic: vertigo lasting minutes to hours, with fluctuating low-frequency hearing loss, tinnitus and aural fullness, and normal periods between. Two days of continuous vertigo with normal hearing is not a Meniere's attack.\n(B) BPPV is brief, seconds to a minute, provoked by head position, with no spontaneous nystagmus at rest. She has both. The Dix-Hallpike is still worth doing later, because BPPV can follow neuritis.\n(C) Labyrinthitis is the same acute picture plus hearing loss, because the whole labyrinth is inflamed. Her hearing is normal; that one finding separates the two, which is why Step 3 mattered.\n\nKeypoint: continuous vertigo for days, peripheral HINTS, and normal hearing is vestibular neuritis; add hearing loss and it is labyrinthitis; make it episodic and it is Meniere's or BPPV.\n\nReference: Strupp M, Bisdorff A, Furman J, et al. Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res. 2022;32(5):389-406."
-    },
-    {
-      "title": "Step 5/6: Which Side",
-      "scenario": "Day four. She can sit up. The vestibular laboratory reports:\n\nCaloric\n    Right warm and cool responses 17 deg/s total, left 51 deg/s total\n    Unilateral weakness 50 percent, right ear\n    Directional preponderance 26 percent to the left\n\nvHIT\n    Right lateral canal gain 0.45 with overt and covert saccades; left canals normal\n\nVEMP\n    cVEMP present bilaterally, symmetric\n    oVEMP absent on the right",
-      "media": "Load image: Caloric test report from this patient, de-identified: bithermal responses for each ear, butterfly chart, and analysis showing right unilateral weakness 50 percent and directional preponderance 26 percent to the left. Caption: 'Caloric testing.'",
-      "question": "Which side is affected, and which findings tell you?",
-      "options": [
-        {
-          "id": "A",
-          "text": "(A) Left, because the nystagmus beats to the left"
-        },
-        {
-          "id": "B",
-          "text": "(B) Cannot be determined without MRI"
-        },
-        {
-          "id": "C",
-          "text": "(C) Right: the nystagmus beats away from it, the head impulse is abnormal toward it, the caloric is weak on it, and the absent right oVEMP points to the superior vestibular nerve",
+          "text": "(C) Canal wall-up tympanomastoidectomy, accepting a higher residual and recurrence rate in exchange for a normal canal and a dry ear, with planned surveillance",
           "correct": true
         },
         {
           "id": "D",
-          "text": "(D) Both sides, because the caloric asymmetry is under 100 percent"
+          "text": "(D) Ossiculoplasty alone through the canal, without a mastoidectomy"
         }
       ],
-      "feedback": "Correct answer: C\n\nEvery finding points right, and each one for a reason worth knowing.\n\n• Nystagmus beats away from the weak side. The two labyrinths normally push the eyes in opposite directions and cancel. Lose the right, the intact left drives the eyes slowly rightward, and the fast corrective jerk, the phase we name, goes left. Left-beating means a right lesion.\n• Head impulse is abnormal toward the weak side. A rightward head turn tests the right lateral canal, and her catch-up saccade was on rightward turns.\n• Caloric is weak on the weak side. Warm and cool water in the right ear together produced 17 degrees per second of nystagmus; the left produced 51. That is a unilateral weakness of 50 percent in the right ear, where anything over about 25 percent is significant.\n• The directional preponderance points the same way. All four irrigations produced more left-beating than right-beating nystagmus, by 26 percent. That is her spontaneous left-beating nystagmus from Step 2 adding itself to every response. It is not a second lesion; it is the same one seen from another angle.\n• VEMPs localize within the nerve. The ocular VEMP tests the utricle and superior division; the cervical VEMP tests the saccule and inferior division. Her oVEMP is absent on the right, cVEMP normal.\n\nThat combination is superior vestibular neuritis, the commonest pattern: the superior division supplies the lateral and anterior canals and the utricle and runs through a longer, narrower bony channel, which is thought to be why it is hit more often.\n\nWhy the others fail:\n(A) The commonest error. The fast phase is the correction, not the lesion; it beats away from the damaged side.\n(B) The side is written across the whole examination and the laboratory. MRI has no role in localizing a peripheral lesion.\n(D) A unilateral weakness is an asymmetry between the two ears. Fifty percent is a clear one-sided deficit, and her left ear responded normally at 51 degrees per second. Bilateral loss would show low responses on both sides and little asymmetry.\n\nKeypoint: nystagmus beats away, head impulse fails toward, caloric is weak on the affected side; VEMPs tell you superior or inferior division.\n\nReference: Strupp M, Bisdorff A, Furman J, et al. Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res. 2022;32(5):389-406."
+      "feedback": "Correct answer: C\n\nCholesteatoma has one treatment: take it out. Drops control the infection around it; they do not remove keratinizing skin from the mastoid, and every month it stays it erodes more. The question is not whether to operate but how.\n\nThe choice is the posterior canal wall.\n\nCanal wall-up:\n• the bony ear canal is preserved, the mastoid is opened behind it, and the attic is reached through the mastoid and the canal,\n• the ear looks and works like a normal ear afterward: no cavity, no lifelong cleaning, no water restriction, easier hearing-aid use,\n• the cost is that residual disease can hide behind the intact wall and the pars flaccida can retract again, so recurrence is higher than after a canal wall-down procedure, and it must be watched.\n\nCanal wall-down:\n• the posterior canal wall is removed, making the mastoid and the canal one cavity that can be inspected in clinic,\n• lower recurrence, at the price of a cavity that needs cleaning for life and often runs.\n\nFor a 16-year-old with a pneumatized mastoid, limited disease and intact danger areas, canal wall-up is the standard choice. Canal wall-down is reserved for extensive disease, a sclerotic mastoid, a lateral canal fistula, an only-hearing ear, or a patient who will not come back for surveillance. The recurrence cost of canal wall-up is paid in Step 7.\n\nWhy the others fail:\n(A) Drops treat the discharge, not the disease. Three more months is three months of bone erosion.\n(B) Recurrence is one outcome among several. In a teenager a lifelong cavity is a real cost, and his anatomy does not require it.\n(D) The disease is in the mastoid. Reconstructing the hearing without removing the cholesteatoma behind it is rebuilding a house on a fire.\n\nKeypoint: cholesteatoma is removed, not treated; canal wall-up preserves a normal ear in a young patient at the price of surveillance.\n\nReference: Tomlin J, Chang D, McCutcheon B, Harris J. Surgical technique and recurrence in cholesteatoma: a meta-analysis. Audiol Neurootol. 2013;18(3):135-142. Yung M, Tono T, Olszewska E, et al. J Int Adv Otol. 2017;13(1):1-8."
     },
     {
-      "title": "Step 6/6: Now and Later",
-      "scenario": "Day four. She can sit up.\nStill nauseated when she turns her head.\nWalking, but with a hand on the wall.\n\nShe asks: \"What happens now? Will I get better?\"",
+      "title": "Step 6/7: Rebuilding the Hearing",
+      "scenario": "The mastoid and attic are clean. Now the middle ear.\n\n    Malleus     present, handle intact\n    Incus       long process eroded, chain interrupted\n    Stapes      present, superstructure intact, mobile\n    Drum        small attic perforation; the pars tensa needs a graft",
+      "media": "Load image: Intraoperative photograph from this patient, de-identified, unannotated: the stapes with the prosthesis in place. Caption: 'Reconstruction.'",
+      "question": "How do you reconstruct the chain and the drum?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) Total ossicular replacement prosthesis from the drum to the footplate"
+        },
+        {
+          "id": "B",
+          "text": "(B) Partial ossicular replacement prosthesis from the drum to the stapes head, capped with cartilage, and a cartilage-perichondrium graft for the drum",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "(C) Reposition the eroded incus between the malleus and the stapes"
+        },
+        {
+          "id": "D",
+          "text": "(D) Graft the drum with fascia alone and leave the chain for a later operation"
+        }
+      ],
+      "feedback": "Correct answer: B\n\nThe reconstruction is decided by what is left.\n\nThe stapes superstructure is present and mobile, so the sound has to get from the drum to the stapes head. That is a partial prosthesis: a PORP sits on the stapes head and reaches the drum. If the superstructure were gone and only the footplate remained, it would be a total prosthesis, a TORP, to the footplate. This is a modified type III tympanoplasty: drum onto stapes with something in between.\n\nTwo details make it last:\n• A cartilage cap between the prosthesis and the drum. A prosthesis touching the drum directly erodes through it and extrudes; a thin disc of cartilage between them stops that.\n• A cartilage-perichondrium composite graft for the drum rather than fascia alone. Cartilage resists retraction. The disease started as a retraction pocket, and a fascia graft in a poorly ventilated ear will retract again. Cartilage holds its shape.\n\nBoth cartilage pieces come from the conchal bowl through the same incision.\n\nWhy the others fail:\n(A) A TORP is for a missing superstructure. His stapes is intact and mobile; bypassing it wastes the best part of the chain and gives a less stable result.\n(C) An eroded incus that has been sitting in cholesteatoma is not reliable graft material: it may carry squamous epithelium, and its shape is already lost. Autologous incus interposition is for an intact incus removed for access, not for one the disease has eaten.\n(D) Staging the hearing to a second operation is reasonable when the mucosa is too diseased to expect a prosthesis to survive. His stapes is mobile and the mastoid is clean; there is no reason to send him home with a 46 dB gap.\n\nKeypoint: stapes present means PORP, footplate only means TORP; cap the prosthesis and graft the drum with cartilage, because the ear that retracted once will try to retract again.\n\nReference: Dornhoffer JL. Cartilage tympanoplasty: indications, techniques, and outcomes in a 1,000-patient series. Laryngoscope. 2003;113(11):1844-1856. Gulya AJ, Minor LB, Poe DS, eds. Glasscock-Shambaugh Surgery of the Ear. 6th ed. 2010."
+    },
+    {
+      "title": "Step 7/7: Watching It",
+      "scenario": "He goes home on the third day. The ear is dry at the first visit and the graft takes.\n\nHis mother asks whether it is finished.",
       "media": "",
-      "question": "What do you do now, and what do you plan for later?",
+      "question": "How do you follow a canal wall-up ear?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Supportive care for about a week: antiemetic and a vestibular suppressant for the first few days only, then off; get her up and moving; at review, assess whether she is compensating and start vestibular rehabilitation",
-          "correct": true
+          "text": "(A) Discharge at six months if the ear is dry; a dry ear means no disease"
         },
         {
           "id": "B",
-          "text": "(B) A course of oral steroid; rehabilitation is not needed because the nerve will recover on its own"
+          "text": "(B) High-resolution CT every year"
         },
         {
           "id": "C",
-          "text": "(C) Start vestibular rehabilitation today and give a vestibular suppressant to take as needed for the next month"
+          "text": "(C) A second-look operation only if discharge or hearing loss returns"
         },
         {
           "id": "D",
-          "text": "(D) Bed rest with regular vestibular suppressants until the vertigo has fully stopped"
+          "text": "(D) Otoscopy and audiometry at intervals, and non-echo-planar diffusion-weighted MRI at about a year, with a second-look operation if it shows restricted diffusion",
+          "correct": true
         }
       ],
-      "feedback": "Correct answer: A\n\nRecovery from vestibular neuritis is mostly not the nerve healing. It is the brain recalibrating to a permanently weaker signal from one side, which is central compensation, and compensation is driven by movement: every head turn that provokes a moment of vertigo shows the brain the mismatch it needs to correct. The plan has two phases.\n\nNow, for the first few days:\n• Control the nausea so she can eat and drink.\n• Give a vestibular suppressant (diphenidol or a benzodiazepine) for no more than about 3 days. These drugs damp the sensory mismatch, but that mismatch is the very signal the brain learns from, so beyond the acute phase they hold compensation back. After three days, stop, and use them only as an emergency rescue if needed, never on a regular schedule.\n• Get her out of bed as soon as she can stand.\n• Steroids are optional: a randomized trial found methylprednisolone improved caloric recovery at one year, but the clinical benefit is uncertain, so consider rather than require.\n\nLater, at the one-week review:\n• Assess compensation: fading spontaneous nystagmus, walking without support, tolerating head turns.\n• If she is compensating on her own, encourage activity and review again.\n• If she is not, or she is anxious and avoiding movement, refer for vestibular rehabilitation: a structured program of gaze-stabilization and balance exercises that shortens recovery and lowers the risk of chronic dizziness.\n\nWhy the others fail:\n(B) Steroids are at most an option and do nothing for compensation. Leaving out rehabilitation is what turns a two-week illness into a six-month one in patients who do not compensate on their own.\n(C) Rehabilitation on day four is fine, but a suppressant taken as needed for a month undoes it. Every dose past the acute phase delays compensation. Suppressants are for the first days, then stopped.\n(D) Two mistakes in one. Bed rest denies the brain the movement that drives compensation, and regular suppressants block the sensory mismatch the brain needs to learn from. Vestibular sedatives such as diphenidol work by damping that mismatch, which is exactly why they must not be given on a standing schedule: used for more than a few days they hold compensation back and prolong the dizziness. They are an acute-phase drug and, after that, a rescue drug only.\n\nKeypoint: suppressants for days not weeks, and never on a standing schedule; move early; at one week decide whether she is compensating and refer to rehabilitation if she is not.\n\nReference: Strupp M, Zingler VC, Arbusow V, et al. Methylprednisolone, valacyclovir, or the combination for vestibular neuritis. N Engl J Med. 2004;351(4):354-361. Hall CD, Herdman SJ, Whitney SL, et al. Vestibular rehabilitation for peripheral vestibular hypofunction: an updated clinical practice guideline. J Neurol Phys Ther. 2022;46(2):118-177. Strupp M, Bisdorff A, Furman J, et al. Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res. 2022;32(5):389-406."
+      "feedback": "Correct answer: D\n\nCanal wall-up surgery bought him a normal ear at a known price: disease can come back in two ways, and neither announces itself.\n• Residual disease is a fragment of matrix left behind, growing quietly in the closed mastoid or behind the prosthesis. It is silent until it is large.\n• Recurrent disease is a new retraction pocket of the pars flaccida, which the cartilage graft was placed to prevent but cannot guarantee.\n\nSo the follow-up has to look for something that gives no symptoms.\n• Otoscopy at each visit, looking at the attic for a new pocket.\n• Audiometry, because a rising air-bone gap can be a prosthesis problem or disease around it.\n• Non-echo-planar diffusion-weighted MRI at about 12 months, and again later. Cholesteatoma restricts diffusion; granulation, scar and fluid do not. In pooled studies the sequence detects residual disease down to a few millimeters with high sensitivity and specificity, and it has largely replaced the routine second-look operation that used to be done on every canal wall-up ear.\n• A second-look operation if the MRI is positive or equivocal, or if a pocket appears.\n\nWhy the others fail:\n(A) A dry ear is the goal of the operation, not proof of cure. Residual cholesteatoma in a closed mastoid does not discharge until it is big enough to erode something.\n(B) CT cannot tell residual cholesteatoma from scar, and a yearly CT of a teenager's head is radiation for no answer.\n(C) Waiting for symptoms means waiting for erosion. The point of surveillance is to find it before it costs him the hearing you just rebuilt.\n\nKeypoint: a canal wall-up ear is followed with the scope, the audiogram and diffusion MRI, because residual disease is silent; second look when the MRI says so.\n\nReference: Lingam RK, Bassett P. A meta-analysis on the diagnostic performance of non-echoplanar diffusion-weighted imaging in detecting middle ear cholesteatoma. Otol Neurotol. 2017;38(4):521-528. Yung M, Tono T, Olszewska E, et al. J Int Adv Otol. 2017;13(1):1-8."
     }
   ]
 }
