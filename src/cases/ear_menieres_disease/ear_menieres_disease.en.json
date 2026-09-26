@@ -14,7 +14,7 @@
   "steps": [
     {
       "title": "Step 1/6: How Long It Lasts",
-      "scenario": "A 62-year-old man comes to clinic with his wife.\n\n    Complaint       attacks of the room spinning\n    Each attack     two to four hours, with vomiting; then a day of unsteadiness\n    Frequency       two or three a month over the past year; none today\n    Between         normal, apart from the ear below\n    Left ear        roaring tinnitus most of the time; a blocked feeling that gets worse just before an attack; hearing that drops during attacks and partly comes back\n    Right ear       fine\n    Headache        none with the attacks; no light or sound sensitivity\n\nHe has been admitted twice in the past eight years for \"sudden hearing loss\" on the left, each time with vertigo, and treated with steroids. A CT of the brain in the emergency department after one attack was normal.",
+      "scenario": "A 62-year-old man, brought by his wife.\n\n    Complaint       attacks of the room spinning\n    Each attack     2 to 4 hours, with vomiting\n    Afterward       a day of unsteadiness, then normal\n    Frequency       2 or 3 a month, for a year\n    Today           no attack\n\nLeft ear\n    Tinnitus        roaring, most of the time\n    Fullness        builds just before an attack\n    Hearing         drops during attacks, partly comes back\n\nRight ear         fine\nHeadache          none with attacks; no light or sound sensitivity\n\nPast: admitted twice in 8 years for \"sudden hearing loss\" on the left, each time with vertigo, treated with steroids.\nAn emergency brain CT after one attack: normal.",
       "media": "",
       "question": "What does the time course tell you?",
       "options": [
@@ -40,7 +40,7 @@
     },
     {
       "title": "Step 2/6: The Audiogram",
-      "scenario": "Otoscopy: both drums normal. Tuning forks: Weber to the right, Rinne normal both sides.\n\nPure-tone audiogram, today, between attacks:\n\n    Left     250 Hz 55, 500 Hz 50, 1 kHz 45, 2 kHz 30, 4 kHz 25, 8 kHz 25 dB HL\n    Right    all frequencies 10 to 20 dB HL\n    Speech discrimination, left    72 percent",
+      "scenario": "Otoscopy          both drums normal\nWeber             to the right\nRinne             normal, both sides\n\nAudiogram today, between attacks:\n\n    Left     250 Hz 55 / 500 Hz 50 / 1 kHz 45 / 2 kHz 30 / 4 kHz 25 / 8 kHz 25 dB HL\n    Right    10 to 20 dB HL across\n    Speech discrimination, left    72 percent",
       "media": "Load image: Pure-tone audiogram from this patient, de-identified, unannotated. Caption: 'Audiogram, between attacks.'",
       "question": "What is the pattern, and why does it matter?",
       "options": [
@@ -66,9 +66,9 @@
     },
     {
       "title": "Step 3/6: Definite or Probable",
-      "scenario": "What you have:\n\n    Vertigo           recurrent spontaneous attacks, two to four hours each, many in the past year\n    Hearing           low- to mid-frequency sensorineural loss, left, documented today\n    Aural symptoms    tinnitus, fullness and hearing on the left that fluctuate with attacks\n    Other cause       no headache or migraine features; no neurological signs; drums normal",
-      "media": "",
-      "question": "By the Barany Society criteria, what is the diagnosis?",
+      "scenario": "What you have:\n\n    Vertigo           recurrent, spontaneous, 2 to 4 hours each, many in a year\n    Hearing           low- to mid-frequency sensorineural loss, left, documented today\n    Aural symptoms    left tinnitus, fullness and hearing that fluctuate with attacks\n    Other cause       no headache or migraine features; no neurological signs; drums normal\n\nThe Barany Society criteria are shown.",
+      "media": "Load image: Your own table of the Barany Society 2015 criteria, redrawn: Definite = two or more spontaneous vertigo episodes of 20 minutes to 12 hours; audiometrically documented low- to mid-frequency sensorineural loss in one ear on at least one occasion before, during or after an episode; fluctuating aural symptoms in that ear; not better explained. Probable = two or more episodes of 20 minutes to 24 hours; fluctuating aural symptoms; not better explained. No row highlighted. Caption: 'Barany Society criteria, 2015.'",
+      "question": "Using the criteria shown, what is the diagnosis?",
       "options": [
         {
           "id": "A",
@@ -92,7 +92,7 @@
     },
     {
       "title": "Step 4/6: The Test That Matters",
-      "scenario": "Definite Meniere's disease, left. He asks what other tests he needs. He mentions the brain CT in the emergency department was normal and asks whether that settles it.",
+      "scenario": "Definite Meniere's disease, left.\n\nHe asks what other tests he needs.\nHe mentions the emergency brain CT was normal and asks whether that settles it.",
       "media": "Load image: Axial T1 post-contrast MRI through the internal auditory canals from this patient, de-identified, unannotated. Caption: 'MRI, internal auditory canals.'",
       "question": "Which investigation do you order, and which do you not?",
       "options": [
@@ -118,7 +118,7 @@
     },
     {
       "title": "Step 5/6: What to Start",
-      "scenario": "MRI normal. Definite Meniere's disease, left. Two or three attacks a month.\n\nHe is on diphenidol every day, prescribed at his last emergency visit, because he is afraid of the next attack. He asks whether there is anything better.",
+      "scenario": "MRI normal. Definite Meniere's disease, left.\n\n    Attacks        2 or 3 a month\n    Current drug   diphenidol every day, since his last emergency visit; he is afraid of the next attack\n\nHe asks whether there is anything better.",
       "media": "",
       "question": "What do you start, and what do you stop?",
       "options": [
@@ -144,8 +144,8 @@
     },
     {
       "title": "Step 6/6: When the Attacks Keep Coming",
-      "scenario": "Six months later. He has kept to the diet, taken hydrochlorothiazide, stopped the daily diphenidol.\n\n    Attacks        still two a month, three to four hours each\n    Hearing, left  low-frequency loss, slightly worse; speech discrimination 68 percent\n    Hearing, right normal\n    Work           installs solar panels on roofs; has stopped climbing\n\nHe asks what comes next.",
-      "media": "",
+      "scenario": "Six months later.\n\n    Done           salt and caffeine restriction; hydrochlorothiazide; daily diphenidol stopped\n    Attacks        still 2 a month, 3 to 4 hours each\n    Hearing, left  low-frequency loss, slightly worse; discrimination 68 percent\n    Hearing, right normal\n    Work           installs solar panels on roofs; has stopped climbing\n\nHe asks what comes next.",
+      "media": "Load image: Endoscopic photograph from your own clinic, de-identified: intratympanic injection, needle through the posteroinferior quadrant of the drum. Caption: 'Intratympanic injection.'",
       "question": "What do you offer?",
       "options": [
         {
