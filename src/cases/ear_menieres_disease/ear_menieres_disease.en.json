@@ -1,148 +1,172 @@
 {
-  "id": "ear_menieres_disease",
-  "title": "The Waves of Vertigo: Meniere's Disease",
-  "subtitle": "Diagnosis, testing, and treatment decisions in Meniere's disease",
-  "description": "Diagnostic criteria, audiometric findings, electrophysiologic testing, exclusion imaging, and staged treatment for Meniere's disease.",
-  "estimatedTime": "20-30 min",
+  "id": "ear_menieres",
+  "title": "Hours, Not Seconds, Not Days",
+  "subtitle": "A man whose left ear keeps failing, from the third attack to the injection",
+  "description": "Sorting vertigo by how long it lasts, reading a low-frequency audiogram, counting the criteria, which test rules out the tumor, first-line management and what not to give daily, and what to offer when attacks keep coming.",
+  "estimatedTime": "15-20 min",
   "difficulty": "Intermediate",
   "tags": [
     "Otology",
-    "Meniere's disease",
     "Vertigo",
-    "Endolymphatic hydrops"
+    "Episodic vestibular syndrome",
+    "Audiometry"
   ],
   "steps": [
     {
-      "title": "Step 1/6: Diagnostic Criteria",
-      "scenario": "A 38-year-old woman visits the clinic after three severe episodes of spinning vertigo over the past 3 months. During each attack, she also has marked right-sided aural fullness and a low-pitched roaring tinnitus. During attacks she can only lie in bed and has severe nausea and vomiting.",
-      "media": "Load table: Table 63.1 Diagnostic criteria for Meniere's disease",
-      "question": "According to the 2015 diagnostic criteria, what duration of spontaneous vertigo attacks is required to diagnose definite Meniere's disease?",
+      "title": "Step 1/6: How Long It Lasts",
+      "scenario": "A 62-year-old man comes to clinic with his wife.\n\n    Complaint       attacks of the room spinning\n    Each attack     two to four hours, with vomiting; then a day of unsteadiness\n    Frequency       two or three a month over the past year; none today\n    Between         normal, apart from the ear below\n    Left ear        roaring tinnitus most of the time; a blocked feeling that gets worse just before an attack; hearing that drops during attacks and partly comes back\n    Right ear       fine\n    Headache        none with the attacks; no light or sound sensitivity\n\nHe has been admitted twice in the past eight years for \"sudden hearing loss\" on the left, each time with vertigo, and treated with steroids. A CT of the brain in the emergency department after one attack was normal.",
+      "media": "",
+      "question": "What does the time course tell you?",
       "options": [
         {
           "id": "A",
-          "text": "(A) At least 5 attacks, each lasting 5 minutes to 72 hours."
+          "text": "(A) Attacks lasting seconds with head position: benign paroxysmal positional vertigo"
         },
         {
           "id": "B",
-          "text": "(B) At least 2 spontaneous vertigo attacks, each lasting 20 minutes to 12 hours.",
-          "correct": true
+          "text": "(B) One attack lasting days: vestibular neuritis"
         },
         {
           "id": "C",
-          "text": "(C) Vertigo lasting more than 24 hours with severe headache."
+          "text": "(C) Recurrent attacks lasting hours, with hearing, tinnitus and fullness in one ear that change around the attacks: the pattern of Meniere's disease, which needs a documented hearing loss to confirm",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "(D) Attacks of any length with headache: vestibular migraine"
         }
       ],
-      "feedback": "Correct answer: B\n\nAttending tip: The diagnosis of Meniere's disease relies heavily on history. Definite Meniere's disease requires at least 2 spontaneous episodes of vertigo lasting 20 minutes to 12 hours, audiometrically documented low- to mid-frequency sensorineural hearing loss in the affected ear, and fluctuating aural symptoms such as tinnitus, hearing loss, or aural fullness.\n\nChoice A actually describes the attack-duration criterion for vestibular migraine."
+      "feedback": "Correct answer: C\n\nDuration sorts vertigo before anything else does.\n• Seconds, brought on by turning over or looking up: BPPV.\n• Minutes to hours, recurrent, with a normal ear between attacks and often a headache: vestibular migraine.\n• Hours, recurrent, with hearing loss, tinnitus and fullness in one ear that fluctuate with the attacks: Meniere's disease.\n• Days, a single continuous episode, hearing normal: vestibular neuritis.\n\nHis attacks last hours and come back, and his left ear tells the rest of the story: a roaring tinnitus, fullness that builds before an attack, hearing that drops and partly recovers. That is endolymphatic hydrops behaving as it does, and it is the clinical picture of Meniere's disease. What it is not yet is a diagnosis, because the criteria require the hearing loss to be documented on an audiogram, not just described.\n\nThe two admissions for sudden hearing loss are worth a second look. Sudden sensorineural loss with vertigo and roaring tinnitus that partly recovers, and then happens again in the same ear, is how Meniere's disease often first presents. Each admission treated an attack; nobody yet connected the attacks.\n\nWhy the others fail:\n(A) BPPV lasts seconds to a minute and is positional. Hours of spinning with vomiting is not a canal problem.\n(B) Vestibular neuritis is one attack lasting days, and it does not come back three times a month. His are recurrent and shorter.\n(D) Vestibular migraine is the main alternative and must be asked about, but he has no headache, no photophobia or phonophobia with attacks, and migraine does not produce a fluctuating hearing loss in one ear.\n\nKeypoint: hours, recurrent, one ear with fluctuating hearing, tinnitus and fullness: suspect Meniere's disease, and the next step is the audiogram that will confirm or refute it.\n\nReference: Lopez-Escamez JA, Carey J, Chung WH, et al. Diagnostic criteria for Meniere's disease. J Vestib Res. 2015;25(1):1-7. Basura GJ, Adams ME, Monfared A, et al. Clinical practice guideline: Meniere's disease. Otolaryngol Head Neck Surg. 2020;162(2_suppl):S1-S55. doi:10.1177/0194599820909438."
     },
     {
-      "title": "Step 2/6: Audiometry and Pathophysiology",
-      "scenario": "After the vertigo attack, you arrange pure-tone audiometry. The audiogram shows the typical pattern of right low-tone sensorineural hearing loss.",
-      "media": "Load image: Early upward-sloping audiogram in Meniere's disease",
-      "question": "The symptoms of Meniere's disease, including vertigo, low-frequency hearing loss, and aural fullness, are mainly thought to be related to which histopathologic inner-ear phenomenon?",
+      "title": "Step 2/6: The Audiogram",
+      "scenario": "Otoscopy: both drums normal. Tuning forks: Weber to the right, Rinne normal both sides.\n\nPure-tone audiogram, today, between attacks:\n\n    Left     250 Hz 55, 500 Hz 50, 1 kHz 45, 2 kHz 30, 4 kHz 25, 8 kHz 25 dB HL\n    Right    all frequencies 10 to 20 dB HL\n    Speech discrimination, left    72 percent",
+      "media": "Load image: Pure-tone audiogram from this patient, de-identified, unannotated. Caption: 'Audiogram, between attacks.'",
+      "question": "What is the pattern, and why does it matter?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Canalithiasis"
+          "text": "(A) A rising, low-frequency sensorineural loss on the left, worst at 250 to 1000 Hz: the audiometric signature of endolymphatic hydrops, and the criterion that defines the affected ear",
+          "correct": true
         },
         {
           "id": "B",
-          "text": "(B) Microvascular ischemia of the auditory nerve"
+          "text": "(B) A high-frequency loss on the left: noise damage from his work"
         },
         {
           "id": "C",
-          "text": "(C) Endolymphatic hydrops",
-          "correct": true
+          "text": "(C) A flat loss on the left: the residue of his two sudden hearing losses, unrelated to the vertigo"
+        },
+        {
+          "id": "D",
+          "text": "(D) A conductive loss on the left, from fluid behind the drum"
         }
       ],
-      "feedback": "Correct answer: C\n\nPathophysiology: Spontaneous endolymphatic hydrops is considered the core histopathologic feature of Meniere's disease. Although endolymphatic hydrops is not unique to Meniere's disease, abnormal expansion and pressure changes in the membranous labyrinth explain fluctuating hearing loss and aural fullness very well."
+      "feedback": "Correct answer: A\n\nMost sensorineural losses slope downward: high frequencies go first, in age, in noise, in most ototoxicity. Meniere's disease does the opposite. The hydrops distorts the cochlear apex first, where the low frequencies are coded, so the early audiogram rises: worst at 250 to 1000 Hz, better toward 4000 and 8000. As the disease goes on the loss flattens and spreads, but in the first years the rising shape is the clue.\n\nThe Barany criteria make this the deciding criterion. Definite Meniere's disease requires a low- to mid-frequency sensorineural loss in one ear, documented on audiometry on at least one occasion, before, during or after an attack. His left ear, 55 dB at 250 Hz rising to 25 dB at 4 kHz, with a normal right ear, is that. The audiogram does two things: it confirms the diagnosis, and it names the ear.\n\nThe tuning forks agree: Weber to the right, the better cochlea, and Rinne normal on both sides. Sensorineural, left.\n\nWhy the others fail:\n(B) Noise and age damage the high frequencies first. His high frequencies are the best part of his left ear. This is the reverse of a noise notch.\n(C) The loss is not flat; it rises. And the two sudden losses were not unrelated to the vertigo: they were attacks of the same disease, and the residual low-frequency loss is what they left behind.\n(D) Rinne is normal, the drum is normal, and Weber went to the other ear. Nothing here is conductive.\n\nKeypoint: a rising, low-frequency sensorineural loss in one ear with episodic vertigo is Meniere's disease on paper; the audiogram both confirms it and says which ear.\n\nReference: Lopez-Escamez JA, Carey J, Chung WH, et al. J Vestib Res. 2015;25(1):1-7. Basura GJ, Adams ME, Monfared A, et al. Otolaryngol Head Neck Surg. 2020;162(2_suppl):S1-S55, Key Action Statement 3."
     },
     {
-      "title": "Step 3/6: Electrocochleography (ECoG)",
-      "scenario": "To look for electrophysiologic evidence of endolymphatic hydrops, you arrange electrocochleography (ECoG).",
-      "media": "Load image: Figure 63.2 Electrocochleogram showing an abnormally elevated SP wave",
-      "question": "When reviewing ECoG in a patient with suspected Meniere's disease, which abnormally elevated value is a typical feature of endolymphatic hydrops?",
+      "title": "Step 3/6: Definite or Probable",
+      "scenario": "What you have:\n\n    Vertigo           recurrent spontaneous attacks, two to four hours each, many in the past year\n    Hearing           low- to mid-frequency sensorineural loss, left, documented today\n    Aural symptoms    tinnitus, fullness and hearing on the left that fluctuate with attacks\n    Other cause       no headache or migraine features; no neurological signs; drums normal",
+      "media": "",
+      "question": "By the Barany Society criteria, what is the diagnosis?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Prolonged ABR wave I latency"
+          "text": "(A) Probable Meniere's disease, because the hearing loss was documented between attacks rather than during one"
         },
         {
           "id": "B",
-          "text": "(B) Elevated summating potential/action potential ratio (SP/AP ratio)",
-          "correct": true
+          "text": "(B) Probable Meniere's disease, because an MRI has not yet excluded other causes"
         },
         {
           "id": "C",
-          "text": "(C) Abnormally increased cVEMP amplitude"
+          "text": "(C) Meniere's disease cannot be diagnosed without electrocochleography"
+        },
+        {
+          "id": "D",
+          "text": "(D) Definite Meniere's disease: two or more attacks of 20 minutes to 12 hours, audiometrically documented low- to mid-frequency loss in the affected ear, fluctuating aural symptoms in that ear, and no better explanation",
+          "correct": true
         }
       ],
-      "feedback": "Correct answer: B\n\nTest interpretation: ECoG can demonstrate the electrophysiologic basis of endolymphatic hydrops. In Meniere's disease, basilar membrane displacement increases the summating potential. Clinically, click stimulation is often used; an extratympanic SP/AP ratio greater than 0.42 or a transtympanic SP/AP ratio greater than 0.35 strongly suggests endolymphatic hydrops."
+      "feedback": "Correct answer: D\n\nThe Barany Society criteria have two tiers, and the difference is the audiogram.\n\nDefinite Meniere's disease, all four:\n1. Two or more spontaneous episodes of vertigo, each lasting 20 minutes to 12 hours.\n2. Audiometrically documented low- to mid-frequency sensorineural hearing loss in one ear, defining the affected ear, on at least one occasion before, during or after an episode.\n3. Fluctuating aural symptoms in the affected ear: hearing, tinnitus or fullness.\n4. Not better accounted for by another vestibular diagnosis.\n\nProbable Meniere's disease: two or more episodes of 20 minutes to 24 hours, fluctuating aural symptoms in the affected ear, and no better explanation. No documented hearing loss required.\n\nHe meets all four for definite. The audiogram does not have to be taken during an attack; the criterion says before, during or after, on at least one occasion, and today's is enough. The fourth criterion is the one that asks you to think: the alternative that mimics this best is vestibular migraine, which is why the headache questions in Step 1 mattered, and the structural cause that must be excluded is a tumor on the nerve, which is Step 4.\n\nWhy the others fail:\n(A) The criterion accepts an audiogram before, during or after an episode. Between attacks counts. A hearing loss that persists between attacks is, if anything, stronger evidence.\n(B) The criteria are clinical. MRI is done to exclude a schwannoma, and it is the next step, but its absence does not downgrade a diagnosis that meets all four criteria.\n(C) Electrocochleography is not part of the criteria and the guideline says not to use it to establish the diagnosis. It has a research role and is inconsistent in practice.\n\nKeypoint: two attacks of 20 minutes to 12 hours, a documented low-frequency loss naming the ear, fluctuating aural symptoms, nothing else to explain it: definite.\n\nReference: Lopez-Escamez JA, Carey J, Chung WH, et al. Diagnostic criteria for Meniere's disease. J Vestib Res. 2015;25(1):1-7. Basura GJ, Adams ME, Monfared A, et al. Otolaryngol Head Neck Surg. 2020;162(2_suppl):S1-S55, Key Action Statements 1, 2 and 5."
     },
     {
-      "title": "Step 4/6: Exclusion by MRI",
-      "scenario": "Although the clinical symptoms and audiogram fit Meniere's disease very well, your attending reminds you during rounds: \"Before diagnosing definite Meniere's disease, other causes must be excluded.\"",
-      "media": "Load image: MRI showing a cerebellopontine angle tumor",
-      "question": "To exclude secondary lesions that can cause similar symptoms, such as neurovascular compression or posterior fossa tumors, which imaging study is the most sensitive and necessary?",
+      "title": "Step 4/6: The Test That Matters",
+      "scenario": "Definite Meniere's disease, left. He asks what other tests he needs. He mentions the brain CT in the emergency department was normal and asks whether that settles it.",
+      "media": "Load image: Axial T1 post-contrast MRI through the internal auditory canals from this patient, de-identified, unannotated. Caption: 'MRI, internal auditory canals.'",
+      "question": "Which investigation do you order, and which do you not?",
       "options": [
         {
           "id": "A",
-          "text": "(A) MRI of the cerebellopontine angle with contrast enhancement",
-          "correct": true
+          "text": "(A) Caloric testing and electrocochleography, to confirm the hydrops objectively"
         },
         {
           "id": "B",
-          "text": "(B) High-resolution CT of the temporal bone"
+          "text": "(B) MRI of the internal auditory canals and posterior fossa with gadolinium, to exclude a vestibular schwannoma behind an asymmetric sensorineural loss; no routine vestibular testing, no repeat CT",
+          "correct": true
         },
         {
           "id": "C",
-          "text": "(C) Carotid Doppler ultrasound"
+          "text": "(C) Nothing; the normal CT already excluded a tumor"
+        },
+        {
+          "id": "D",
+          "text": "(D) CT of the temporal bones with contrast"
         }
       ],
-      "feedback": "Correct answer: A\n\nDiagnostic pitfall: Meniere's disease is a diagnosis of exclusion. Contrast-enhanced MRI is the most sensitive imaging method for excluding inner-ear malformations, neurovascular conflict of the eighth cranial nerve, and cerebellopontine angle tumors, especially vestibular schwannoma. Only after excluding these potential lesions can the diagnosis be established."
+      "feedback": "Correct answer: B\n\nOne investigation changes management, and it is the one that looks for the thing Meniere's disease can hide.\n\nMRI. A vestibular schwannoma presents with an asymmetric sensorineural loss, tinnitus, and sometimes episodic vertigo. It can mimic Meniere's disease for years. The guideline says to offer MRI of the internal auditory canals and posterior fossa, with gadolinium, to any patient with an asymmetric sensorineural loss, and he has one. The scan does not confirm Meniere's disease; it clears the differential that matters. His was normal, which is what most are.\n\nWhat not to order routinely:\n• Vestibular function tests. Calorics, video head impulse and VEMPs describe how much function the left ear has lost. That is useful later, when deciding on an ablative treatment or when the diagnosis is in doubt, but the guideline says not to use them to make the diagnosis.\n• Electrocochleography. An elevated summating-to-action-potential ratio suggests hydrops, but the test is inconsistent and the guideline says not to use it to establish the diagnosis.\n• CT. It does not show the nerve or the labyrinth's contents. The emergency department CT was the right test for a stroke question at 2 a.m.; it is the wrong test for this question and does not need repeating.\n\nWhy the others fail:\n(A) Neither test is part of the diagnostic criteria, and the guideline recommends against ordering either routinely to make the diagnosis. They do not exclude a tumor.\n(C) A normal brain CT does not exclude a schwannoma in the internal auditory canal. Small ones are invisible on CT.\n(D) Temporal bone CT shows bone. The lesion you are excluding is soft tissue in the canal and the cerebellopontine angle, and MRI is the test.\n\nKeypoint: asymmetric sensorineural loss gets an MRI of the internal auditory canals; vestibular testing and ECochG are not how the diagnosis is made, and a normal CT excludes nothing.\n\nReference: Basura GJ, Adams ME, Monfared A, et al. Clinical practice guideline: Meniere's disease. Otolaryngol Head Neck Surg. 2020;162(2_suppl):S1-S55, Key Action Statements 4, 5 and 6."
     },
     {
-      "title": "Step 5/6: First-Line Management",
-      "scenario": "After confirming the diagnosis, you prepare a prescription and outpatient counseling to prevent future recurrent vertigo attacks.",
-      "media": "Load image: Low-salt diet and betahistine medication illustration",
-      "question": "According to current treatment guidance, which first-line routine treatment should be included to prevent recurrence in patients with Meniere's disease?",
+      "title": "Step 5/6: What to Start",
+      "scenario": "MRI normal. Definite Meniere's disease, left. Two or three attacks a month.\n\nHe is on diphenidol every day, prescribed at his last emergency visit, because he is afraid of the next attack. He asks whether there is anything better.",
+      "media": "",
+      "question": "What do you start, and what do you stop?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Encourage large amounts of coffee for diuresis and routinely prescribe high-dose steroids."
+          "text": "(A) Continue daily diphenidol and add a daily benzodiazepine"
         },
         {
           "id": "B",
-          "text": "(B) Strict salt restriction and caffeine avoidance, with possible diuretics and betahistine 16 mg three times daily.",
-          "correct": true
+          "text": "(B) A course of oral corticosteroid with each attack, as for sudden hearing loss"
         },
         {
           "id": "C",
-          "text": "(C) Immediately schedule vestibular nerve section."
+          "text": "(C) Education and lifestyle: salt and caffeine restriction, sleep, stress; a trial of a diuretic or betahistine for prevention; a vestibular suppressant and antiemetic kept for attacks only, and the daily diphenidol stopped",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "(D) Intratympanic gentamicin now, to stop the attacks for good"
         }
       ],
-      "feedback": "Correct answer: B\n\nTreatment consensus: First-line preventive treatment includes counseling for a low-salt and caffeine-free diet. Medically, diuretics such as hydrochlorothiazide may reduce endolymphatic hydrops, and betahistine, a histamine analog commonly dosed at 16 mg three times daily, is often used to prevent recurrent vertigo."
+      "feedback": "Correct answer: C\n\nMeniere's disease is managed in tiers, and the first tier is not a drug.\n\nEducation. What the disease is, that it comes in attacks and remissions, that most people are controlled without invasive treatment, and that the hearing in the affected ear will probably decline over years regardless. The guideline lists this as a recommendation, not an option.\n\nLifestyle. Sodium restriction, less caffeine and alcohol, regular sleep, attention to stress. The evidence is weak but the cost is nothing, and some patients find their triggers.\n\nPrevention, as an option. A diuretic such as hydrochlorothiazide, or betahistine. The evidence for both is thin and the guideline grades them as options, not recommendations. A trial for a few months is reasonable; if attacks do not fall, stop.\n\nRescue, for the attack itself. A vestibular suppressant such as diphenidol or a benzodiazepine, with an antiemetic, taken when an attack starts and stopped when it ends. This is the correction that matters most today: suppressants taken every day do not prevent attacks, they sedate him between them, and in a disease where the brain needs to compensate for a fluctuating ear they delay that compensation. The guideline says they are for acute attacks only.\n\nVestibular rehabilitation is for the chronic imbalance some patients develop between attacks, not for the attacks themselves.\n\nWhy the others fail:\n(A) Daily suppressants sedate without preventing and hold back compensation. Adding a second one compounds it.\n(B) Oral steroids are for a sudden sensorineural loss. Once the diagnosis is Meniere's disease, a steroid course with each of thirty attacks a year is harm without evidence.\n(D) Gentamicin destroys the vestibular function of the ear and carries a real risk to its hearing. It is for attacks that have failed non-ablative treatment, not for a patient who has not yet had any.\n\nKeypoint: educate, restrict salt and caffeine, try a diuretic or betahistine, keep the suppressant for attacks and stop it between them.\n\nReference: Basura GJ, Adams ME, Monfared A, et al. Clinical practice guideline: Meniere's disease. Otolaryngol Head Neck Surg. 2020;162(2_suppl):S1-S55, Key Action Statements 7, 8 and 13."
     },
     {
-      "title": "Step 6/6: End-Stage Disease and Tumarkin Crisis",
-      "scenario": "Two years later, the patient's right-sided hearing has deteriorated severely to more than 70 dB. More concerningly, she has had several drop attacks in which she suddenly feels pushed to the ground without losing consciousness. She is diagnosed with dangerous Tumarkin crisis. Conventional medication and dietary control have completely failed.",
-      "media": "Load image: Intratympanic injection illustration",
-      "question": "For refractory or end-stage Meniere's disease with very poor hearing and dangerous Tumarkin crises, which intratympanic treatment is strongly recommended because it stops vertigo by ablating vestibular function?",
+      "title": "Step 6/6: When the Attacks Keep Coming",
+      "scenario": "Six months later. He has kept to the diet, taken hydrochlorothiazide, stopped the daily diphenidol.\n\n    Attacks        still two a month, three to four hours each\n    Hearing, left  low-frequency loss, slightly worse; speech discrimination 68 percent\n    Hearing, right normal\n    Work           installs solar panels on roofs; has stopped climbing\n\nHe asks what comes next.",
+      "media": "",
+      "question": "What do you offer?",
       "options": [
         {
           "id": "A",
-          "text": "(A) Intratympanic dexamethasone"
-        },
-        {
-          "id": "B",
-          "text": "(B) Intratympanic gentamicin",
+          "text": "(A) Intratympanic corticosteroid, a non-ablative step that reduces attack frequency in many patients without risking the hearing; gentamicin held in reserve if it fails",
           "correct": true
         },
         {
+          "id": "B",
+          "text": "(B) Intratympanic gentamicin as the first injection, since it is more effective"
+        },
+        {
           "id": "C",
-          "text": "(C) Intratympanic hyaluronic acid"
+          "text": "(C) Double the diuretic and review in another six months"
+        },
+        {
+          "id": "D",
+          "text": "(D) Positive pressure therapy through a ventilation tube"
         }
       ],
-      "feedback": "Correct answer: B\n\nAdvanced management: Intratympanic dexamethasone is a rescue option when hearing preservation is desired. However, in end-stage disease with lost hearing or extremely dangerous Tumarkin drop attacks, intratympanic gentamicin uses aminoglycoside ototoxicity to ablate vestibular function and can be very effective. Patients must be warned about the risk of complete hearing loss."
+      "feedback": "Correct answer: A\n\nHe has failed the first tier, and the failure matters more than usual because he works on roofs. The guideline's next tier is intratympanic, and it is ordered by what each drug costs the ear.\n\nIntratympanic corticosteroid. Dexamethasone or methylprednisolone injected through the drum, absorbed across the round window. It can be repeated, and it does not damage hearing or vestibular function. Its benefit should be described honestly: attack frequency falls in many patients, but the effect is modest and the trials are small, and the placebo arms of the injection trials in this disease improve too, which is a reminder that Meniere's disease remits on its own. In the one double-blind head-to-head trial, methylprednisolone and gentamicin gave similar vertigo control at two years, with no hearing cost from the steroid. It is the non-ablative option, and the guideline says it may be offered to patients whose attacks are not controlled by non-invasive treatment. That is him.\n\nIntratympanic gentamicin. A vestibulotoxic aminoglycoside that ablates the vestibular function of the injected ear. Vertigo control is high, around nine in ten, but the drug also reaches the cochlea: pooled estimates put some hearing reduction in roughly a quarter of patients and a profound loss in a few percent, depending on the dosing protocol. The guideline says to offer it to patients who have failed non-ablative therapy. His hearing on the left is damaged but still useful, with 68 percent discrimination, and that is worth protecting for as long as possible. Gentamicin is the step after steroid fails, not instead of it.\n\nBeyond that lie the surgical options, from endolymphatic sac procedures to labyrinthectomy, each with its own place, and each for a patient who has been through the steps above.\n\nWhy the others fail:\n(B) More effective at stopping vertigo, at the price of the ear's balance function and a real risk to its hearing. Ablation is for the patient who has failed the non-ablative injection, and he has not had it yet.\n(C) The diuretic evidence is weak at the standard dose; a higher dose adds electrolyte risk, not efficacy, and six more months on a roof with two attacks a month is not acceptable.\n(D) The guideline recommends against positive pressure therapy. The trials did not show benefit over placebo.\n\nKeypoint: attacks that survive diet and a diuretic go to intratympanic steroid first, because it does not cost the ear anything; gentamicin is the ablative step for when that fails.\n\nReference: Basura GJ, Adams ME, Monfared A, et al. Clinical practice guideline: Meniere's disease. Otolaryngol Head Neck Surg. 2020;162(2_suppl):S1-S55, Key Action Statements 9, 10 and 11. Patel M, Agarwal K, Arshad Q, et al. Intratympanic methylprednisolone versus gentamicin in patients with unilateral Meniere's disease: a randomised, double-blind, comparative effectiveness trial. Lancet. 2016;388(10061):2753-2762. Webster KE, Lee A, Galbraith K, et al. Intratympanic corticosteroids for Meniere's disease. Cochrane Database Syst Rev. 2023. Complete citation."
     }
   ]
 }
