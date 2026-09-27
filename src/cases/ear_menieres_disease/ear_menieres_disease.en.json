@@ -14,7 +14,7 @@
   "steps": [
     {
       "title": "Step 1/7: How Long It Lasts",
-      "scenario": "A 62-year-old man, brought by his wife.\n\n    Complaint       attacks of the room spinning\n    Each attack     2 to 4 hours, with vomiting\n    Afterward       a day of unsteadiness, then normal\n    Frequency       2 or 3 a month, for a year\n    Today           no attack\n\nLeft ear\n    Tinnitus        roaring, most of the time\n    Fullness        builds just before an attack\n    Hearing         drops during attacks, partly comes back\n\nRight ear         fine\nHeadache          none with attacks; no light or sound sensitivity\n\nPast: admitted twice in 8 years for \"sudden hearing loss\" on the left, each time with vertigo, treated with steroids.\nAn emergency brain CT after one attack: normal.",
+      "scenario": "A 62-year-old man, brought by his wife.\n\n    Complaint       attacks of the room spinning\n    Each attack     2 to 4 hours, with vomiting\n    Afterward       a day of unsteadiness, then normal\n    Frequency       2 or 3 a month, for a year\n    Today           no attack\n\nLeft ear\n    Tinnitus        roaring, most of the time\n    Fullness        builds just before an attack\n    Hearing         drops during attacks, partly comes back\n\nRight ear         fine\nHeadache          none with attacks; no light or sound sensitivity\n\nPast\n    Admitted twice     for \"sudden hearing loss\", left, each time with vertigo; steroids given\n    Emergency CT       brain, after one attack: normal",
       "media": "",
       "question": "What does the time course tell you?",
       "options": [
@@ -66,7 +66,7 @@
     },
     {
       "title": "Step 3/7: The Old Chart",
-      "scenario": "Before he leaves, you pull the record from his last admission for \"sudden hearing loss\". The audiogram was done on the day of the attack:\n\n    Left     250 Hz 70 / 500 Hz 65 / 1 kHz 55 / 2 kHz 35 / 4 kHz 25 / 8 kHz 25 dB HL\n    Right    10 to 20 dB HL across\n\nToday, between attacks:\n\n    Left     250 Hz 55 / 500 Hz 50 / 1 kHz 45 / 2 kHz 30 / 4 kHz 25 / 8 kHz 25 dB HL",
+      "scenario": "Before he leaves, you pull the record from his last admission for \"sudden hearing loss\".\nThat audiogram was done on the day of the attack.\n\nDuring the attack, left\n    250 Hz 70 / 500 Hz 65 / 1 kHz 55 / 2 kHz 35 / 4 kHz 25 / 8 kHz 25 dB HL\n\nToday, between attacks, left\n    250 Hz 55 / 500 Hz 50 / 1 kHz 45 / 2 kHz 30 / 4 kHz 25 / 8 kHz 25 dB HL\n\nRight ear    10 to 20 dB HL across, both times",
       "media": "Load image: The two audiograms from this patient side by side, from the admission on the day of an attack and today between attacks, de-identified, unannotated. Caption: 'Audiograms, during and between attacks.'",
       "question": "What does the old audiogram add?",
       "options": [
@@ -92,7 +92,7 @@
     },
     {
       "title": "Step 4/7: What Else Looks Like This",
-      "scenario": "Recurrent vertigo lasting hours. One ear with a fluctuating low-frequency loss, tinnitus and fullness.\n\nBefore you name anything, you go through the conditions that can look like this.\n\n    Headache          none with attacks; no photophobia or phonophobia; no personal or family migraine history\n    Loud sound        does not provoke vertigo\n    Straining         does not provoke vertigo; no autophony\n    Neurology         no diplopia, dysarthria, weakness or ataxia; gait normal between attacks\n    Other ear         normal; no rapid bilateral change\n    Systemic          no rash, joint or eye disease; no recent barotrauma or head injury",
+      "scenario": "Recurrent vertigo lasting hours.\nOne ear: fluctuating low-frequency loss, tinnitus, fullness.\n\nBefore naming anything, you go through what else can look like this.\n\n    Headache          none with attacks; no photophobia or phonophobia; no migraine history\n    Loud sound        does not provoke vertigo\n    Straining         does not provoke vertigo; no autophony\n    Neurology         no diplopia, dysarthria, weakness or ataxia; gait normal between attacks\n    Other ear         normal; no rapid bilateral change\n    Systemic          no rash, joint or eye disease; no barotrauma or head injury",
       "media": "",
       "question": "Which conditions must you consider, and what would it take to address each?",
       "options": [
@@ -118,7 +118,7 @@
     },
     {
       "title": "Step 5/7: The Scan",
-      "scenario": "The one alternative that history cannot address: a lesion on the nerve behind an asymmetric sensorineural loss.\n\nHe mentions the emergency brain CT was normal and asks whether that settles it.",
+      "scenario": "One alternative that history cannot address:\na lesion on the nerve, behind an asymmetric sensorineural loss.\n\nHe mentions the emergency brain CT was normal.\nHe asks whether that settles it.",
       "media": "Load image: Axial T1 post-contrast MRI through the internal auditory canals from this patient, de-identified, unannotated. Caption: 'MRI, internal auditory canals.'",
       "question": "Which investigation do you order, and which do you not?",
       "options": [
@@ -144,7 +144,7 @@
     },
     {
       "title": "Step 6/7: Definite or Probable",
-      "scenario": "What you have:\n\n    Vertigo           recurrent, spontaneous, 2 to 4 hours each, many in a year\n    Hearing           low- to mid-frequency sensorineural loss, left, on two audiograms, worse during an attack\n    Aural symptoms    left tinnitus, fullness and hearing that fluctuate with attacks\n    Alternatives      migraine, dehiscence, central, autoimmune and fistula closed on history; MRI of the internal auditory canals normal\n\nThe Barany Society criteria are shown.",
+      "scenario": "What you have:\n\n    Vertigo           recurrent, spontaneous, 2 to 4 hours each, many in a year\n    Hearing           low-frequency sensorineural loss, left, on two audiograms; worse during an attack\n    Aural symptoms    left tinnitus, fullness and hearing fluctuate with attacks\n    Alternatives      mimics addressed on history; MRI of the internal auditory canals normal\n\nThe Barany Society criteria are shown.",
       "media": "Load image: Your own table of the Barany Society 2015 criteria, redrawn: Definite = two or more spontaneous vertigo episodes of 20 minutes to 12 hours; audiometrically documented low- to mid-frequency sensorineural loss in one ear on at least one occasion before, during or after an episode; fluctuating aural symptoms in that ear; not better explained. Probable = two or more episodes of 20 minutes to 24 hours; fluctuating aural symptoms; not better explained. No row highlighted. Caption: 'Barany Society criteria, 2015.'",
       "question": "Using the criteria shown, what is the diagnosis?",
       "options": [
@@ -170,7 +170,7 @@
     },
     {
       "title": "Step 7/7: What to Start",
-      "scenario": "MRI normal. Definite Meniere's disease, left.\n\n    Attacks        2 or 3 a month\n    Current drug   diphenidol every day, since his last emergency visit; he is afraid of the next attack\n\nHe asks whether there is anything better.",
+      "scenario": "MRI normal.\n\n    Attacks        2 or 3 a month\n    Current drug   diphenidol every day, since the last emergency visit\n    Why            he is afraid of the next attack\n\nHe asks whether there is anything better.",
       "media": "",
       "question": "What do you start, and what do you stop?",
       "options": [
