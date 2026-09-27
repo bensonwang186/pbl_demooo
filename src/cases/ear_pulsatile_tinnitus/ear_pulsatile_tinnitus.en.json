@@ -1,6 +1,6 @@
 {
   "id": "ear_pulsatile_tinnitus",
-  "title": "In Time With Her Heart",
+  "title": "A Heartbeat in Your Ear",
   "subtitle": "A woman who hears her pulse in one ear, from the first question to the scan that explains it",
   "description": "Telling pulsatile from non-pulsatile tinnitus, the bedside maneuvers that split venous from arterial, choosing the scan, reading a venous sinus wall on CT, excluding raised intracranial pressure, and what can be offered.",
   "estimatedTime": "15-20 min",
@@ -15,7 +15,7 @@
     {
       "title": "Step 1/6: What Kind of Noise",
       "scenario": "A 37-year-old woman comes to clinic.\n\n    Complaint       a sound in the left ear\n    Character       a whooshing that beats with her pulse; she can count her heart rate from it\n    Duration        3 to 4 years, slowly louder\n    Side            left only\n    Worse           lying on the left; quiet rooms at night\n    Better           no position makes it stop\n    Left ear        fullness, some aching\n    Hearing         she thinks it is normal\n    Headache        yes, frequent; sensitive to sound when it is bad\n    Weight          BMI 31\n    Medications     none",
-      "media": "",
+      "media": "Load audio: pulsatile_tinnitus_72bpm.mp3 (or .wav), a 6-second synthesized pulse-synchronous whoosh at 72 beats per minute; low-pass filtered noise with a systolic envelope. Autoplay off; play button with the caption. Caption: 'What she hears. Count the beats.'",
       "question": "What kind of tinnitus is this, and what does that change?",
       "options": [
         {
@@ -41,7 +41,7 @@
     {
       "title": "Step 2/6: At the Bedside",
       "scenario": "You examine her.\n\n    Otoscopy            both drums normal; no mass behind either\n    Tuning forks        Weber midline; Rinne normal both sides\n    Auscultation        no bruit over the ear, mastoid, neck or orbit\n    Jaw                 tender masseters both sides, limited opening\n    Blood pressure      124/78\n\nYou press gently on the left side of her neck over the internal jugular vein.\n\n    She says            the sound stops\n\nYou release, and turn her head to the right.\n\n    She says            it is louder",
-      "media": "",
+      "media": "Load image: Photograph of the jugular compression maneuver taken on a colleague, examiner's fingers over the left internal jugular vein, patient seated, unannotated. Caption: 'Jugular compression.'",
       "question": "What do the maneuvers tell you?",
       "options": [
         {
@@ -93,7 +93,7 @@
     {
       "title": "Step 4/6: Reading the CT",
       "scenario": "Temporal bone CT, left:\n\n    Sigmoid sinus plate    intact along the mastoid segment\n    Jugular bulb           normal position, covered\n    Semicircular canals    intact\n    Middle ear             clear; no mass\n    Transverse-sigmoid     focal thinning and a gap in the inner cortex at the junction,\n    junction               with a rounded venous outpouching through the defect toward the temporal squama\n\nRight side: normal throughout.",
-      "media": "Load image: Axial and coronal temporal bone CT from this patient, de-identified, unannotated: focal cortical defect at the left transverse-sigmoid junction with a venous outpouching through it. Caption: 'Temporal bone CT, axial and coronal.'",
+      "media": "Load image: Axial and coronal temporal bone CT from this patient, your poster Figure 1, de-identified, with the arrows and labels cropped out. Caption: 'Temporal bone CT, axial and coronal.'",
       "question": "What is the finding?",
       "options": [
         {
@@ -145,7 +145,7 @@
     {
       "title": "Step 6/6: What Can Be Offered",
       "scenario": "Fundus normal. MR venography: no transverse sinus stenosis. No other vascular anomaly.\n\nDiagnosis: temporal bone dehiscence at the left transverse-sigmoid junction with an emissary vein diverticulum.\n\nThree years of tinnitus, louder every year. It wakes her.",
-      "media": "",
+      "media": "Load image: Two intraoperative photographs from this patient, your poster Figures 2A and 2B, arrows cropped: the exposed dehiscence with the diverticulum, and the layered reconstruction. Caption: 'Before and after reconstruction.'",
       "question": "What do you offer?",
       "options": [
         {
