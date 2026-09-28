@@ -6,7 +6,6 @@ export const domains = [
     icon: '👂',
     color: 'amber',
     cases: [
-      { id: 'orbit_graves_orbitopathy', zh: 'The Proptotic Orbit: Anchoring and the Asymmetric Eye', en: 'The Proptotic Orbit: Anchoring and the Asymmetric Eye' },
       { id: 'ear_menieres_disease', zh: '天旋地轉與低鳴的浪潮', en: 'The Waves of Vertigo' },
       { id: 'ear_sudden_hearing_loss', zh: '世界突然安靜', en: 'The Silent World' },
       { id: 'ear_pulsatile_tinnitus', zh: '搏動的雜訊與耳悶之謎', en: 'The Pulsating Noise & Blocked Ears' },
